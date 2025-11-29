@@ -5,7 +5,7 @@
     "round": "test-0",
     "revealed_at_block": 0,
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5E7eSeRr2a:254f0fa-test-0"
+    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5E7eSeRr2a:254f0fa-0"
   },
   "5EhrAFV5Jv": {
     "repo": "404-Repo/404-base-miner",
@@ -13,6 +13,6 @@
     "round": "test-0",
     "revealed_at_block": 1,
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5EhrAFV5Jv:254f0fa-test-0"
+    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5EhrAFV5Jv:254f0fa-0"
   }
 }
