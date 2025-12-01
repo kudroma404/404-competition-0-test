@@ -4,15 +4,15 @@
     "commit": "07b1aac71c3eb2b3bffa093085b37332ade20633",
     "round": "test-2",
     "revealed_at_block": 0,
-    "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5e7eserr2a:07b1aac-test-2"
+    "status": "in_progress",
+    "docker_image": null
   },
   "5EhrAFV5Jv": {
     "repo": "404-Repo/404-base-miner",
     "commit": "07b1aac71c3eb2b3bffa093085b37332ade20633",
     "round": "test-2",
     "revealed_at_block": 1,
-    "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5ehrafv5jv:07b1aac-test-2"
+    "status": "in_progress",
+    "docker_image": null
   }
 }
