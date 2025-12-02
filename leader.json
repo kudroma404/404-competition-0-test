@@ -2,5 +2,6 @@
     "hotkey": "5E7eSeRr2aHzCV7SkY4a2Pi5NXHrU4anZz3phEQgn4HCen2B",
     "repo": "404-Repo/404-base-miner",
     "commit": "8af68def6f1392ad3d75bd790f78b4700748f354",
-    "docker": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5e7eserr2a:8af68de-8"
+    "docker": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5e7eserr2a:8af68de-8",
+    "weight": 1.0,
 }
