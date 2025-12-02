@@ -1,0 +1,16 @@
+{
+  "generations": {
+    "089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704": {
+      "ply": "https://subnet404.xyz/rounds//rounds/test-0/5E7eSeRr2a/089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704.ply",
+      "png": "https://subnet404.xyz/rounds//rounds/test-0/5E7eSeRr2a/089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704.png",
+      "generation_time": 11.581878957804292,
+      "size": 0
+    },
+    "dc8e9f96-1677-4f0f-b585-e9e356ec7c44": {
+      "ply": "https://subnet404.xyz/rounds//rounds/test-0/5E7eSeRr2a/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.ply",
+      "png": "https://subnet404.xyz/rounds//rounds/test-0/5E7eSeRr2a/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.png",
+      "generation_time": 9.228430417366326,
+      "size": 0
+    }
+  }
+}
