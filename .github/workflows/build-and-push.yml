@@ -66,11 +66,22 @@ jobs:
       -
         name: Clone repository
         uses: actions/checkout@v4
+        continue-on-error: true
+        id: clone-repo
         with:
           repository: ${{ fromJson(steps.get-repo-info.outputs.repo-info).repo }}
           ref: ${{ fromJson(steps.get-repo-info.outputs.repo-info).commit }}
           path: ${{ matrix.repo }}
           token: ${{ secrets.MINER_GITHUB_TOKEN }}
+      -
+        name: Fallback clone with GITHUB_TOKEN
+        if: steps.clone-repo.outcome == 'failure'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ fromJson(steps.get-repo-info.outputs.repo-info).repo }}
+          ref: ${{ fromJson(steps.get-repo-info.outputs.repo-info).commit }}
+          path: ${{ matrix.repo }}
+          token: ${{ github.token }}
       -
         name: Debug directory structure
         run: |
@@ -172,10 +183,10 @@ jobs:
       -
         name: Display image URL
         run: |
-          echo "::notice title=Built Image::europe-docker.pkg.dev/gen-456515/exp-build-dockers/${{ env.MINER_HOTKEY_LOWER }}:${{ env.DOCKER_TAG }}"
+          echo "::notice title=Built Image::europe-docker.pkg.dev/gen-456515/competition-0/${{ env.MINER_HOTKEY_LOWER }}:${{ env.DOCKER_TAG }}"
       -
         name: Add to summary
         run: |
           echo "### Built Docker Images :whale:" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "- \`europe-docker.pkg.dev/gen-456515/exp-build-dockers/${{ env.MINER_HOTKEY_LOWER }}:${{ env.DOCKER_TAG }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- \`europe-docker.pkg.dev/gen-456515/competition-0/${{ env.MINER_HOTKEY_LOWER }}:${{ env.DOCKER_TAG }}\`" >> $GITHUB_STEP_SUMMARY
