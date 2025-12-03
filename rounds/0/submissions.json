@@ -3,12 +3,12 @@
     "repo": "404-Repo/404-base-miner",
     "commit": "546b4d47f80ef802e011a68bba67d1c45ed944b1",
     "revealed_at_block": 0,
-    "round": "test-1"
+    "round": "test-2"
   },
   "5EhrAFV5Jv": {
     "repo": "404-Repo/404-base-miner",
     "commit": "546b4d47f80ef802e011a68bba67d1c45ed944b1",
     "revealed_at_block": 1,
-    "round": "test-1"
+    "round": "test-2"
   }
 }
