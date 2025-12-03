@@ -1,14 +1,14 @@
 {
   "5E7eSeRr2a": {
     "repo": "404-Repo/404-base-miner",
-    "commit": "546b4d47f80ef802e011a68bba67d1c45ed944b1",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
     "revealed_at_block": 0,
-    "round": "test-3"
+    "round": "test-4"
   },
   "5EhrAFV5Jv": {
     "repo": "404-Repo/404-base-miner",
-    "commit": "546b4d47f80ef802e011a68bba67d1c45ed944b1",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
     "revealed_at_block": 1,
-    "round": "test-3"
+    "round": "test-4"
   }
 }
