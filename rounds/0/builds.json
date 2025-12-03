@@ -2,17 +2,17 @@
   "5E7eSeRr2a": {
     "repo": "404-Repo/404-base-miner",
     "commit": "546b4d47f80ef802e011a68bba67d1c45ed944b1",
-    "round": "test-1",
+    "round": "test-3",
     "revealed_at_block": 0,
-    "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5e7eserr2a:546b4d4-test-1"
+    "status": "in_progress",
+    "docker_image": null
   },
   "5EhrAFV5Jv": {
     "repo": "404-Repo/404-base-miner",
     "commit": "546b4d47f80ef802e011a68bba67d1c45ed944b1",
-    "round": "test-1",
+    "round": "test-3",
     "revealed_at_block": 1,
-    "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5ehrafv5jv:546b4d4-test-1"
+    "status": "in_progress",
+    "docker_image": null
   }
 }
