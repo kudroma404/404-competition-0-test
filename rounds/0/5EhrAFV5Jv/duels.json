@@ -13,7 +13,7 @@
       "miner_ply": "https://subnet404.xyz/rounds/test-0/5EhrAFV5Jv/089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704.ply",
       "miner_png": "https://subnet404.xyz/rounds/test-0/5EhrAFV5Jv/089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704.png",
       "winner": "draw",
-      "issues": "Both models have significant issues with detail accuracy, color matching, and background elements. The first model has black smudges and incorrect flower placement, while the second has similar issues with the base and background elements. Both lack the detailed texture and lighting quality of the original prompt image."
+      "issues": "Both models have significant issues with the background elements (black smudges instead of scattered crumbs/flowers), some character positioning differences, and the overall scene composition doesn't match the prompt's natural, soft-focus background with scattered petals and crumbs."
     },
     {
       "name": "6b4bee6755a0c97bb6d0b85d5cd1a52a66a4778ec7b5900117f74d3514a1f3de",
@@ -33,7 +33,7 @@
       "miner_ply": "https://subnet404.xyz/rounds/test-0/5EhrAFV5Jv/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.ply",
       "miner_png": "https://subnet404.xyz/rounds/test-0/5EhrAFV5Jv/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.png",
       "winner": "draw",
-      "issues": "Both models have significant issues with visual quality and detail. The models appear overly dark, lack proper texture and lighting, and have missing details like proper keyboard layout and screen reflections. They don't match the original prompt's visual quality standards."
+      "issues": "Both models have significant issues with visual quality and detail. The models appear overly dark, lack proper texture details, and have incorrect lighting. The overall style doesn't match the reference image's realistic rendering quality."
     }
   ]
 }
