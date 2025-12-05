@@ -114,7 +114,7 @@ jobs:
         run: |
           COMMIT_SHA=$(echo "${{ fromJson(steps.get-repo-info.outputs.repo-info).commit }}" | cut -c1-7)
           ROUND="${{ fromJson(steps.get-repo-info.outputs.repo-info).round }}"
-          MINER_HOTKEY_LOWER=$(echo "${{ matrix.repo }}" | tr '[:upper:]' '[:lower:]')
+          MINER_HOTKEY_LOWER=$(echo "${{ matrix.repo }}" | tr '[:upper:]' '[:lower:]' | cut -c1-10)
           echo "DOCKER_TAG=${COMMIT_SHA}-${ROUND}" >> $GITHUB_ENV
           echo "MINER_HOTKEY_LOWER=${MINER_HOTKEY_LOWER}" >> $GITHUB_ENV
       -
