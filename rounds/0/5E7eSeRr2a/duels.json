@@ -1,0 +1,39 @@
+{
+  "leader": "leader",
+  "hotkey": "5E7eSeRr2a",
+  "score": 1,
+  "margin": 0.3333333333333333,
+  "outcome": "challenger_wins",
+  "duels": [
+    {
+      "name": "089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704",
+      "prompt": "https://sn12domain.org/089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704.png",
+      "leader_ply": "https://subnet404.xyz/rounds/test-0/leader/089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704.ply",
+      "leader_png": "https://subnet404.xyz/rounds/test-0/leader/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.png",
+      "miner_ply": "https://subnet404.xyz/rounds/test-0/5E7eSeRr2a/089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704.ply",
+      "miner_png": "https://subnet404.xyz/rounds/test-0/5E7eSeRr2a/089464dd730aa246b1110ed68ffcdebe0b048b0bf9f3ea03205c694817392704.png",
+      "winner": "miner",
+      "issues": "First model is completely unrelated (laptop vs animal figurines), second model has minor issues with details and arrangement but generally matches the animal figurine theme"
+    },
+    {
+      "name": "6b4bee6755a0c97bb6d0b85d5cd1a52a66a4778ec7b5900117f74d3514a1f3de",
+      "prompt": "https://sn12domain.org/6b4bee6755a0c97bb6d0b85d5cd1a52a66a4778ec7b5900117f74d3514a1f3de.png",
+      "leader_ply": "https://subnet404.xyz/rounds/test-0/leader/6b4bee6755a0c97bb6d0b85d5cd1a52a66a4778ec7b5900117f74d3514a1f3de.ply",
+      "leader_png": "https://subnet404.xyz/rounds/test-0/leader/6b4bee6755a0c97bb6d0b85d5cd1a52a66a4778ec7b5900117f74d3514a1f3de.png",
+      "miner_ply": "https://subnet404.xyz/rounds/test-0/5E7eSeRr2a/6b4bee6755a0c97bb6d0b85d5cd1a52a66a4778ec7b5900117f74d3514a1f3de.ply",
+      "miner_png": "https://subnet404.xyz/rounds/test-0/5E7eSeRr2a/6b4bee6755a0c97bb6d0b85d5cd1a52a66a4778ec7b5900117f74d3514a1f3de.png",
+      "winner": "draw",
+      "issues": "Both 3D models show lounge chairs and tables on flat surfaces, which are completely unrelated to the underwater house with glass walls, aquatic environment, and underwater architecture shown in the image prompt. The models lack any underwater elements, architectural structures, or aquatic environment features from the prompt."
+    },
+    {
+      "name": "dc8e9f96-1677-4f0f-b585-e9e356ec7c44",
+      "prompt": "https://sn12domain.org/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.png",
+      "leader_ply": "https://subnet404.xyz/rounds/test-0/leader/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.ply",
+      "leader_png": "https://subnet404.xyz/rounds/test-0/leader/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.png",
+      "miner_ply": "https://subnet404.xyz/rounds/test-0/5E7eSeRr2a/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.ply",
+      "miner_png": "https://subnet404.xyz/rounds/test-0/5E7eSeRr2a/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.png",
+      "winner": "draw",
+      "issues": "Both models have significant issues with visual quality and detail. The models appear overly dark, lack proper texture and lighting, and have missing details like proper keyboard layout and screen reflections. They don't match the original prompt's visual quality standards."
+    }
+  ]
+}
