@@ -33,7 +33,7 @@
       "miner_ply": "https://subnet404.xyz/rounds/test-0/5E7eSeRr2a/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.ply",
       "miner_png": "https://subnet404.xyz/rounds/test-0/5E7eSeRr2a/dc8e9f96-1677-4f0f-b585-e9e356ec7c44.png",
       "winner": "draw",
-      "issues": "Both models have significant issues with visual quality and detail. The models appear overly dark, lack proper texture and lighting, and have missing details like proper keyboard layout and screen reflections. They don't match the original prompt's visual quality standards."
+      "issues": "Both models have significant issues with visual quality and detail. The models appear overly dark, lack proper texture details, and have incorrect lighting. The overall style doesn't match the reference image's realistic rendering quality."
     }
   ]
 }
