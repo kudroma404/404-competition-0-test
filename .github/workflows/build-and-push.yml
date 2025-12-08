@@ -31,7 +31,7 @@ jobs:
   bake-push:
     name: Bake and push images to Google Cloud
     runs-on: arc-x86
-    timeout-minutes: 5
+    timeout-minutes: 60
     needs: setup
     strategy:
       fail-fast: false
