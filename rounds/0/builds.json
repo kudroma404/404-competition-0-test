@@ -4,7 +4,7 @@
     "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
     "revealed_at_block": 7023081,
     "tag": "97f5a7e-test0-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL": {
@@ -12,7 +12,7 @@
     "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
     "revealed_at_block": 7023150,
     "tag": "97f5a7e-test0-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   }
 }
