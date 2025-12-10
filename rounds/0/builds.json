@@ -20,8 +20,8 @@
     "commit": "9a721e91a6f2b3741ad47653a2fa9338ff77d1dc",
     "revealed_at_block": 7057703,
     "tag": "9a721e9-contest-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hjznzr8nj:9a721e9-contest-0"
   },
   "5DoZ6AB46d2Dt5WswYfA5Lt45CGVWnVWc9tqFUY69F9kZM1B": {
     "repo": "hugingface/040-midor-2",
@@ -68,8 +68,8 @@
     "commit": "3d29fff20e5707c1cafdb7dbfff72f204e42fc31",
     "revealed_at_block": 7062427,
     "tag": "3d29fff-contest-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gq8zvd7mp:3d29fff-contest-0"
   },
   "5FqZqKgJKbXQ1D73WbMBhiicwoEYUZaWSFX9TZo9C8vgeUnx": {
     "repo": "Uglejo/crispy-umbrella",
@@ -108,8 +108,8 @@
     "commit": "3cbcf44f2e204fb1fcaa7ed01d24a8a2b8c9ae58",
     "revealed_at_block": 7062461,
     "tag": "3cbcf44-contest-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h3pdhjjmf:3cbcf44-contest-0"
   },
   "5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7": {
     "repo": "mokabetrade/symmetrical-adventure",
@@ -132,15 +132,15 @@
     "commit": "347b9b7316b04e36da7095e7d7a5a6415764e018",
     "revealed_at_block": 7067160,
     "tag": "347b9b7-contest-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gberevpc4:347b9b7-contest-0"
   },
   "5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6": {
     "repo": "TuttiGenerator/animated-copper",
     "commit": "8a768e082aa779486fa0a298bf903ac81642a435",
     "revealed_at_block": 7067198,
     "tag": "8a768e0-contest-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gwbnzfsew:8a768e0-contest-0"
   }
 }
