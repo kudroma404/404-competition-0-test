@@ -736,5 +736,35 @@
     "png": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/affae014cd5c771abb185180e880dd5521a701c74796d51f452050fc96812d6a.png",
     "generation_time": 11.26583592300085,
     "size": 47922464
+  },
+  "7ff1615e1d7ce5df07ee4f0b6bb682c31e7aec8c752712098ea360322e435b57": {
+    "ply": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/7ff1615e1d7ce5df07ee4f0b6bb682c31e7aec8c752712098ea360322e435b57.ply",
+    "png": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/7ff1615e1d7ce5df07ee4f0b6bb682c31e7aec8c752712098ea360322e435b57.png",
+    "generation_time": 12.031965935006156,
+    "size": 44939168
+  },
+  "c6ac82b5996bdb91847b8d7a8ea2e47c7d294f6b6b7eb65756cdf6a584e853a9": {
+    "ply": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/c6ac82b5996bdb91847b8d7a8ea2e47c7d294f6b6b7eb65756cdf6a584e853a9.ply",
+    "png": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/c6ac82b5996bdb91847b8d7a8ea2e47c7d294f6b6b7eb65756cdf6a584e853a9.png",
+    "generation_time": 11.316002985004161,
+    "size": 46925856
+  },
+  "951b2dec-dafb-40c5-a406-0e3f540f3153": {
+    "ply": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/951b2dec-dafb-40c5-a406-0e3f540f3153.ply",
+    "png": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/951b2dec-dafb-40c5-a406-0e3f540f3153.png",
+    "generation_time": 11.865395517001161,
+    "size": 55288224
+  },
+  "810016985da9dd41d905b23b48c72f5fb0b55d04564238aef6b6bab9ad56e3b0": {
+    "ply": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/810016985da9dd41d905b23b48c72f5fb0b55d04564238aef6b6bab9ad56e3b0.ply",
+    "png": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/810016985da9dd41d905b23b48c72f5fb0b55d04564238aef6b6bab9ad56e3b0.png",
+    "generation_time": 11.330323684996984,
+    "size": 29465632
+  },
+  "df0b09b7ce6b914e60c551f0083b338fe4887f5d6ceec65e33d2c5840c6c7388": {
+    "ply": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/df0b09b7ce6b914e60c551f0083b338fe4887f5d6ceec65e33d2c5840c6c7388.ply",
+    "png": "https://subnet404.xyz/rounds/0/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/df0b09b7ce6b914e60c551f0083b338fe4887f5d6ceec65e33d2c5840c6c7388.png",
+    "generation_time": 25.43902631400124,
+    "size": 222244001
   }
 }
