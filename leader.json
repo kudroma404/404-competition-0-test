@@ -1,11 +1,20 @@
-[
+{
+  "transitions": [
     {
-        "hotkey": "5E7eSeRr2aHzCV7SkY4a2Pi5NXHrU4anZz3phEQgn4HCen2B",
-        "repo": "404-Repo/404-base-miner",
-        "commit": "8af68def6f1392ad3d75bd790f78b4700748f354",
-        "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:97f5a7e-test1-0",
-        "weight": 0.0,
-        "effective_block": 0
+      "hotkey": "5E7eSeRr2aHzCV7SkY4a2Pi5NXHrU4anZz3phEQgn4HCen2B",
+      "repo": "404-Repo/404-base-miner",
+      "commit": "8af68def6f1392ad3d75bd790f78b4700748f354",
+      "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:97f5a7e-test1-0",
+      "weight": 0.0,
+      "effective_block": 0
+    },
+    {
+      "hotkey": "5EqNLQBYYWMcHdid25TEDGUdgT67ZGLB49QvczcKs5rH58Hh",
+      "repo": "Woler-creator/rift-runner",
+      "commit": "231ba606257573f8f5899b8e1f4e73eb01a731b2",
+      "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5eqnlqbyyw:231ba60-contest-0",
+      "weight": 1.0,
+      "effective_block": 7074718
     }
-]
-
+  ]
+}
