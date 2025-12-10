@@ -1,0 +1,110 @@
+{
+  "5E7eSeRr2aHzCV7SkY4a2Pi5NXHrU4anZz3phEQgn4HCen2B": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "round": "contest-0",
+    "revealed_at_block": 7023081
+  },
+  "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "round": "contest-0",
+    "revealed_at_block": 7054384
+  },
+  "5HjZNZR8njeX6T1JbNT7aezMDPeL3gzGTNF6ucLH52oU59mw": {
+    "repo": "hugingface/040-midor-1",
+    "commit": "9a721e91a6f2b3741ad47653a2fa9338ff77d1dc",
+    "round": "contest-0",
+    "revealed_at_block": 7057703
+  },
+  "5DoZ6AB46d2Dt5WswYfA5Lt45CGVWnVWc9tqFUY69F9kZM1B": {
+    "repo": "hugingface/040-midor-2",
+    "commit": "54b268ce537351a36e9f6bcb2084a5a9f8eb96d5",
+    "round": "contest-0",
+    "revealed_at_block": 7057721
+  },
+  "5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8": {
+    "repo": "hugingface/040-midor-3",
+    "commit": "22b61a29faa19874a95e6b084ec5e1bddceb22ae",
+    "round": "contest-0",
+    "revealed_at_block": 7057782
+  },
+  "5EnVz2rC2WMCSVZnfj3yo1ahoGMnqNq6nA69JUajsEDPGGii": {
+    "repo": "Woler-creator/tensor-tavern",
+    "commit": "a20f9d4bca71298dbe3ca00fff0251b8744c904a",
+    "round": "contest-0",
+    "revealed_at_block": 7062188
+  },
+  "5EqNLQBYYWMcHdid25TEDGUdgT67ZGLB49QvczcKs5rH58Hh": {
+    "repo": "Woler-creator/rift-runner",
+    "commit": "231ba606257573f8f5899b8e1f4e73eb01a731b2",
+    "round": "contest-0",
+    "revealed_at_block": 7062215
+  },
+  "5EjwzQdAutgZe1xVw5w2hGnwww73htfyRB5aiSs2RFzhnSYa": {
+    "repo": "Uglejo/laughing-doodle",
+    "commit": "8d1a33a8ac1336b2bb424606821cbc8cd6e8d164",
+    "round": "contest-0",
+    "revealed_at_block": 7062421
+  },
+  "5Gq8zvd7mP49yHsHWCNobWuR4KZYjstC3vGo4S6fBmPLZaKx": {
+    "repo": "Uglejo/literate-octo-carnival",
+    "commit": "3d29fff20e5707c1cafdb7dbfff72f204e42fc31",
+    "round": "contest-0",
+    "revealed_at_block": 7062427
+  },
+  "5FqZqKgJKbXQ1D73WbMBhiicwoEYUZaWSFX9TZo9C8vgeUnx": {
+    "repo": "Uglejo/crispy-umbrella",
+    "commit": "0c927522b7ffd6f1b5b8eb5133350fe101923b1a",
+    "round": "contest-0",
+    "revealed_at_block": 7062438
+  },
+  "5H99NmXnKw7drfVJXuLsPa99i7DaPUQvB5ijNSKKCqrheXYi": {
+    "repo": "mokabetrade/expert-enigma",
+    "commit": "67c4fc726b9e74e371bb67e9aea947b8a4841083",
+    "round": "contest-0",
+    "revealed_at_block": 7062445
+  },
+  "5DWqUrHcWut49u5bUX6z95rxSuFxZoTsySpAgLkmmv6q1B2Z": {
+    "repo": "Uglejo/miniature-tower",
+    "commit": "36b10c4347b7b964e06c08763e494b619765cb41",
+    "round": "contest-0",
+    "revealed_at_block": 7062450
+  },
+  "5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps": {
+    "repo": "mokabetrade/silver-funicular",
+    "commit": "19bbd862f028f7960641ca4aa3ed5b18d2774152",
+    "round": "contest-0",
+    "revealed_at_block": 7062455
+  },
+  "5H3PdHjjMf9vntGfayWJNnmqRQeRKkhRPr6cS9DgisJWth7M": {
+    "repo": "mokabetrade/symmetrical-adventure",
+    "commit": "3cbcf44f2e204fb1fcaa7ed01d24a8a2b8c9ae58",
+    "round": "contest-0",
+    "revealed_at_block": 7062461
+  },
+  "5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7": {
+    "repo": "mokabetrade/symmetrical-adventure",
+    "commit": "ae7dd55168a8422701b1e9313bc2880cebd45402",
+    "round": "contest-0",
+    "revealed_at_block": 7067133
+  },
+  "5HKPVYWzczvFwAGLnwj3stc9uNKRgdito1i1wD7TwXUfzodf": {
+    "repo": "TuttiGenerator/solid-mango",
+    "commit": "cf9121180976de1d50af56d92d7c8f65ade6d0ab",
+    "round": "contest-0",
+    "revealed_at_block": 7067142
+  },
+  "5GbEreVpc4AqUiuHQUTethLyAFdPJJkAcznWLZXafk4rhHdc": {
+    "repo": "TuttiGenerator/improved-chainsaw",
+    "commit": "347b9b7316b04e36da7095e7d7a5a6415764e018",
+    "round": "contest-0",
+    "revealed_at_block": 7067160
+  },
+  "5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6": {
+    "repo": "TuttiGenerator/animated-copper",
+    "commit": "8a768e082aa779486fa0a298bf903ac81642a435",
+    "round": "contest-0",
+    "revealed_at_block": 7067198
+  }
+}
