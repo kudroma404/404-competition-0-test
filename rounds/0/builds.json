@@ -84,8 +84,8 @@
     "commit": "67c4fc726b9e74e371bb67e9aea947b8a4841083",
     "revealed_at_block": 7062445,
     "tag": "67c4fc7-contest-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h99nmxnkw:67c4fc7-contest-0"
   },
   "5DWqUrHcWut49u5bUX6z95rxSuFxZoTsySpAgLkmmv6q1B2Z": {
     "repo": "Uglejo/miniature-tower",
