@@ -4,7 +4,7 @@
   "first_evaluation_date": "2025-12-10",
   "last_competition_date": "2026-12-10",
   "round_start_time": "12:00:00",
-  "finalization_buffer_hours": 1,
+  "finalization_buffer_hours": 0.1,
   "win_margin": 0.05,
   "weight_decay": 0.2,
   "weight_floor": 0.2,
