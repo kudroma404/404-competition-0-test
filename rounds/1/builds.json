@@ -28,7 +28,7 @@
     "commit": "66bdd2681c0a6de0f22e02218246a1108d9122b9",
     "revealed_at_block": 7068637,
     "tag": "66bdd26-contest-1",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5C8SHzxELrXNYbyFhWrD6NXEsAeo7KD5gVDYBWBa7KiZLato": {
@@ -44,7 +44,7 @@
     "commit": "f911d190b6fb4d9cba9cd3b18fcb6d60022c8a2c",
     "revealed_at_block": 7068644,
     "tag": "f911d19-contest-1",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HNHAurxSUsQF7Nka8p15wywCVFBYZMj9DnBZhC76KqQdyt4": {
@@ -100,7 +100,7 @@
     "commit": "711e0a4dee9d1824ebf3dfda2d030a174deba0d8",
     "revealed_at_block": 7073698,
     "tag": "711e0a4-contest-1",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FA5AaqXhBZrzwWHCL9r74MG42Q8uhXXyE7bqSTTVPdu1awR": {
@@ -108,8 +108,8 @@
     "commit": "42f91feaeaa7104fabba1f3c393d67c17fa74710",
     "revealed_at_block": 7073732,
     "tag": "42f91fe-contest-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fa5aaqxhb:42f91fe-contest-1"
   },
   "5DM7qmzgcpyYUWjjnYePzs2bXA2PzY2xqdgrta6ftaUmYGUs": {
     "repo": "tuandao-zenai/404-gen-miner",
@@ -148,8 +148,8 @@
     "commit": "681b27124fb5f83d672ae22c8ed106f56d7ac9e9",
     "revealed_at_block": 7073869,
     "tag": "681b271-contest-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5encqgemwm:681b271-contest-1"
   },
   "5Gs7VjfyLRrUyYsb8GXgajFiHCQe7dMNRvfU8ZtmXcyHpBfL": {
     "repo": "jakalbill922-bot/404-jakalbill922-13",
@@ -308,8 +308,8 @@
     "commit": "2ae4a49f7dcd083bc0abf8727d32fbb972babf35",
     "revealed_at_block": 7074586,
     "tag": "2ae4a49-contest-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ey9kjejco:2ae4a49-contest-1"
   },
   "5CoJoYm4evNnsHw6aCHnMATCjL3cvRDpst4CMDqCyHnfdSkF": {
     "repo": "jakalbill922-bot/404-jakalbill922-23",
