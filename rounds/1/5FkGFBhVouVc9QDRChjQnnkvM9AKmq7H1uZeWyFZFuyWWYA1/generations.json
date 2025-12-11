@@ -196,5 +196,35 @@
     "png": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/a6912aef907c859d8f95af388cd89e607b9d80fffffe3290e5f9589d5cd8f582.png",
     "generation_time": 66.96029109199299,
     "size": 42282272
+  },
+  "e8409a3ee8cb961e83b9cd280b2b310ef2f45d1a78dc30c214cfa9ac849ed592": {
+    "ply": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/e8409a3ee8cb961e83b9cd280b2b310ef2f45d1a78dc30c214cfa9ac849ed592.ply",
+    "png": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/e8409a3ee8cb961e83b9cd280b2b310ef2f45d1a78dc30c214cfa9ac849ed592.png",
+    "generation_time": 32.38728607198573,
+    "size": 48311968
+  },
+  "2c2f732b-da4a-49e3-beea-21ed30754ebf": {
+    "ply": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/2c2f732b-da4a-49e3-beea-21ed30754ebf.ply",
+    "png": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/2c2f732b-da4a-49e3-beea-21ed30754ebf.png",
+    "generation_time": 56.45450667801197,
+    "size": 21431840
+  },
+  "2b9204a6a17f049df0a6776f87d32aa2afacf2ff25446b37b85247295fdd5bb7": {
+    "ply": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/2b9204a6a17f049df0a6776f87d32aa2afacf2ff25446b37b85247295fdd5bb7.ply",
+    "png": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/2b9204a6a17f049df0a6776f87d32aa2afacf2ff25446b37b85247295fdd5bb7.png",
+    "generation_time": 38.601868952973746,
+    "size": 127440033
+  },
+  "8597948f39440af4cc5b29803635436fe4eb459ec55b13b979b13b4e00ecc2d4": {
+    "ply": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/8597948f39440af4cc5b29803635436fe4eb459ec55b13b979b13b4e00ecc2d4.ply",
+    "png": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/8597948f39440af4cc5b29803635436fe4eb459ec55b13b979b13b4e00ecc2d4.png",
+    "generation_time": 52.63940064099734,
+    "size": 30980128
+  },
+  "cb5975433b6b625be13e0d9ab44431f484927fb925f9b88b9f41c0e708106e9b": {
+    "ply": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/cb5975433b6b625be13e0d9ab44431f484927fb925f9b88b9f41c0e708106e9b.ply",
+    "png": "https://subnet404.xyz/rounds/1/5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1/cb5975433b6b625be13e0d9ab44431f484927fb925f9b88b9f41c0e708106e9b.png",
+    "generation_time": 51.11079292697832,
+    "size": 21701664
   }
 }
