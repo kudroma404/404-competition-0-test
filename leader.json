@@ -20,7 +20,7 @@
     "repo": "Woler-creator/rift-runner",
     "commit": "231ba606257573f8f5899b8e1f4e73eb01a731b2",
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5eqnlqbyyw:231ba60-contest-0",
-    "weight": 0.8,
+    "weight": 0.9,
     "effective_block": 7081918
   }
 ]
