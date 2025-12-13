@@ -580,5 +580,17 @@
     "png": "https://subnet404.xyz/rounds/3/leader/9cd73e3467d88501c2cf6f3117bc2a5f10ac8cc8bdc8b403b9493b0d98e2de17.png",
     "generation_time": 17.11282364098588,
     "size": 91490337
+  },
+  "89290218ba5aa8ea638b1a779504af03e78cc855a2289e4f7764bbaa4fc053d8": {
+    "ply": "https://subnet404.xyz/rounds/3/leader/89290218ba5aa8ea638b1a779504af03e78cc855a2289e4f7764bbaa4fc053d8.ply",
+    "png": "https://subnet404.xyz/rounds/3/leader/89290218ba5aa8ea638b1a779504af03e78cc855a2289e4f7764bbaa4fc053d8.png",
+    "generation_time": 15.902753290021792,
+    "size": 71823649
+  },
+  "4f89525af0727ea8d2f0b049cf91203d57800f721f9c5d51213e6d638b0206b9": {
+    "ply": "https://subnet404.xyz/rounds/3/leader/4f89525af0727ea8d2f0b049cf91203d57800f721f9c5d51213e6d638b0206b9.ply",
+    "png": "https://subnet404.xyz/rounds/3/leader/4f89525af0727ea8d2f0b049cf91203d57800f721f9c5d51213e6d638b0206b9.png",
+    "generation_time": 38.466049393988214,
+    "size": 94464929
   }
 }
