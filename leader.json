@@ -20,7 +20,7 @@
     "repo": "Woler-creator/rift-runner",
     "commit": "231ba606257573f8f5899b8e1f4e73eb01a731b2",
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5eqnlqbyyw:231ba60-contest-0",
-    "weight": 0.9,
+    "weight": 0.8,
     "effective_block": 7081918
   },
   {
@@ -28,7 +28,7 @@
     "repo": "kostik46/3d-gen-miner",
     "commit": "051767958d31ad95634897f8e7c4cef3731bbe0a",
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5f4hanqjax:0517679-contest-2",
-    "weight": 1.0,
+    "weight": 0.99,
     "effective_block": 7089118
   }
 ]
