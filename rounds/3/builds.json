@@ -140,8 +140,8 @@
     "commit": "b9841c1aceb2b32de34f9b6f1d843472672654a5",
     "revealed_at_block": 7086846,
     "tag": "b9841c1-contest-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gzxnfgwp6:b9841c1-contest-3"
   },
   "5CAgtbj1SV88PRrP3toyWFKTtuTDk1sfs9JPbTi5kM1fbHjN": {
     "repo": "hiep-nd11/sn17_edit",
