@@ -30,5 +30,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5f4hanqjax:0517679-contest-2",
     "weight": 0.99,
     "effective_block": 7089118
+  },
+  {
+    "hotkey": "5H3PdHjjMf9vntGfayWJNnmqRQeRKkhRPr6cS9DgisJWth7M",
+    "repo": "mokabetrade/symmetrical-adventure",
+    "commit": "6a3e89a2d41fe98fd38a9b9d16ecf1ee373b2e90",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5h3pdhjjmf:6a3e89a-contest-3",
+    "weight": 1.0,
+    "effective_block": 7096318
   }
 ]
