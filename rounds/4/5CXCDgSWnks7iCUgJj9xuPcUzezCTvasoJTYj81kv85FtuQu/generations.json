@@ -328,5 +328,29 @@
     "png": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/d97476194cca8f06f2115f89569045c4e07eaa24b130a71031655518a35b0c0b.png",
     "generation_time": 13.258606888004579,
     "size": 18374560
+  },
+  "bb73918966fee12c366185a64df1ef630269e6f2733b7f8305e8dca6f1a5d05c": {
+    "ply": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/bb73918966fee12c366185a64df1ef630269e6f2733b7f8305e8dca6f1a5d05c.ply",
+    "png": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/bb73918966fee12c366185a64df1ef630269e6f2733b7f8305e8dca6f1a5d05c.png",
+    "generation_time": 12.37211464898428,
+    "size": 14651424
+  },
+  "0c264ca7-fec6-4360-91f2-e55b66c5ce6c": {
+    "ply": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/0c264ca7-fec6-4360-91f2-e55b66c5ce6c.ply",
+    "png": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/0c264ca7-fec6-4360-91f2-e55b66c5ce6c.png",
+    "generation_time": 20.193299142003525,
+    "size": 73444769
+  },
+  "395cb772f2edb317667e56954cab602b7cbff923ea2d05b816449d06ffa7764d": {
+    "ply": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/395cb772f2edb317667e56954cab602b7cbff923ea2d05b816449d06ffa7764d.ply",
+    "png": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/395cb772f2edb317667e56954cab602b7cbff923ea2d05b816449d06ffa7764d.png",
+    "generation_time": 18.33883808995597,
+    "size": 61478944
+  },
+  "49b07021780875823e47a20880f8ab11b09ce79c12b8af9180a7ed397c04beb2": {
+    "ply": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/49b07021780875823e47a20880f8ab11b09ce79c12b8af9180a7ed397c04beb2.ply",
+    "png": "https://subnet404.xyz/rounds/4/5CXCDgSWnks7iCUgJj9xuPcUzezCTvasoJTYj81kv85FtuQu/49b07021780875823e47a20880f8ab11b09ce79c12b8af9180a7ed397c04beb2.png",
+    "generation_time": 17.542785149009433,
+    "size": 61985952
   }
 }
