@@ -244,8 +244,8 @@
     "commit": "3cdd0fe2c80966e5d2ee38e427eee27ef151c93d",
     "revealed_at_block": 7095536,
     "tag": "3cdd0fe-contest-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ggvbpf9z4:3cdd0fe-contest-4"
   },
   "5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX": {
     "repo": "itwm13/3d-gen-v2",
