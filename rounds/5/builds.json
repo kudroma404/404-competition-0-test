@@ -68,7 +68,7 @@
     "commit": "7b59eda9667b5ebadfd3ddb637098507df9b7451",
     "revealed_at_block": 7096592,
     "tag": "7b59eda-contest-5",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CrJyAVHsUAMG2ZJk8f46f2CTCn4TNvjRHNpfXZs3D6CcsB3": {
@@ -140,8 +140,8 @@
     "commit": "d269f341748ba769dd4aae48be3db2305f2147c9",
     "revealed_at_block": 7096936,
     "tag": "d269f34-contest-5",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ey9kjejco:d269f34-contest-5"
   },
   "5HdwuCGAeTCZXzPC4rS3mC1y1oFXNYBRXYYn8b3PRNkcsWGc": {
     "repo": "tao-hunter/trellis-miner-3",
@@ -156,8 +156,8 @@
     "commit": "84ad8d088dab1badcab29d77055959fd1ebe29e1",
     "revealed_at_block": 7096944,
     "tag": "84ad8d0-contest-5",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5efqh8lmga:84ad8d0-contest-5"
   },
   "5HgByFpa3L6HL8UUhEWd9uDyNyz2WeWxLjXqaxEVmh1ttgPy": {
     "repo": "jakalbill922-bot/404-jakalbill922-20",
@@ -180,15 +180,15 @@
     "commit": "3471a0d0847a3d046971462536f36890c05fa819",
     "revealed_at_block": 7096965,
     "tag": "3471a0d-contest-5",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dtbqeyvnj:3471a0d-contest-5"
   },
   "5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1": {
     "repo": "jakalbill922-bot/404-jakalbill922-02",
     "commit": "01ba20ef596c50a171c22fdca483ac88adb72907",
     "revealed_at_block": 7096972,
     "tag": "01ba20e-contest-5",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g": {
@@ -244,8 +244,8 @@
     "commit": "bb5122309330843957d56429dfdf36556ee5bad9",
     "revealed_at_block": 7098859,
     "tag": "bb51223-contest-5",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fa5aaqxhb:bb51223-contest-5"
   },
   "5FvKHjNfuQK5Zk5hmpftphN4u4VcKbj5rgcnshgi8QveDMwH": {
     "repo": "jakalbill922-bot/404-jakalbill922-11",
@@ -260,7 +260,7 @@
     "commit": "a3953d6bca00f4a2679d873ac501e39ddb5a5fbf",
     "revealed_at_block": 7098904,
     "tag": "a3953d6-contest-5",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EJVvjKPWCEd3hc6u6446tdKELFpYWzyDFV4ZTtWoSahsLU4": {
@@ -284,15 +284,15 @@
     "commit": "8896c30b96c11506b402a4b4bec637bb904dfce8",
     "revealed_at_block": 7098925,
     "tag": "8896c30-contest-5",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5encqgemwm:8896c30-contest-5"
   },
   "5F1kpgzeTqgmtp89A3xbmzCALEUdLtZL51jStvRavHc4iQY1": {
     "repo": "tao-hunter/trellis-miner-4",
     "commit": "aeef57007e58a415b9056aa6a1f661dd2b5ff75b",
     "revealed_at_block": 7099474,
     "tag": "aeef570-contest-5",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GTZSjgBLgrmtD9bH2gLwz84rs8Hmy9QGzx7beYTfT8sNjC7": {
@@ -308,8 +308,8 @@
     "commit": "f0631c8e2f8365f0e38347795c0f29143dd563e6",
     "revealed_at_block": 7100080,
     "tag": "f0631c8-contest-5",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ehyex1feu:f0631c8-contest-5"
   },
   "5GCKsefFMQzbeLtX7iqDPpnybzYUyDquANSinWYo666LLGgf": {
     "repo": "jyotinayarman/404-goat-2",
@@ -348,7 +348,7 @@
     "commit": "edda2b1d45f3ddfbe9559f8984198ba1ee055e6e",
     "revealed_at_block": 7100700,
     "tag": "edda2b1-contest-5",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FGwrxUXtWPwmmv5Vzf3Aw2in8uw5uqyGfuzirBuThgwAivJ": {
@@ -356,8 +356,8 @@
     "commit": "23b79f72b07392dc1dab6060a79eb405350fcd7e",
     "revealed_at_block": 7100849,
     "tag": "23b79f7-contest-5",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fgwrxuxtw:23b79f7-contest-5"
   },
   "5H8ophuGFmq1H1uZ1RrReQ5ZrJWr9LgVppzK9ZrsTNfAJEx4": {
     "repo": "itwm13/NextGen3D",
@@ -396,15 +396,15 @@
     "commit": "b001a155cc295fbf198c54e0f80f9b527cdf4ed7",
     "revealed_at_block": 7101734,
     "tag": "b001a15-contest-5",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ebm5crfaz:b001a15-contest-5"
   },
   "5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP": {
     "repo": "kostik46/3d-gen-miner",
     "commit": "cb7aa803e1bd8b49af910ff32790c8775dada06b",
     "revealed_at_block": 7101890,
     "tag": "cb7aa80-contest-5",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Dhie1cz1a987kPFkvsVwxjKEg2uUMbSgm5N5vq6Drr8mDFH": {
@@ -484,16 +484,16 @@
     "commit": "bb66dcd871727f5d7c03ead4a1664f6f378c8e71",
     "revealed_at_block": 7102405,
     "tag": "bb66dcd-contest-5",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eyaaw3ts8:bb66dcd-contest-5"
   },
   "5FGxe3AFaJ3LsM5LJtxdBS8143WFEd9eNWVKErr29uV1K8wt": {
     "repo": "itwm13/3d-gen-next",
     "commit": "78a25b6891be6c07b24f8a83e15d6736bee4b70a",
     "revealed_at_block": 7102440,
     "tag": "78a25b6-contest-5",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fgxe3afaj:78a25b6-contest-5"
   },
   "5HTMujxdVwf78DNbnLY8dAqyQLykd2mdSzZg47iA2Xs8NmTi": {
     "repo": "itwm13/trellis-3d-pipeline",
@@ -532,8 +532,8 @@
     "commit": "a739a10ed2e6b7b33f43fd381e55ce4ebae1f59c",
     "revealed_at_block": 7102870,
     "tag": "a739a10-contest-5",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eqbtrxap3:a739a10-contest-5"
   },
   "5GZ1nrhXrbWddokdhvwG85iwAkWhHXtt9icaE8ChWpLn1UcG": {
     "repo": "doubtsjohn-del/gen-miner-v15",
