@@ -472,5 +472,29 @@
     "png": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/e19f5547fe8308a8588156ea67f2186e0094ea360f7350d3fe669ece0a167e41.png",
     "generation_time": 14.408597517001908,
     "size": 29626656
+  },
+  "63536479-a591-474b-a446-9e5fd9febfef": {
+    "ply": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/63536479-a591-474b-a446-9e5fd9febfef.ply",
+    "png": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/63536479-a591-474b-a446-9e5fd9febfef.png",
+    "generation_time": 18.6275663410197,
+    "size": 49034400
+  },
+  "60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340": {
+    "ply": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340.ply",
+    "png": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340.png",
+    "generation_time": 29.2568999750074,
+    "size": 28619168
+  },
+  "ecfd6cc508a20a084ea52a501cd57d266721fd0bf6ecf78eafc19ccc5e4438cb": {
+    "ply": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/ecfd6cc508a20a084ea52a501cd57d266721fd0bf6ecf78eafc19ccc5e4438cb.ply",
+    "png": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/ecfd6cc508a20a084ea52a501cd57d266721fd0bf6ecf78eafc19ccc5e4438cb.png",
+    "generation_time": 43.03617994202068,
+    "size": 371332641
+  },
+  "ac1768edd96c0b5acb7892df1c1815bda6219739885b6cb5ad8712a6983bcb76": {
+    "ply": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/ac1768edd96c0b5acb7892df1c1815bda6219739885b6cb5ad8712a6983bcb76.ply",
+    "png": "https://subnet404.xyz/rounds/5/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/ac1768edd96c0b5acb7892df1c1815bda6219739885b6cb5ad8712a6983bcb76.png",
+    "generation_time": 13.341208272031508,
+    "size": 21745184
   }
 }
