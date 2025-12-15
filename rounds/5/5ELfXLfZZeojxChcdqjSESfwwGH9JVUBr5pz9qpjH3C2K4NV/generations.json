@@ -484,5 +484,29 @@
     "png": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340.png",
     "generation_time": 17.344446478993632,
     "size": 30542752
+  },
+  "63536479-a591-474b-a446-9e5fd9febfef": {
+    "ply": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/63536479-a591-474b-a446-9e5fd9febfef.ply",
+    "png": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/63536479-a591-474b-a446-9e5fd9febfef.png",
+    "generation_time": 19.11988021194702,
+    "size": 55640736
+  },
+  "ac1768edd96c0b5acb7892df1c1815bda6219739885b6cb5ad8712a6983bcb76": {
+    "ply": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/ac1768edd96c0b5acb7892df1c1815bda6219739885b6cb5ad8712a6983bcb76.ply",
+    "png": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/ac1768edd96c0b5acb7892df1c1815bda6219739885b6cb5ad8712a6983bcb76.png",
+    "generation_time": 20.68361112504499,
+    "size": 11191584
+  },
+  "2b6f3f07139e9a94e53a506eda10b6a3fbb6a649ff3a94d85bf5f2209c232fc7": {
+    "ply": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/2b6f3f07139e9a94e53a506eda10b6a3fbb6a649ff3a94d85bf5f2209c232fc7.ply",
+    "png": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/2b6f3f07139e9a94e53a506eda10b6a3fbb6a649ff3a94d85bf5f2209c232fc7.png",
+    "generation_time": 16.724500317010097,
+    "size": 16450976
+  },
+  "ff314c11fac379dd96f04174948d5ed6b82bf7e8c14379dbde784e646ee4ff06": {
+    "ply": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/ff314c11fac379dd96f04174948d5ed6b82bf7e8c14379dbde784e646ee4ff06.ply",
+    "png": "https://subnet404.xyz/rounds/5/5ELfXLfZZeojxChcdqjSESfwwGH9JVUBr5pz9qpjH3C2K4NV/ff314c11fac379dd96f04174948d5ed6b82bf7e8c14379dbde784e646ee4ff06.png",
+    "generation_time": 20.03305680298945,
+    "size": 51042848
   }
 }
