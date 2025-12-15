@@ -212,8 +212,8 @@
     "commit": "437e5c3e4fcf565e8ad7ad35d58395900a829d30",
     "revealed_at_block": 7097782,
     "tag": "437e5c3-contest-5",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hqb9sydzf:437e5c3-contest-5"
   },
   "5Dxuor2ysAYjvSpbymhhtGT7KmsLvb4nYDvDaMFzS5MmiBLY": {
     "repo": "jakalbill922-bot/404-jakalbill922-06",
