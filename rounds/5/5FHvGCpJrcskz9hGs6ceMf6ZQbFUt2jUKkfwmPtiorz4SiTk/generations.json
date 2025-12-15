@@ -436,5 +436,29 @@
     "png": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/3cb440d54bfd08d1c2f8211ebc3516e160ff262aac59fdb70ec9661e1556686b.png",
     "generation_time": 79.79223115200875,
     "size": 57992992
+  },
+  "dfdb5d444bb34530313e59076d21f0f76c056a18cafa8b7ac698013254031581": {
+    "ply": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/dfdb5d444bb34530313e59076d21f0f76c056a18cafa8b7ac698013254031581.ply",
+    "png": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/dfdb5d444bb34530313e59076d21f0f76c056a18cafa8b7ac698013254031581.png",
+    "generation_time": 15.251904917007778,
+    "size": 58517408
+  },
+  "6e3257cc-0087-4154-b3b8-4790ad7355d1": {
+    "ply": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/6e3257cc-0087-4154-b3b8-4790ad7355d1.ply",
+    "png": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/6e3257cc-0087-4154-b3b8-4790ad7355d1.png",
+    "generation_time": 13.19884283898864,
+    "size": 28593056
+  },
+  "ea8ecd71be664702147df482f983291859826ebb89912a693dfe630e3265ff9d": {
+    "ply": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/ea8ecd71be664702147df482f983291859826ebb89912a693dfe630e3265ff9d.ply",
+    "png": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/ea8ecd71be664702147df482f983291859826ebb89912a693dfe630e3265ff9d.png",
+    "generation_time": 47.925617285014596,
+    "size": 30594976
+  },
+  "27578ff7308accaa1e395fa459b04f3c0449e308706724211dec9ee82900b089": {
+    "ply": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/27578ff7308accaa1e395fa459b04f3c0449e308706724211dec9ee82900b089.ply",
+    "png": "https://subnet404.xyz/rounds/5/5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk/27578ff7308accaa1e395fa459b04f3c0449e308706724211dec9ee82900b089.png",
+    "generation_time": 13.17928246903466,
+    "size": 17678240
   }
 }
