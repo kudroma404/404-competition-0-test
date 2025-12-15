@@ -468,8 +468,8 @@
     "commit": "5c61c3746050e9919413e29ecf74748e4ac07890",
     "revealed_at_block": 7102175,
     "tag": "5c61c37-contest-5",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hq1vczxma:5c61c37-contest-5"
   },
   "5DVHQ3aRKnqnahxeRTmXUMmwPwouQVRNiVh1iKy4GAdLvcEi": {
     "repo": "kostik46/3d-gen-miner-v6",
@@ -540,8 +540,8 @@
     "commit": "d4366fc4cafc8912b05433192e656bff573c95d5",
     "revealed_at_block": 7102873,
     "tag": "d4366fc-contest-5",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gz1nrhxrb:d4366fc-contest-5"
   },
   "5H8SB1XeB3NgdfwUtYvCDWam2Hj3db7v4NbdPPWDfhmBAdg7": {
     "repo": "doubtsjohn-del/gen-miner-v16",
