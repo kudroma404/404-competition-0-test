@@ -442,5 +442,29 @@
     "png": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/dfdb5d444bb34530313e59076d21f0f76c056a18cafa8b7ac698013254031581.png",
     "generation_time": 12.234408770047594,
     "size": 52685728
+  },
+  "ea8ecd71be664702147df482f983291859826ebb89912a693dfe630e3265ff9d": {
+    "ply": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/ea8ecd71be664702147df482f983291859826ebb89912a693dfe630e3265ff9d.ply",
+    "png": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/ea8ecd71be664702147df482f983291859826ebb89912a693dfe630e3265ff9d.png",
+    "generation_time": 11.36674830497941,
+    "size": 31284768
+  },
+  "6e3257cc-0087-4154-b3b8-4790ad7355d1": {
+    "ply": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/6e3257cc-0087-4154-b3b8-4790ad7355d1.ply",
+    "png": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/6e3257cc-0087-4154-b3b8-4790ad7355d1.png",
+    "generation_time": 10.641286190017127,
+    "size": 23866784
+  },
+  "27578ff7308accaa1e395fa459b04f3c0449e308706724211dec9ee82900b089": {
+    "ply": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/27578ff7308accaa1e395fa459b04f3c0449e308706724211dec9ee82900b089.ply",
+    "png": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/27578ff7308accaa1e395fa459b04f3c0449e308706724211dec9ee82900b089.png",
+    "generation_time": 10.071391217992641,
+    "size": 16168096
+  },
+  "2d99674bf0078adf8b58b4cf75a52896b2192559f97eed2e1926f2f5543c3bfc": {
+    "ply": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/2d99674bf0078adf8b58b4cf75a52896b2192559f97eed2e1926f2f5543c3bfc.ply",
+    "png": "https://subnet404.xyz/rounds/5/5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps/2d99674bf0078adf8b58b4cf75a52896b2192559f97eed2e1926f2f5543c3bfc.png",
+    "generation_time": 13.113778636034112,
+    "size": 65419680
   }
 }
