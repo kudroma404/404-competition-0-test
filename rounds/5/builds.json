@@ -588,7 +588,7 @@
     "commit": "ca8ba205a8391dcb4a27ee036eaf0a15b2831a02",
     "revealed_at_block": 7103384,
     "tag": "ca8ba20-contest-5",
-    "status": "pending",
+    "status": "timed_out",
     "docker_image": null
   },
   "5HEJqKssnxZqz3supbFkCcoNPNNh9EXHJBVGrhamCTQCCaXy": {
