@@ -9,5 +9,6 @@
   "weight_decay": 0.2,
   "weight_floor": 0.2,
   "prompts_per_round": 128,
-  "carryover_prompts": 64
+  "carryover_prompts": 64,
+  "round_duration_days": 3
 }
