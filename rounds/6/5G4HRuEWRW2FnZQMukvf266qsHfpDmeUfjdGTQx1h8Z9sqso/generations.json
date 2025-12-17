@@ -82,5 +82,11 @@
     "png": null,
     "generation_time": 0.0,
     "size": 0
+  },
+  "4db569d457bb3760e734da19507620042024de606e4b50d2b431c50421b94ac5": {
+    "ply": "https://subnet404.xyz/rounds/6/5G4HRuEWRW2FnZQMukvf266qsHfpDmeUfjdGTQx1h8Z9sqso/4db569d457bb3760e734da19507620042024de606e4b50d2b431c50421b94ac5.ply",
+    "png": "https://subnet404.xyz/rounds/6/5G4HRuEWRW2FnZQMukvf266qsHfpDmeUfjdGTQx1h8Z9sqso/4db569d457bb3760e734da19507620042024de606e4b50d2b431c50421b94ac5.png",
+    "generation_time": 167.9289683200186,
+    "size": 61511584
   }
 }
