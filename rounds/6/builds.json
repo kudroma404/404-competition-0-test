@@ -52,8 +52,8 @@
     "commit": "f43a2302e501360faa9a4c90a82af9b5dbbfece2",
     "revealed_at_block": 7103625,
     "tag": "f43a230-contest-6",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgxgfidhv:f43a230-contest-6"
   },
   "5HU3ytPKU6kUwH8Fk7BwrKhk4k41NqJ7zT7updCWyoxf8oht": {
     "repo": "TuttiGenerator/bug-free",
@@ -204,8 +204,8 @@
     "commit": "12099539512db64369a76dd446523efd4e262d7c",
     "revealed_at_block": 7110745,
     "tag": "1209953-contest-6",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgbyfpa3l:1209953-contest-6"
   },
   "5EWiTPJqvTY9ug5SQjp17yAtbjdMZzxUCZBVGMLtUtgUk4Z2": {
     "repo": "jakalbill922-bot/404-jakalbill922-45",
@@ -220,8 +220,8 @@
     "commit": "455d400decbc42913754edd5cfb25316d178cf77",
     "revealed_at_block": 7110759,
     "tag": "455d400-contest-6",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpoxqamjx:455d400-contest-6"
   },
   "5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1": {
     "repo": "jakalbill922-bot/404-jakalbill922-48",
@@ -252,8 +252,8 @@
     "commit": "d09f01e4a596aa61fd1f3fea8fd26ea0e375c231",
     "revealed_at_block": 7110799,
     "tag": "d09f01e-contest-6",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5honpapvyw:d09f01e-contest-6"
   },
   "5Dxuor2ysAYjvSpbymhhtGT7KmsLvb4nYDvDaMFzS5MmiBLY": {
     "repo": "jakalbill922-bot/404-jakalbill922-52",
@@ -468,8 +468,8 @@
     "commit": "48077c0a97f8a11a8ba767c28f33fbd7f6be1049",
     "revealed_at_block": 7111074,
     "tag": "48077c0-contest-6",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpnp2uqmp:48077c0-contest-6"
   },
   "5EvdpT2vBSHKtksSpf14KYWasFbpKW4rKK1pk5FiGRCo7jE7": {
     "repo": "tao-hunter/super-broccoli",
@@ -884,7 +884,7 @@
     "commit": "ced7233245657c4f1a279d0948c2493d15fcd7d5",
     "revealed_at_block": 7117544,
     "tag": "ced7233-contest-6",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gghhp1hxd:ced7233-contest-6"
   }
 }
