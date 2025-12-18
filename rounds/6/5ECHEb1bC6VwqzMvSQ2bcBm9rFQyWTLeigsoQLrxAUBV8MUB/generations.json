@@ -424,5 +424,29 @@
     "png": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/e773eebaac94df28b38c884d36726adbdfb3c597ca259107494d79417116d683.png",
     "generation_time": 17.5764154989738,
     "size": 50775200
+  },
+  "dcf9cbc30f43c39b93b5323646167f711912295168fa29e8cb458201ddcdec45": {
+    "ply": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/dcf9cbc30f43c39b93b5323646167f711912295168fa29e8cb458201ddcdec45.ply",
+    "png": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/dcf9cbc30f43c39b93b5323646167f711912295168fa29e8cb458201ddcdec45.png",
+    "generation_time": 17.428370897076093,
+    "size": 51010208
+  },
+  "14e5aefe0c7333ca425bd26ff8462dd3ae751c7fdc765e08252268f97e640b02": {
+    "ply": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/14e5aefe0c7333ca425bd26ff8462dd3ae751c7fdc765e08252268f97e640b02.ply",
+    "png": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/14e5aefe0c7333ca425bd26ff8462dd3ae751c7fdc765e08252268f97e640b02.png",
+    "generation_time": 15.89638579194434,
+    "size": 38587424
+  },
+  "013489c759b9de196267f12646c21e4afd10552f233d04f9fcf2e7160b51f54a": {
+    "ply": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/013489c759b9de196267f12646c21e4afd10552f233d04f9fcf2e7160b51f54a.ply",
+    "png": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/013489c759b9de196267f12646c21e4afd10552f233d04f9fcf2e7160b51f54a.png",
+    "generation_time": 14.790052291937172,
+    "size": 27544224
+  },
+  "8b1f9d7f-fea7-40f9-bf1e-c2c4922de3c5": {
+    "ply": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/8b1f9d7f-fea7-40f9-bf1e-c2c4922de3c5.ply",
+    "png": "https://subnet404.xyz/rounds/6/5ECHEb1bC6VwqzMvSQ2bcBm9rFQyWTLeigsoQLrxAUBV8MUB/8b1f9d7f-fea7-40f9-bf1e-c2c4922de3c5.png",
+    "generation_time": 22.972682949039154,
+    "size": 94560673
   }
 }
