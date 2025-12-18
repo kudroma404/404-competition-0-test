@@ -508,5 +508,23 @@
     "png": null,
     "generation_time": 0.0,
     "size": 0
+  },
+  "cf1f0706968e4340b03d8ce8c01b8f9867207294fd9acb673e57f174880707b7": {
+    "ply": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0
+  },
+  "89b501cecdfb43d6ddd944e3061b8706157d30b894c2c39bc0330c685b7fa4b4": {
+    "ply": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0
+  },
+  "658e2f659b3e791cfe553691f5b310b32190e3cc9ec7a1176b2ce904f834dfdf": {
+    "ply": "https://subnet404.xyz/rounds/6/5G4HRuEWRW2FnZQMukvf266qsHfpDmeUfjdGTQx1h8Z9sqso/658e2f659b3e791cfe553691f5b310b32190e3cc9ec7a1176b2ce904f834dfdf.ply",
+    "png": "https://subnet404.xyz/rounds/6/5G4HRuEWRW2FnZQMukvf266qsHfpDmeUfjdGTQx1h8Z9sqso/658e2f659b3e791cfe553691f5b310b32190e3cc9ec7a1176b2ce904f834dfdf.png",
+    "generation_time": 111.92999975802377,
+    "size": 16642464
   }
 }
