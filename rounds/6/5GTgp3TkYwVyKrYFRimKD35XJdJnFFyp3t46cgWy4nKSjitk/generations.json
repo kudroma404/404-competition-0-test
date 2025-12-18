@@ -730,5 +730,35 @@
     "png": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/0b9a0ca3b0d2da64552509b59f99d09e54eeef7d3627f90154cf62f9c621e544.png",
     "generation_time": 10.824231553007849,
     "size": 48072608
+  },
+  "b2f428a41de44007cdc1a4e57194e49db9d97fa307aa8dc9941920820c6a9c96": {
+    "ply": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/b2f428a41de44007cdc1a4e57194e49db9d97fa307aa8dc9941920820c6a9c96.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/b2f428a41de44007cdc1a4e57194e49db9d97fa307aa8dc9941920820c6a9c96.png",
+    "generation_time": 9.544669316033833,
+    "size": 19042592
+  },
+  "eb3d230dca7202d3e48f3950fde9b2ce383163593ead45c16dfb060689e67169": {
+    "ply": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/eb3d230dca7202d3e48f3950fde9b2ce383163593ead45c16dfb060689e67169.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/eb3d230dca7202d3e48f3950fde9b2ce383163593ead45c16dfb060689e67169.png",
+    "generation_time": 11.489479731069878,
+    "size": 47395872
+  },
+  "bdd9988c3cfcd6be01c9908f5470c083d61d461d780848a804fc8c6597fc25f8": {
+    "ply": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/bdd9988c3cfcd6be01c9908f5470c083d61d461d780848a804fc8c6597fc25f8.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/bdd9988c3cfcd6be01c9908f5470c083d61d461d780848a804fc8c6597fc25f8.png",
+    "generation_time": 12.464009232935496,
+    "size": 59331232
+  },
+  "a1d4a4f4281b49286ee923e89fa43902f8f45cf5c4a49480a26ba9dad1eb7fde": {
+    "ply": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/a1d4a4f4281b49286ee923e89fa43902f8f45cf5c4a49480a26ba9dad1eb7fde.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/a1d4a4f4281b49286ee923e89fa43902f8f45cf5c4a49480a26ba9dad1eb7fde.png",
+    "generation_time": 12.505480243009515,
+    "size": 83393441
+  },
+  "a14649b9c186508b6862755a231e26a265130babcb7368526b3bae5832e83f39": {
+    "ply": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/a14649b9c186508b6862755a231e26a265130babcb7368526b3bae5832e83f39.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk/a14649b9c186508b6862755a231e26a265130babcb7368526b3bae5832e83f39.png",
+    "generation_time": 10.34785387001466,
+    "size": 36387488
   }
 }
