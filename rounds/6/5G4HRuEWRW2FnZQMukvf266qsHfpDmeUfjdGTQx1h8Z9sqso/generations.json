@@ -340,5 +340,11 @@
     "png": null,
     "generation_time": 0.0,
     "size": 0
+  },
+  "9057afb38cac42878c010953807da791909c3d8a9dfbbec7baee9debf89d7860": {
+    "ply": "https://subnet404.xyz/rounds/6/5G4HRuEWRW2FnZQMukvf266qsHfpDmeUfjdGTQx1h8Z9sqso/9057afb38cac42878c010953807da791909c3d8a9dfbbec7baee9debf89d7860.ply",
+    "png": "https://subnet404.xyz/rounds/6/5G4HRuEWRW2FnZQMukvf266qsHfpDmeUfjdGTQx1h8Z9sqso/9057afb38cac42878c010953807da791909c3d8a9dfbbec7baee9debf89d7860.png",
+    "generation_time": 31.198956742999144,
+    "size": 16420512
   }
 }
