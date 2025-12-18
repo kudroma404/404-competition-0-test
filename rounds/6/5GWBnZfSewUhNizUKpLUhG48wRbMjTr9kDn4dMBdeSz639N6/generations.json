@@ -580,5 +580,29 @@
     "png": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/9cb9f908539e1bc78ccd19dfdafc869dc13344b37d5845ac5d5ca0638534f601.png",
     "generation_time": 19.781835247995332,
     "size": 25172384
+  },
+  "fffa1d42-6004-4b07-bc2e-a4c4610b2c15": {
+    "ply": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.png",
+    "generation_time": 15.847076924983412,
+    "size": 27185184
+  },
+  "ef493d64cb41225ab3511f342f2086ee0cb350e03896ecfa5a64d490afb7dde5": {
+    "ply": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/ef493d64cb41225ab3511f342f2086ee0cb350e03896ecfa5a64d490afb7dde5.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/ef493d64cb41225ab3511f342f2086ee0cb350e03896ecfa5a64d490afb7dde5.png",
+    "generation_time": 16.38109689601697,
+    "size": 28053408
+  },
+  "4f8ab3842f0781a4ccf7ecb68f628a23872f6b02797221a03991fd6d507646cb": {
+    "ply": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/4f8ab3842f0781a4ccf7ecb68f628a23872f6b02797221a03991fd6d507646cb.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/4f8ab3842f0781a4ccf7ecb68f628a23872f6b02797221a03991fd6d507646cb.png",
+    "generation_time": 14.275222111027688,
+    "size": 6130207
+  },
+  "aae7ae7e7f85abc68fe8f8d6fddb0689a59baaeb0912109d7d6f87d16780473c": {
+    "ply": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/aae7ae7e7f85abc68fe8f8d6fddb0689a59baaeb0912109d7d6f87d16780473c.ply",
+    "png": "https://subnet404.xyz/rounds/6/5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6/aae7ae7e7f85abc68fe8f8d6fddb0689a59baaeb0912109d7d6f87d16780473c.png",
+    "generation_time": 17.82777579803951,
+    "size": 55051040
   }
 }
