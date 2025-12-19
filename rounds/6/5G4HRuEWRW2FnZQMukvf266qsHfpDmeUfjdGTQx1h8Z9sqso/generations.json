@@ -276,10 +276,10 @@
     "size": 29709344
   },
   "ecfd6cc508a20a084ea52a501cd57d266721fd0bf6ecf78eafc19ccc5e4438cb": {
-    "ply": "https://subnet404.xyz/rounds/6/5G4HRuEWRW2FnZQMukvf266qsHfpDmeUfjdGTQx1h8Z9sqso/ecfd6cc508a20a084ea52a501cd57d266721fd0bf6ecf78eafc19ccc5e4438cb.ply",
-    "png": "https://subnet404.xyz/rounds/6/5G4HRuEWRW2FnZQMukvf266qsHfpDmeUfjdGTQx1h8Z9sqso/ecfd6cc508a20a084ea52a501cd57d266721fd0bf6ecf78eafc19ccc5e4438cb.png",
-    "generation_time": 183.38266442297027,
-    "size": 45106720
+    "ply": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0
   },
   "63536479-a591-474b-a446-9e5fd9febfef": {
     "ply": null,
