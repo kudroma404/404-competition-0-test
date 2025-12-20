@@ -532,8 +532,8 @@
     "commit": "5e11895662c40e582ffc2dc4711a6386857503b9",
     "revealed_at_block": 7133801,
     "tag": "5e11895-contest-7",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hsu2jsykg:5e11895-contest-7"
   },
   "5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy": {
     "repo": "tao-hunter/miniature-adventure",
