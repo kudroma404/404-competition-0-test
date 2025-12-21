@@ -388,5 +388,29 @@
     "png": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/2bde497e64de9e399da6375804e2aeb21723e0697589a7cf373307e57dd95c81.png",
     "generation_time": 16.2538463230012,
     "size": 60492907
+  },
+  "72d803e00b7abe2d08d56fe469330b24c6c89ef004bff36d4102911b418ec9f0": {
+    "ply": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/72d803e00b7abe2d08d56fe469330b24c6c89ef004bff36d4102911b418ec9f0.ply",
+    "png": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/72d803e00b7abe2d08d56fe469330b24c6c89ef004bff36d4102911b418ec9f0.png",
+    "generation_time": 35.217677849926986,
+    "size": 62668395
+  },
+  "8b1f9d7f-fea7-40f9-bf1e-c2c4922de3c5": {
+    "ply": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/8b1f9d7f-fea7-40f9-bf1e-c2c4922de3c5.ply",
+    "png": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/8b1f9d7f-fea7-40f9-bf1e-c2c4922de3c5.png",
+    "generation_time": 30.343260974041186,
+    "size": 132839531
+  },
+  "0e2c6e78fe33a4a15deeebb8bfa46ac391f31a957e2338cac29e5230dcd20656": {
+    "ply": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/0e2c6e78fe33a4a15deeebb8bfa46ac391f31a957e2338cac29e5230dcd20656.ply",
+    "png": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/0e2c6e78fe33a4a15deeebb8bfa46ac391f31a957e2338cac29e5230dcd20656.png",
+    "generation_time": 23.159815400023945,
+    "size": 30476906
+  },
+  "f8b32da8e09a6baa81853adce39e3fdbde3c813a2f8b0c2ae21f3f164ac7c163": {
+    "ply": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/f8b32da8e09a6baa81853adce39e3fdbde3c813a2f8b0c2ae21f3f164ac7c163.ply",
+    "png": "https://subnet404.xyz/rounds/7/5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2/f8b32da8e09a6baa81853adce39e3fdbde3c813a2f8b0c2ae21f3f164ac7c163.png",
+    "generation_time": 21.39934526802972,
+    "size": 25901930
   }
 }
