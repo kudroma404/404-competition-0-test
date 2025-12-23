@@ -716,8 +716,8 @@
     "commit": "79ead148cd262efa09fc46e91ba761e464fd7c23",
     "revealed_at_block": 7156718,
     "tag": "79ead14-contest-8",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hka29vgk8:79ead14-contest-8"
   },
   "5Ceq8iraFd49ftBrvKCYV8cYd4UhiQvJv1kpSyhEdWiLdN5K": {
     "repo": "Sota-26/sota3d_v2",
