@@ -70,5 +70,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5dhrmriav6:11399eb-contest-4",
     "weight": 0.4000000000000001,
     "effective_block": 7161100
+  },
+  {
+    "hotkey": "5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM",
+    "repo": "tuandao-zenai/multiview_v6",
+    "commit": "9a3d60205c12a5982d6b1a272d95ede41d424bdf",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5g6mp6mh4x:9a3d602-contest-8",
+    "weight": 1.0,
+    "effective_block": 7182691
   }
 ]
