@@ -334,5 +334,29 @@
     "png": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/a1afc9a29b2f04c62a2dbd716f61729eeac3bc6593f0c9184e62462e4a379489.png",
     "generation_time": 18.474117623874918,
     "size": 35319072
+  },
+  "96a86092eb2ba8b407b7327109456d80c1e76b33bddbf715eaeb5f6c3ad0c3c7": {
+    "ply": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/96a86092eb2ba8b407b7327109456d80c1e76b33bddbf715eaeb5f6c3ad0c3c7.ply",
+    "png": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/96a86092eb2ba8b407b7327109456d80c1e76b33bddbf715eaeb5f6c3ad0c3c7.png",
+    "generation_time": 17.044583601877093,
+    "size": 38374176
+  },
+  "7483ea745921efbcb3b8ea021ec2dfb70901357145a7cc90aca09dc11b06d0f7": {
+    "ply": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/7483ea745921efbcb3b8ea021ec2dfb70901357145a7cc90aca09dc11b06d0f7.ply",
+    "png": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/7483ea745921efbcb3b8ea021ec2dfb70901357145a7cc90aca09dc11b06d0f7.png",
+    "generation_time": 16.393886727979407,
+    "size": 22545952
+  },
+  "43b62b6f-dddd-42e1-b540-d781a965967a": {
+    "ply": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/43b62b6f-dddd-42e1-b540-d781a965967a.ply",
+    "png": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/43b62b6f-dddd-42e1-b540-d781a965967a.png",
+    "generation_time": 15.866323126014322,
+    "size": 20295968
+  },
+  "a1d4a4f4281b49286ee923e89fa43902f8f45cf5c4a49480a26ba9dad1eb7fde": {
+    "ply": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/a1d4a4f4281b49286ee923e89fa43902f8f45cf5c4a49480a26ba9dad1eb7fde.ply",
+    "png": "https://subnet404.xyz/rounds/8/5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX/a1d4a4f4281b49286ee923e89fa43902f8f45cf5c4a49480a26ba9dad1eb7fde.png",
+    "generation_time": 17.99933926993981,
+    "size": 71773601
   }
 }
