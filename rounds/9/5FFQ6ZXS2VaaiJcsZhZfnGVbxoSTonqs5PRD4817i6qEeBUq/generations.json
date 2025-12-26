@@ -118,5 +118,29 @@
     "png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.png",
     "generation_time": 11.639404109213501,
     "size": 40305104
+  },
+  "a38a36dfa341c365b1841bac3df47ee39e170455efd6a9fe36fb8ec4f2e658db": {
+    "ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a38a36dfa341c365b1841bac3df47ee39e170455efd6a9fe36fb8ec4f2e658db.ply",
+    "png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a38a36dfa341c365b1841bac3df47ee39e170455efd6a9fe36fb8ec4f2e658db.png",
+    "generation_time": 9.76234177313745,
+    "size": 5343311
+  },
+  "3ecd482e-9b05-4e76-9b67-a7be1b3183e0": {
+    "ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3ecd482e-9b05-4e76-9b67-a7be1b3183e0.ply",
+    "png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3ecd482e-9b05-4e76-9b67-a7be1b3183e0.png",
+    "generation_time": 13.635903735877946,
+    "size": 78758153
+  },
+  "d48fdaea8b8cec973f812aafb3a5d1c6dc0aaf752a536c9a24d650fc467ec2d4": {
+    "ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d48fdaea8b8cec973f812aafb3a5d1c6dc0aaf752a536c9a24d650fc467ec2d4.ply",
+    "png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d48fdaea8b8cec973f812aafb3a5d1c6dc0aaf752a536c9a24d650fc467ec2d4.png",
+    "generation_time": 9.95847928407602,
+    "size": 11642832
+  },
+  "f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d": {
+    "ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d.ply",
+    "png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d.png",
+    "generation_time": 10.123566521098837,
+    "size": 8960980
   }
 }
