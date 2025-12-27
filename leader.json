@@ -78,5 +78,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5g6mp6mh4x:9a3d602-contest-8",
     "weight": 1.0,
     "effective_block": 7182691
+  },
+  {
+    "hotkey": "5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq",
+    "repo": "jyotinayarman/goat-10",
+    "commit": "81fb9d43bb23ae1416776414e0e1cf5f0f58a5dd",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5ffq6zxs2v:81fb9d4-contest-9",
+    "weight": 1.0,
+    "effective_block": 7204280
   }
 ]
