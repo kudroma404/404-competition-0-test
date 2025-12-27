@@ -64,5 +64,29 @@
     "png": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/6c92f66045cd8523b7e84cb9e799c4694c3574ca18efc52d63127f1f61edd1ca.png",
     "generation_time": 23.98027263698168,
     "size": 33867680
+  },
+  "99da178a46f1dc8fe337c647039cf56df39ac72c5f245e809289200885788078": {
+    "ply": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/99da178a46f1dc8fe337c647039cf56df39ac72c5f245e809289200885788078.ply",
+    "png": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/99da178a46f1dc8fe337c647039cf56df39ac72c5f245e809289200885788078.png",
+    "generation_time": 24.445302297128364,
+    "size": 43220128
+  },
+  "ddef1ea68580c673465043a74ff76679209b72b92d7b91d8ed118570f651cd6e": {
+    "ply": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/ddef1ea68580c673465043a74ff76679209b72b92d7b91d8ed118570f651cd6e.ply",
+    "png": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/ddef1ea68580c673465043a74ff76679209b72b92d7b91d8ed118570f651cd6e.png",
+    "generation_time": 24.784637100994587,
+    "size": 43931680
+  },
+  "43b62b6f-dddd-42e1-b540-d781a965967a": {
+    "ply": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/43b62b6f-dddd-42e1-b540-d781a965967a.ply",
+    "png": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/43b62b6f-dddd-42e1-b540-d781a965967a.png",
+    "generation_time": 23.45509029389359,
+    "size": 21129376
+  },
+  "7860f46147866e333a052e0507149d44223dc099d518dacc1e2afed662175e3c": {
+    "ply": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/7860f46147866e333a052e0507149d44223dc099d518dacc1e2afed662175e3c.ply",
+    "png": "https://subnet404.xyz/rounds/9/5EDG7KBasWTRykAAmQuUKiuXKR6M9BuKMtswGr1TXikGqXjy/7860f46147866e333a052e0507149d44223dc099d518dacc1e2afed662175e3c.png",
+    "generation_time": 24.98072949005291,
+    "size": 26171168
   }
 }
