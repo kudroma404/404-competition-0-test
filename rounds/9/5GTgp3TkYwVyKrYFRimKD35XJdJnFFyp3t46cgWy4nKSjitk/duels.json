@@ -1,0 +1,1289 @@
+{
+  "leader": "5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq",
+  "hotkey": "5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk",
+  "score": -128,
+  "margin": -1.0,
+  "outcome": "leader_defends",
+  "duels": [
+    {
+      "name": "0389434f4e33a4ee85c7009eef2192686facdce54a1292aef9fc6d54888bd03b",
+      "prompt": "https://sn12domain.org/0389434f4e33a4ee85c7009eef2192686facdce54a1292aef9fc6d54888bd03b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0389434f4e33a4ee85c7009eef2192686facdce54a1292aef9fc6d54888bd03b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0389434f4e33a4ee85c7009eef2192686facdce54a1292aef9fc6d54888bd03b.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 0389434f4e33a4ee85c7009eef2192686facdce54a1292aef9fc6d54888bd03b from challenger"
+    },
+    {
+      "name": "0818fb68d4e4f46718e9930c9abd1dac7a4bdad462b7d1fdbe62654fa2c02063",
+      "prompt": "https://sn12domain.org/0818fb68d4e4f46718e9930c9abd1dac7a4bdad462b7d1fdbe62654fa2c02063.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0818fb68d4e4f46718e9930c9abd1dac7a4bdad462b7d1fdbe62654fa2c02063.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0818fb68d4e4f46718e9930c9abd1dac7a4bdad462b7d1fdbe62654fa2c02063.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 0818fb68d4e4f46718e9930c9abd1dac7a4bdad462b7d1fdbe62654fa2c02063 from challenger"
+    },
+    {
+      "name": "0ba59ee2dbe675ce6a38985c6707c348f8bebdb9be9d2944c16fc0f4826a7fb8",
+      "prompt": "https://sn12domain.org/0ba59ee2dbe675ce6a38985c6707c348f8bebdb9be9d2944c16fc0f4826a7fb8.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0ba59ee2dbe675ce6a38985c6707c348f8bebdb9be9d2944c16fc0f4826a7fb8.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0ba59ee2dbe675ce6a38985c6707c348f8bebdb9be9d2944c16fc0f4826a7fb8.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 0ba59ee2dbe675ce6a38985c6707c348f8bebdb9be9d2944c16fc0f4826a7fb8 from challenger"
+    },
+    {
+      "name": "0bf7a6cb30a42717ad5346729ce2451179eec807d9e86508c82e395570ed8edc",
+      "prompt": "https://sn12domain.org/0bf7a6cb30a42717ad5346729ce2451179eec807d9e86508c82e395570ed8edc.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0bf7a6cb30a42717ad5346729ce2451179eec807d9e86508c82e395570ed8edc.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0bf7a6cb30a42717ad5346729ce2451179eec807d9e86508c82e395570ed8edc.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 0bf7a6cb30a42717ad5346729ce2451179eec807d9e86508c82e395570ed8edc from challenger"
+    },
+    {
+      "name": "0cdce8dc9ad723240ab568806084a92dc183b9f59d137ba2b6b36a1eaea8fdbd",
+      "prompt": "https://sn12domain.org/0cdce8dc9ad723240ab568806084a92dc183b9f59d137ba2b6b36a1eaea8fdbd.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0cdce8dc9ad723240ab568806084a92dc183b9f59d137ba2b6b36a1eaea8fdbd.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/0cdce8dc9ad723240ab568806084a92dc183b9f59d137ba2b6b36a1eaea8fdbd.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 0cdce8dc9ad723240ab568806084a92dc183b9f59d137ba2b6b36a1eaea8fdbd from challenger"
+    },
+    {
+      "name": "1014fbf7feb550ceba4d767cf66eb7808d0052fc4d29a45c1fa6cc7f402c4e83",
+      "prompt": "https://sn12domain.org/1014fbf7feb550ceba4d767cf66eb7808d0052fc4d29a45c1fa6cc7f402c4e83.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1014fbf7feb550ceba4d767cf66eb7808d0052fc4d29a45c1fa6cc7f402c4e83.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1014fbf7feb550ceba4d767cf66eb7808d0052fc4d29a45c1fa6cc7f402c4e83.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 1014fbf7feb550ceba4d767cf66eb7808d0052fc4d29a45c1fa6cc7f402c4e83 from challenger"
+    },
+    {
+      "name": "103316e3d05e1a1d0edbaafcdcbb68350c269aad6e5dd379988993775a53928c",
+      "prompt": "https://sn12domain.org/103316e3d05e1a1d0edbaafcdcbb68350c269aad6e5dd379988993775a53928c.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/103316e3d05e1a1d0edbaafcdcbb68350c269aad6e5dd379988993775a53928c.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/103316e3d05e1a1d0edbaafcdcbb68350c269aad6e5dd379988993775a53928c.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 103316e3d05e1a1d0edbaafcdcbb68350c269aad6e5dd379988993775a53928c from challenger"
+    },
+    {
+      "name": "109cb158623a7060f5b71d32e18039ecf04b5a29b7a3408a8d7876508b9abdc5",
+      "prompt": "https://sn12domain.org/109cb158623a7060f5b71d32e18039ecf04b5a29b7a3408a8d7876508b9abdc5.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/109cb158623a7060f5b71d32e18039ecf04b5a29b7a3408a8d7876508b9abdc5.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/109cb158623a7060f5b71d32e18039ecf04b5a29b7a3408a8d7876508b9abdc5.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 109cb158623a7060f5b71d32e18039ecf04b5a29b7a3408a8d7876508b9abdc5 from challenger"
+    },
+    {
+      "name": "1a3c1d5d580473c8a04c166339b8179ff4549c9a3d9baaecd01f788504c7d1ed",
+      "prompt": "https://sn12domain.org/1a3c1d5d580473c8a04c166339b8179ff4549c9a3d9baaecd01f788504c7d1ed.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1a3c1d5d580473c8a04c166339b8179ff4549c9a3d9baaecd01f788504c7d1ed.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1a3c1d5d580473c8a04c166339b8179ff4549c9a3d9baaecd01f788504c7d1ed.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 1a3c1d5d580473c8a04c166339b8179ff4549c9a3d9baaecd01f788504c7d1ed from challenger"
+    },
+    {
+      "name": "1a7963ed164daedf4e138483044f9c0ac480e3ccba700bdbba6fe9560958751d",
+      "prompt": "https://sn12domain.org/1a7963ed164daedf4e138483044f9c0ac480e3ccba700bdbba6fe9560958751d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1a7963ed164daedf4e138483044f9c0ac480e3ccba700bdbba6fe9560958751d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1a7963ed164daedf4e138483044f9c0ac480e3ccba700bdbba6fe9560958751d.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 1a7963ed164daedf4e138483044f9c0ac480e3ccba700bdbba6fe9560958751d from challenger"
+    },
+    {
+      "name": "1acf7c53693fcd1e3f6a1266081bfc5ba1f5a795fec863adff1041a1a987b611",
+      "prompt": "https://sn12domain.org/1acf7c53693fcd1e3f6a1266081bfc5ba1f5a795fec863adff1041a1a987b611.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1acf7c53693fcd1e3f6a1266081bfc5ba1f5a795fec863adff1041a1a987b611.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1acf7c53693fcd1e3f6a1266081bfc5ba1f5a795fec863adff1041a1a987b611.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 1acf7c53693fcd1e3f6a1266081bfc5ba1f5a795fec863adff1041a1a987b611 from challenger"
+    },
+    {
+      "name": "1fd0ffdee2b92dce06802d8a8389a84bb148034a6d26880e1e493ce20520b679",
+      "prompt": "https://sn12domain.org/1fd0ffdee2b92dce06802d8a8389a84bb148034a6d26880e1e493ce20520b679.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1fd0ffdee2b92dce06802d8a8389a84bb148034a6d26880e1e493ce20520b679.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/1fd0ffdee2b92dce06802d8a8389a84bb148034a6d26880e1e493ce20520b679.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 1fd0ffdee2b92dce06802d8a8389a84bb148034a6d26880e1e493ce20520b679 from challenger"
+    },
+    {
+      "name": "226edd32ca98ab30cfd6dc65e0ea9906c9bbc9d94553eaddda8f5bf199d1a96f",
+      "prompt": "https://sn12domain.org/226edd32ca98ab30cfd6dc65e0ea9906c9bbc9d94553eaddda8f5bf199d1a96f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/226edd32ca98ab30cfd6dc65e0ea9906c9bbc9d94553eaddda8f5bf199d1a96f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/226edd32ca98ab30cfd6dc65e0ea9906c9bbc9d94553eaddda8f5bf199d1a96f.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 226edd32ca98ab30cfd6dc65e0ea9906c9bbc9d94553eaddda8f5bf199d1a96f from challenger"
+    },
+    {
+      "name": "261ee46ca52df07a017b6f1f1c5a2a03809e96c18334d4aa5877619ca4d761f1",
+      "prompt": "https://sn12domain.org/261ee46ca52df07a017b6f1f1c5a2a03809e96c18334d4aa5877619ca4d761f1.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/261ee46ca52df07a017b6f1f1c5a2a03809e96c18334d4aa5877619ca4d761f1.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/261ee46ca52df07a017b6f1f1c5a2a03809e96c18334d4aa5877619ca4d761f1.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 261ee46ca52df07a017b6f1f1c5a2a03809e96c18334d4aa5877619ca4d761f1 from challenger"
+    },
+    {
+      "name": "2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe",
+      "prompt": "https://sn12domain.org/2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe from challenger"
+    },
+    {
+      "name": "295b0134697089e4ad67fd546067ef34ec734fb6763ac8eaa91e94859d67e484",
+      "prompt": "https://sn12domain.org/295b0134697089e4ad67fd546067ef34ec734fb6763ac8eaa91e94859d67e484.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/295b0134697089e4ad67fd546067ef34ec734fb6763ac8eaa91e94859d67e484.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/295b0134697089e4ad67fd546067ef34ec734fb6763ac8eaa91e94859d67e484.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 295b0134697089e4ad67fd546067ef34ec734fb6763ac8eaa91e94859d67e484 from challenger"
+    },
+    {
+      "name": "2b72f7abb9ba4f586eb29833598306cd8f628351896db2e85e538c06fa4c6fe8",
+      "prompt": "https://sn12domain.org/2b72f7abb9ba4f586eb29833598306cd8f628351896db2e85e538c06fa4c6fe8.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/2b72f7abb9ba4f586eb29833598306cd8f628351896db2e85e538c06fa4c6fe8.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/2b72f7abb9ba4f586eb29833598306cd8f628351896db2e85e538c06fa4c6fe8.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 2b72f7abb9ba4f586eb29833598306cd8f628351896db2e85e538c06fa4c6fe8 from challenger"
+    },
+    {
+      "name": "2fd46d4a00a43e432c5e3f97aad8da63a5313ec5e5eaddd628b048e03617c737",
+      "prompt": "https://sn12domain.org/2fd46d4a00a43e432c5e3f97aad8da63a5313ec5e5eaddd628b048e03617c737.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/2fd46d4a00a43e432c5e3f97aad8da63a5313ec5e5eaddd628b048e03617c737.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/2fd46d4a00a43e432c5e3f97aad8da63a5313ec5e5eaddd628b048e03617c737.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 2fd46d4a00a43e432c5e3f97aad8da63a5313ec5e5eaddd628b048e03617c737 from challenger"
+    },
+    {
+      "name": "329c02cf3233376f50a6a485846de75aee657762fe3666c0273b016302c35a81",
+      "prompt": "https://sn12domain.org/329c02cf3233376f50a6a485846de75aee657762fe3666c0273b016302c35a81.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/329c02cf3233376f50a6a485846de75aee657762fe3666c0273b016302c35a81.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/329c02cf3233376f50a6a485846de75aee657762fe3666c0273b016302c35a81.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 329c02cf3233376f50a6a485846de75aee657762fe3666c0273b016302c35a81 from challenger"
+    },
+    {
+      "name": "34d411923ca3760c48d028c77c069f8e62e0592b4478e2728c344da1f7f88344",
+      "prompt": "https://sn12domain.org/34d411923ca3760c48d028c77c069f8e62e0592b4478e2728c344da1f7f88344.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/34d411923ca3760c48d028c77c069f8e62e0592b4478e2728c344da1f7f88344.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/34d411923ca3760c48d028c77c069f8e62e0592b4478e2728c344da1f7f88344.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 34d411923ca3760c48d028c77c069f8e62e0592b4478e2728c344da1f7f88344 from challenger"
+    },
+    {
+      "name": "364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625",
+      "prompt": "https://sn12domain.org/364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625 from challenger"
+    },
+    {
+      "name": "3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06",
+      "prompt": "https://sn12domain.org/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06 from challenger"
+    },
+    {
+      "name": "3dd4c9c14e27f8b8efdddafe444a007b79da870cbb5fb802ec16a5ebfcd3757d",
+      "prompt": "https://sn12domain.org/3dd4c9c14e27f8b8efdddafe444a007b79da870cbb5fb802ec16a5ebfcd3757d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3dd4c9c14e27f8b8efdddafe444a007b79da870cbb5fb802ec16a5ebfcd3757d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3dd4c9c14e27f8b8efdddafe444a007b79da870cbb5fb802ec16a5ebfcd3757d.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 3dd4c9c14e27f8b8efdddafe444a007b79da870cbb5fb802ec16a5ebfcd3757d from challenger"
+    },
+    {
+      "name": "3ecd482e-9b05-4e76-9b67-a7be1b3183e0",
+      "prompt": "https://sn12domain.org/3ecd482e-9b05-4e76-9b67-a7be1b3183e0.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3ecd482e-9b05-4e76-9b67-a7be1b3183e0.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3ecd482e-9b05-4e76-9b67-a7be1b3183e0.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 3ecd482e-9b05-4e76-9b67-a7be1b3183e0 from challenger"
+    },
+    {
+      "name": "3f1d5d62cb0614cce92d867d793919fe52f580ed9ce5845be9f7b98f5f42c676",
+      "prompt": "https://sn12domain.org/3f1d5d62cb0614cce92d867d793919fe52f580ed9ce5845be9f7b98f5f42c676.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3f1d5d62cb0614cce92d867d793919fe52f580ed9ce5845be9f7b98f5f42c676.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3f1d5d62cb0614cce92d867d793919fe52f580ed9ce5845be9f7b98f5f42c676.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 3f1d5d62cb0614cce92d867d793919fe52f580ed9ce5845be9f7b98f5f42c676 from challenger"
+    },
+    {
+      "name": "3ff1bd13ba151f5be40e33ab3e719fee0abb20353838e0d73a4838d19e569b5b",
+      "prompt": "https://sn12domain.org/3ff1bd13ba151f5be40e33ab3e719fee0abb20353838e0d73a4838d19e569b5b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3ff1bd13ba151f5be40e33ab3e719fee0abb20353838e0d73a4838d19e569b5b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/3ff1bd13ba151f5be40e33ab3e719fee0abb20353838e0d73a4838d19e569b5b.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 3ff1bd13ba151f5be40e33ab3e719fee0abb20353838e0d73a4838d19e569b5b from challenger"
+    },
+    {
+      "name": "42faaea9e35e98055ce49e36d86cefcb430ef8476c5a62ba382fb5a7c416c84d",
+      "prompt": "https://sn12domain.org/42faaea9e35e98055ce49e36d86cefcb430ef8476c5a62ba382fb5a7c416c84d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/42faaea9e35e98055ce49e36d86cefcb430ef8476c5a62ba382fb5a7c416c84d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/42faaea9e35e98055ce49e36d86cefcb430ef8476c5a62ba382fb5a7c416c84d.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 42faaea9e35e98055ce49e36d86cefcb430ef8476c5a62ba382fb5a7c416c84d from challenger"
+    },
+    {
+      "name": "43b62b6f-dddd-42e1-b540-d781a965967a",
+      "prompt": "https://sn12domain.org/43b62b6f-dddd-42e1-b540-d781a965967a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/43b62b6f-dddd-42e1-b540-d781a965967a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/43b62b6f-dddd-42e1-b540-d781a965967a.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 43b62b6f-dddd-42e1-b540-d781a965967a from challenger"
+    },
+    {
+      "name": "449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8",
+      "prompt": "https://sn12domain.org/449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8 from challenger"
+    },
+    {
+      "name": "45863577dae88672494c7c79825accb87f6bb3eb5b4e63e5f82ae69fb343e01f",
+      "prompt": "https://sn12domain.org/45863577dae88672494c7c79825accb87f6bb3eb5b4e63e5f82ae69fb343e01f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/45863577dae88672494c7c79825accb87f6bb3eb5b4e63e5f82ae69fb343e01f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/45863577dae88672494c7c79825accb87f6bb3eb5b4e63e5f82ae69fb343e01f.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 45863577dae88672494c7c79825accb87f6bb3eb5b4e63e5f82ae69fb343e01f from challenger"
+    },
+    {
+      "name": "467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c",
+      "prompt": "https://sn12domain.org/467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c from challenger"
+    },
+    {
+      "name": "4b959a8f0705e09abc1034143cf9527c3ec685b3c24738648a24d7b128de0a18",
+      "prompt": "https://sn12domain.org/4b959a8f0705e09abc1034143cf9527c3ec685b3c24738648a24d7b128de0a18.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4b959a8f0705e09abc1034143cf9527c3ec685b3c24738648a24d7b128de0a18.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4b959a8f0705e09abc1034143cf9527c3ec685b3c24738648a24d7b128de0a18.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 4b959a8f0705e09abc1034143cf9527c3ec685b3c24738648a24d7b128de0a18 from challenger"
+    },
+    {
+      "name": "4c6d3269-5b14-4b69-878a-dbb617e4b6ca",
+      "prompt": "https://sn12domain.org/4c6d3269-5b14-4b69-878a-dbb617e4b6ca.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4c6d3269-5b14-4b69-878a-dbb617e4b6ca.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4c6d3269-5b14-4b69-878a-dbb617e4b6ca.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 4c6d3269-5b14-4b69-878a-dbb617e4b6ca from challenger"
+    },
+    {
+      "name": "4c799bd98af8d0bec8acf878c85c99ad343f80c036849e4764912e5eb3076017",
+      "prompt": "https://sn12domain.org/4c799bd98af8d0bec8acf878c85c99ad343f80c036849e4764912e5eb3076017.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4c799bd98af8d0bec8acf878c85c99ad343f80c036849e4764912e5eb3076017.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4c799bd98af8d0bec8acf878c85c99ad343f80c036849e4764912e5eb3076017.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 4c799bd98af8d0bec8acf878c85c99ad343f80c036849e4764912e5eb3076017 from challenger"
+    },
+    {
+      "name": "4f7b9ccbd34f4ee9173f2a1e8d750d5fd3b4fd6209b06a3f6c9a039d4219af36",
+      "prompt": "https://sn12domain.org/4f7b9ccbd34f4ee9173f2a1e8d750d5fd3b4fd6209b06a3f6c9a039d4219af36.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4f7b9ccbd34f4ee9173f2a1e8d750d5fd3b4fd6209b06a3f6c9a039d4219af36.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4f7b9ccbd34f4ee9173f2a1e8d750d5fd3b4fd6209b06a3f6c9a039d4219af36.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 4f7b9ccbd34f4ee9173f2a1e8d750d5fd3b4fd6209b06a3f6c9a039d4219af36 from challenger"
+    },
+    {
+      "name": "4f88acb4d3d8fdb72d280719060c6e86d4a3f26b718e75151b73b11d3659885e",
+      "prompt": "https://sn12domain.org/4f88acb4d3d8fdb72d280719060c6e86d4a3f26b718e75151b73b11d3659885e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4f88acb4d3d8fdb72d280719060c6e86d4a3f26b718e75151b73b11d3659885e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/4f88acb4d3d8fdb72d280719060c6e86d4a3f26b718e75151b73b11d3659885e.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 4f88acb4d3d8fdb72d280719060c6e86d4a3f26b718e75151b73b11d3659885e from challenger"
+    },
+    {
+      "name": "52a29ac18c25d8b283f1289a6e6513b08870fd7fc7e9ebadd8b61f92565bc869",
+      "prompt": "https://sn12domain.org/52a29ac18c25d8b283f1289a6e6513b08870fd7fc7e9ebadd8b61f92565bc869.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/52a29ac18c25d8b283f1289a6e6513b08870fd7fc7e9ebadd8b61f92565bc869.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/52a29ac18c25d8b283f1289a6e6513b08870fd7fc7e9ebadd8b61f92565bc869.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 52a29ac18c25d8b283f1289a6e6513b08870fd7fc7e9ebadd8b61f92565bc869 from challenger"
+    },
+    {
+      "name": "56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6",
+      "prompt": "https://sn12domain.org/56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6 from challenger"
+    },
+    {
+      "name": "5739aff474a1145cd3759072dbf2971700f1391c785bea8fadcdb29641c4d7cd",
+      "prompt": "https://sn12domain.org/5739aff474a1145cd3759072dbf2971700f1391c785bea8fadcdb29641c4d7cd.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5739aff474a1145cd3759072dbf2971700f1391c785bea8fadcdb29641c4d7cd.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5739aff474a1145cd3759072dbf2971700f1391c785bea8fadcdb29641c4d7cd.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 5739aff474a1145cd3759072dbf2971700f1391c785bea8fadcdb29641c4d7cd from challenger"
+    },
+    {
+      "name": "58ab488ab493d9cdc00cb4ca8223700bed6af74c51325456d3d89ceec228ad1c",
+      "prompt": "https://sn12domain.org/58ab488ab493d9cdc00cb4ca8223700bed6af74c51325456d3d89ceec228ad1c.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/58ab488ab493d9cdc00cb4ca8223700bed6af74c51325456d3d89ceec228ad1c.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/58ab488ab493d9cdc00cb4ca8223700bed6af74c51325456d3d89ceec228ad1c.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 58ab488ab493d9cdc00cb4ca8223700bed6af74c51325456d3d89ceec228ad1c from challenger"
+    },
+    {
+      "name": "5c07918dc41e017293320b2fc8a3391e641c899be0869ffea3ca402d3f5058ea",
+      "prompt": "https://sn12domain.org/5c07918dc41e017293320b2fc8a3391e641c899be0869ffea3ca402d3f5058ea.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5c07918dc41e017293320b2fc8a3391e641c899be0869ffea3ca402d3f5058ea.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5c07918dc41e017293320b2fc8a3391e641c899be0869ffea3ca402d3f5058ea.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 5c07918dc41e017293320b2fc8a3391e641c899be0869ffea3ca402d3f5058ea from challenger"
+    },
+    {
+      "name": "5d9d3370de716f4ec1065b84abc8bf0dbd4cf44a7ddfbc425b814a7cf0c15ad9",
+      "prompt": "https://sn12domain.org/5d9d3370de716f4ec1065b84abc8bf0dbd4cf44a7ddfbc425b814a7cf0c15ad9.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5d9d3370de716f4ec1065b84abc8bf0dbd4cf44a7ddfbc425b814a7cf0c15ad9.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5d9d3370de716f4ec1065b84abc8bf0dbd4cf44a7ddfbc425b814a7cf0c15ad9.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 5d9d3370de716f4ec1065b84abc8bf0dbd4cf44a7ddfbc425b814a7cf0c15ad9 from challenger"
+    },
+    {
+      "name": "5e8aa46eea574bfc673aa8d9f515fcc4e3ee785a5960dc06073c53193de5ec03",
+      "prompt": "https://sn12domain.org/5e8aa46eea574bfc673aa8d9f515fcc4e3ee785a5960dc06073c53193de5ec03.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5e8aa46eea574bfc673aa8d9f515fcc4e3ee785a5960dc06073c53193de5ec03.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5e8aa46eea574bfc673aa8d9f515fcc4e3ee785a5960dc06073c53193de5ec03.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 5e8aa46eea574bfc673aa8d9f515fcc4e3ee785a5960dc06073c53193de5ec03 from challenger"
+    },
+    {
+      "name": "5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8",
+      "prompt": "https://sn12domain.org/5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8 from challenger"
+    },
+    {
+      "name": "5fb32992826792ea15952387d48a7e84e477f0822c29728858f91eedded1dda0",
+      "prompt": "https://sn12domain.org/5fb32992826792ea15952387d48a7e84e477f0822c29728858f91eedded1dda0.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5fb32992826792ea15952387d48a7e84e477f0822c29728858f91eedded1dda0.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5fb32992826792ea15952387d48a7e84e477f0822c29728858f91eedded1dda0.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 5fb32992826792ea15952387d48a7e84e477f0822c29728858f91eedded1dda0 from challenger"
+    },
+    {
+      "name": "5ff3374f9139683d51fff5804ec0995fda0392e67dd2cd8c795255503ef9f971",
+      "prompt": "https://sn12domain.org/5ff3374f9139683d51fff5804ec0995fda0392e67dd2cd8c795255503ef9f971.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5ff3374f9139683d51fff5804ec0995fda0392e67dd2cd8c795255503ef9f971.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/5ff3374f9139683d51fff5804ec0995fda0392e67dd2cd8c795255503ef9f971.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 5ff3374f9139683d51fff5804ec0995fda0392e67dd2cd8c795255503ef9f971 from challenger"
+    },
+    {
+      "name": "60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340",
+      "prompt": "https://sn12domain.org/60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 60864873e3dcef73f60adbdb9fef1eace2b820b86d76967680f4670edf96b340 from challenger"
+    },
+    {
+      "name": "656c99abf95ff5e12d650c2176b8b80df4e5ce09f66a536c09a521525331b0bb",
+      "prompt": "https://sn12domain.org/656c99abf95ff5e12d650c2176b8b80df4e5ce09f66a536c09a521525331b0bb.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/656c99abf95ff5e12d650c2176b8b80df4e5ce09f66a536c09a521525331b0bb.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/656c99abf95ff5e12d650c2176b8b80df4e5ce09f66a536c09a521525331b0bb.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 656c99abf95ff5e12d650c2176b8b80df4e5ce09f66a536c09a521525331b0bb from challenger"
+    },
+    {
+      "name": "6578f9f673cdeb23a36ab60a960be18b45ef574ef82e30fb57b85f5271fe312b",
+      "prompt": "https://sn12domain.org/6578f9f673cdeb23a36ab60a960be18b45ef574ef82e30fb57b85f5271fe312b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6578f9f673cdeb23a36ab60a960be18b45ef574ef82e30fb57b85f5271fe312b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6578f9f673cdeb23a36ab60a960be18b45ef574ef82e30fb57b85f5271fe312b.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 6578f9f673cdeb23a36ab60a960be18b45ef574ef82e30fb57b85f5271fe312b from challenger"
+    },
+    {
+      "name": "67c24d8f467292e4c21847ee7802215544f34fcc91feeecca20f77f4d894c88f",
+      "prompt": "https://sn12domain.org/67c24d8f467292e4c21847ee7802215544f34fcc91feeecca20f77f4d894c88f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/67c24d8f467292e4c21847ee7802215544f34fcc91feeecca20f77f4d894c88f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/67c24d8f467292e4c21847ee7802215544f34fcc91feeecca20f77f4d894c88f.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 67c24d8f467292e4c21847ee7802215544f34fcc91feeecca20f77f4d894c88f from challenger"
+    },
+    {
+      "name": "69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad",
+      "prompt": "https://sn12domain.org/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad from challenger"
+    },
+    {
+      "name": "6c5e165b2ca70be025c9f27a686838938f8f9af145f94da55e5e81ae8b6ff615",
+      "prompt": "https://sn12domain.org/6c5e165b2ca70be025c9f27a686838938f8f9af145f94da55e5e81ae8b6ff615.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6c5e165b2ca70be025c9f27a686838938f8f9af145f94da55e5e81ae8b6ff615.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6c5e165b2ca70be025c9f27a686838938f8f9af145f94da55e5e81ae8b6ff615.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 6c5e165b2ca70be025c9f27a686838938f8f9af145f94da55e5e81ae8b6ff615 from challenger"
+    },
+    {
+      "name": "6c8b3c99ed1eb4e55f6ff1c329559efaccc1c1d943a4a4dfa2717260efd0f7d4",
+      "prompt": "https://sn12domain.org/6c8b3c99ed1eb4e55f6ff1c329559efaccc1c1d943a4a4dfa2717260efd0f7d4.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6c8b3c99ed1eb4e55f6ff1c329559efaccc1c1d943a4a4dfa2717260efd0f7d4.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6c8b3c99ed1eb4e55f6ff1c329559efaccc1c1d943a4a4dfa2717260efd0f7d4.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 6c8b3c99ed1eb4e55f6ff1c329559efaccc1c1d943a4a4dfa2717260efd0f7d4 from challenger"
+    },
+    {
+      "name": "6c92f66045cd8523b7e84cb9e799c4694c3574ca18efc52d63127f1f61edd1ca",
+      "prompt": "https://sn12domain.org/6c92f66045cd8523b7e84cb9e799c4694c3574ca18efc52d63127f1f61edd1ca.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6c92f66045cd8523b7e84cb9e799c4694c3574ca18efc52d63127f1f61edd1ca.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6c92f66045cd8523b7e84cb9e799c4694c3574ca18efc52d63127f1f61edd1ca.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 6c92f66045cd8523b7e84cb9e799c4694c3574ca18efc52d63127f1f61edd1ca from challenger"
+    },
+    {
+      "name": "6d0b277726f0c7da609a007a13082b2a2bfced27754479a2d2b90cc24a7dadf4",
+      "prompt": "https://sn12domain.org/6d0b277726f0c7da609a007a13082b2a2bfced27754479a2d2b90cc24a7dadf4.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6d0b277726f0c7da609a007a13082b2a2bfced27754479a2d2b90cc24a7dadf4.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/6d0b277726f0c7da609a007a13082b2a2bfced27754479a2d2b90cc24a7dadf4.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 6d0b277726f0c7da609a007a13082b2a2bfced27754479a2d2b90cc24a7dadf4 from challenger"
+    },
+    {
+      "name": "7006ccbdf6a6af59062ca148688c9bbafa489b7fee224754f6830530672820af",
+      "prompt": "https://sn12domain.org/7006ccbdf6a6af59062ca148688c9bbafa489b7fee224754f6830530672820af.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7006ccbdf6a6af59062ca148688c9bbafa489b7fee224754f6830530672820af.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7006ccbdf6a6af59062ca148688c9bbafa489b7fee224754f6830530672820af.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 7006ccbdf6a6af59062ca148688c9bbafa489b7fee224754f6830530672820af from challenger"
+    },
+    {
+      "name": "713e94c97ab6add102476b51b5c954fba00ec0fd0dc011341bba2066fb1b1518",
+      "prompt": "https://sn12domain.org/713e94c97ab6add102476b51b5c954fba00ec0fd0dc011341bba2066fb1b1518.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/713e94c97ab6add102476b51b5c954fba00ec0fd0dc011341bba2066fb1b1518.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/713e94c97ab6add102476b51b5c954fba00ec0fd0dc011341bba2066fb1b1518.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 713e94c97ab6add102476b51b5c954fba00ec0fd0dc011341bba2066fb1b1518 from challenger"
+    },
+    {
+      "name": "715afe937c361b7d5f32bfb5128a3191dccbcd4a470b159a41bdd11b7589b2c7",
+      "prompt": "https://sn12domain.org/715afe937c361b7d5f32bfb5128a3191dccbcd4a470b159a41bdd11b7589b2c7.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/715afe937c361b7d5f32bfb5128a3191dccbcd4a470b159a41bdd11b7589b2c7.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/715afe937c361b7d5f32bfb5128a3191dccbcd4a470b159a41bdd11b7589b2c7.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 715afe937c361b7d5f32bfb5128a3191dccbcd4a470b159a41bdd11b7589b2c7 from challenger"
+    },
+    {
+      "name": "7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34",
+      "prompt": "https://sn12domain.org/7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34 from challenger"
+    },
+    {
+      "name": "74978a562d34a9eb3b44664230a2ab9fa7d3e289b938dedcfede0e2d234608da",
+      "prompt": "https://sn12domain.org/74978a562d34a9eb3b44664230a2ab9fa7d3e289b938dedcfede0e2d234608da.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/74978a562d34a9eb3b44664230a2ab9fa7d3e289b938dedcfede0e2d234608da.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/74978a562d34a9eb3b44664230a2ab9fa7d3e289b938dedcfede0e2d234608da.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 74978a562d34a9eb3b44664230a2ab9fa7d3e289b938dedcfede0e2d234608da from challenger"
+    },
+    {
+      "name": "76967c4715c44c80b3524c4be6517f9f4542f6e0e6efea7a93a237d4d315b760",
+      "prompt": "https://sn12domain.org/76967c4715c44c80b3524c4be6517f9f4542f6e0e6efea7a93a237d4d315b760.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/76967c4715c44c80b3524c4be6517f9f4542f6e0e6efea7a93a237d4d315b760.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/76967c4715c44c80b3524c4be6517f9f4542f6e0e6efea7a93a237d4d315b760.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 76967c4715c44c80b3524c4be6517f9f4542f6e0e6efea7a93a237d4d315b760 from challenger"
+    },
+    {
+      "name": "76fec295-fbbe-4b3f-9ad1-74d2a3f8f42e",
+      "prompt": "https://sn12domain.org/76fec295-fbbe-4b3f-9ad1-74d2a3f8f42e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/76fec295-fbbe-4b3f-9ad1-74d2a3f8f42e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/76fec295-fbbe-4b3f-9ad1-74d2a3f8f42e.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 76fec295-fbbe-4b3f-9ad1-74d2a3f8f42e from challenger"
+    },
+    {
+      "name": "7860f46147866e333a052e0507149d44223dc099d518dacc1e2afed662175e3c",
+      "prompt": "https://sn12domain.org/7860f46147866e333a052e0507149d44223dc099d518dacc1e2afed662175e3c.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7860f46147866e333a052e0507149d44223dc099d518dacc1e2afed662175e3c.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7860f46147866e333a052e0507149d44223dc099d518dacc1e2afed662175e3c.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 7860f46147866e333a052e0507149d44223dc099d518dacc1e2afed662175e3c from challenger"
+    },
+    {
+      "name": "7b39e9275d8f27800858bc59e490f61572a469b42f9be5169f5b1faf824f1f41",
+      "prompt": "https://sn12domain.org/7b39e9275d8f27800858bc59e490f61572a469b42f9be5169f5b1faf824f1f41.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7b39e9275d8f27800858bc59e490f61572a469b42f9be5169f5b1faf824f1f41.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7b39e9275d8f27800858bc59e490f61572a469b42f9be5169f5b1faf824f1f41.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 7b39e9275d8f27800858bc59e490f61572a469b42f9be5169f5b1faf824f1f41 from challenger"
+    },
+    {
+      "name": "7e821772287eaecaa54af4f44b2a8a0d2ed36bdecfb0872a6358a4cee15ce965",
+      "prompt": "https://sn12domain.org/7e821772287eaecaa54af4f44b2a8a0d2ed36bdecfb0872a6358a4cee15ce965.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7e821772287eaecaa54af4f44b2a8a0d2ed36bdecfb0872a6358a4cee15ce965.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7e821772287eaecaa54af4f44b2a8a0d2ed36bdecfb0872a6358a4cee15ce965.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 7e821772287eaecaa54af4f44b2a8a0d2ed36bdecfb0872a6358a4cee15ce965 from challenger"
+    },
+    {
+      "name": "7ea0eb96627c5787260dc624fb3b2a312cb1ced08e0da2bdef353fdfd4dc22ff",
+      "prompt": "https://sn12domain.org/7ea0eb96627c5787260dc624fb3b2a312cb1ced08e0da2bdef353fdfd4dc22ff.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7ea0eb96627c5787260dc624fb3b2a312cb1ced08e0da2bdef353fdfd4dc22ff.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7ea0eb96627c5787260dc624fb3b2a312cb1ced08e0da2bdef353fdfd4dc22ff.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 7ea0eb96627c5787260dc624fb3b2a312cb1ced08e0da2bdef353fdfd4dc22ff from challenger"
+    },
+    {
+      "name": "7f691c0b893a85f92a4ff3d2fa6d05db141af1b1938ba570fdb474a688ead51e",
+      "prompt": "https://sn12domain.org/7f691c0b893a85f92a4ff3d2fa6d05db141af1b1938ba570fdb474a688ead51e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7f691c0b893a85f92a4ff3d2fa6d05db141af1b1938ba570fdb474a688ead51e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7f691c0b893a85f92a4ff3d2fa6d05db141af1b1938ba570fdb474a688ead51e.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 7f691c0b893a85f92a4ff3d2fa6d05db141af1b1938ba570fdb474a688ead51e from challenger"
+    },
+    {
+      "name": "7fc7e2ce31d9ceff1351199183a5e37bfb868d76aa2a304f0bbb96e55e031fa5",
+      "prompt": "https://sn12domain.org/7fc7e2ce31d9ceff1351199183a5e37bfb868d76aa2a304f0bbb96e55e031fa5.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7fc7e2ce31d9ceff1351199183a5e37bfb868d76aa2a304f0bbb96e55e031fa5.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/7fc7e2ce31d9ceff1351199183a5e37bfb868d76aa2a304f0bbb96e55e031fa5.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 7fc7e2ce31d9ceff1351199183a5e37bfb868d76aa2a304f0bbb96e55e031fa5 from challenger"
+    },
+    {
+      "name": "84764b6e8a8b93192ffae3a1e9867063de72e1ac22cbdbbf49fad8f37dac421f",
+      "prompt": "https://sn12domain.org/84764b6e8a8b93192ffae3a1e9867063de72e1ac22cbdbbf49fad8f37dac421f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/84764b6e8a8b93192ffae3a1e9867063de72e1ac22cbdbbf49fad8f37dac421f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/84764b6e8a8b93192ffae3a1e9867063de72e1ac22cbdbbf49fad8f37dac421f.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 84764b6e8a8b93192ffae3a1e9867063de72e1ac22cbdbbf49fad8f37dac421f from challenger"
+    },
+    {
+      "name": "85506fd52cfc5ec1dee7195c2f6b659e2b8d6d98fe4c01c4e02b52838938b151",
+      "prompt": "https://sn12domain.org/85506fd52cfc5ec1dee7195c2f6b659e2b8d6d98fe4c01c4e02b52838938b151.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/85506fd52cfc5ec1dee7195c2f6b659e2b8d6d98fe4c01c4e02b52838938b151.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/85506fd52cfc5ec1dee7195c2f6b659e2b8d6d98fe4c01c4e02b52838938b151.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 85506fd52cfc5ec1dee7195c2f6b659e2b8d6d98fe4c01c4e02b52838938b151 from challenger"
+    },
+    {
+      "name": "88f9719b883378b80f1a76c6e74dbdeabda5f93e9026e164b1031fb659371e41",
+      "prompt": "https://sn12domain.org/88f9719b883378b80f1a76c6e74dbdeabda5f93e9026e164b1031fb659371e41.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/88f9719b883378b80f1a76c6e74dbdeabda5f93e9026e164b1031fb659371e41.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/88f9719b883378b80f1a76c6e74dbdeabda5f93e9026e164b1031fb659371e41.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 88f9719b883378b80f1a76c6e74dbdeabda5f93e9026e164b1031fb659371e41 from challenger"
+    },
+    {
+      "name": "89bf970ded65a92db2ac1369d6feb5d22b6d40d3a909e9cf54bf16ca98a40603",
+      "prompt": "https://sn12domain.org/89bf970ded65a92db2ac1369d6feb5d22b6d40d3a909e9cf54bf16ca98a40603.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/89bf970ded65a92db2ac1369d6feb5d22b6d40d3a909e9cf54bf16ca98a40603.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/89bf970ded65a92db2ac1369d6feb5d22b6d40d3a909e9cf54bf16ca98a40603.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 89bf970ded65a92db2ac1369d6feb5d22b6d40d3a909e9cf54bf16ca98a40603 from challenger"
+    },
+    {
+      "name": "8badd8b208bbef992ce9fd237cd36f4635f6e50cebe9481b228c7dea44ecc32f",
+      "prompt": "https://sn12domain.org/8badd8b208bbef992ce9fd237cd36f4635f6e50cebe9481b228c7dea44ecc32f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/8badd8b208bbef992ce9fd237cd36f4635f6e50cebe9481b228c7dea44ecc32f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/8badd8b208bbef992ce9fd237cd36f4635f6e50cebe9481b228c7dea44ecc32f.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 8badd8b208bbef992ce9fd237cd36f4635f6e50cebe9481b228c7dea44ecc32f from challenger"
+    },
+    {
+      "name": "8c8b540254ab5bc457af94331acddcf5643acaf3fe1f4db77c3d5da6ec47b159",
+      "prompt": "https://sn12domain.org/8c8b540254ab5bc457af94331acddcf5643acaf3fe1f4db77c3d5da6ec47b159.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/8c8b540254ab5bc457af94331acddcf5643acaf3fe1f4db77c3d5da6ec47b159.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/8c8b540254ab5bc457af94331acddcf5643acaf3fe1f4db77c3d5da6ec47b159.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 8c8b540254ab5bc457af94331acddcf5643acaf3fe1f4db77c3d5da6ec47b159 from challenger"
+    },
+    {
+      "name": "9159c59a5eca30402f9c693cbaa92686705432d95e0eac25d7bc9917b6b13210",
+      "prompt": "https://sn12domain.org/9159c59a5eca30402f9c693cbaa92686705432d95e0eac25d7bc9917b6b13210.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/9159c59a5eca30402f9c693cbaa92686705432d95e0eac25d7bc9917b6b13210.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/9159c59a5eca30402f9c693cbaa92686705432d95e0eac25d7bc9917b6b13210.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 9159c59a5eca30402f9c693cbaa92686705432d95e0eac25d7bc9917b6b13210 from challenger"
+    },
+    {
+      "name": "93618dbf35154508b1dd4760d3cfb17441a893d06ce491dbfaf994d7d142e989",
+      "prompt": "https://sn12domain.org/93618dbf35154508b1dd4760d3cfb17441a893d06ce491dbfaf994d7d142e989.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/93618dbf35154508b1dd4760d3cfb17441a893d06ce491dbfaf994d7d142e989.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/93618dbf35154508b1dd4760d3cfb17441a893d06ce491dbfaf994d7d142e989.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 93618dbf35154508b1dd4760d3cfb17441a893d06ce491dbfaf994d7d142e989 from challenger"
+    },
+    {
+      "name": "96aab17b7bfa359045fcf05797cd58959a10419e8b0b874a7da9044a73625f72",
+      "prompt": "https://sn12domain.org/96aab17b7bfa359045fcf05797cd58959a10419e8b0b874a7da9044a73625f72.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/96aab17b7bfa359045fcf05797cd58959a10419e8b0b874a7da9044a73625f72.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/96aab17b7bfa359045fcf05797cd58959a10419e8b0b874a7da9044a73625f72.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 96aab17b7bfa359045fcf05797cd58959a10419e8b0b874a7da9044a73625f72 from challenger"
+    },
+    {
+      "name": "988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9",
+      "prompt": "https://sn12domain.org/988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9 from challenger"
+    },
+    {
+      "name": "99221c94762a1948d33c37524b1833aafd27e46c7838e42ad900e392b84def06",
+      "prompt": "https://sn12domain.org/99221c94762a1948d33c37524b1833aafd27e46c7838e42ad900e392b84def06.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/99221c94762a1948d33c37524b1833aafd27e46c7838e42ad900e392b84def06.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/99221c94762a1948d33c37524b1833aafd27e46c7838e42ad900e392b84def06.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 99221c94762a1948d33c37524b1833aafd27e46c7838e42ad900e392b84def06 from challenger"
+    },
+    {
+      "name": "99b4d83361a8bec719d540ab65b4f4ee8cf7ad6fa512bf0df39b06e8c88cba32",
+      "prompt": "https://sn12domain.org/99b4d83361a8bec719d540ab65b4f4ee8cf7ad6fa512bf0df39b06e8c88cba32.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/99b4d83361a8bec719d540ab65b4f4ee8cf7ad6fa512bf0df39b06e8c88cba32.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/99b4d83361a8bec719d540ab65b4f4ee8cf7ad6fa512bf0df39b06e8c88cba32.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 99b4d83361a8bec719d540ab65b4f4ee8cf7ad6fa512bf0df39b06e8c88cba32 from challenger"
+    },
+    {
+      "name": "99da178a46f1dc8fe337c647039cf56df39ac72c5f245e809289200885788078",
+      "prompt": "https://sn12domain.org/99da178a46f1dc8fe337c647039cf56df39ac72c5f245e809289200885788078.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/99da178a46f1dc8fe337c647039cf56df39ac72c5f245e809289200885788078.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/99da178a46f1dc8fe337c647039cf56df39ac72c5f245e809289200885788078.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 99da178a46f1dc8fe337c647039cf56df39ac72c5f245e809289200885788078 from challenger"
+    },
+    {
+      "name": "9bf3a49883eb3b428a42a22de9514374613881276627104b83c1bcc14da6ccc7",
+      "prompt": "https://sn12domain.org/9bf3a49883eb3b428a42a22de9514374613881276627104b83c1bcc14da6ccc7.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/9bf3a49883eb3b428a42a22de9514374613881276627104b83c1bcc14da6ccc7.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/9bf3a49883eb3b428a42a22de9514374613881276627104b83c1bcc14da6ccc7.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for 9bf3a49883eb3b428a42a22de9514374613881276627104b83c1bcc14da6ccc7 from challenger"
+    },
+    {
+      "name": "a02dabfcef9381551b5f41e247842e947ae64241e4817725f443069f6ed18b7f",
+      "prompt": "https://sn12domain.org/a02dabfcef9381551b5f41e247842e947ae64241e4817725f443069f6ed18b7f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a02dabfcef9381551b5f41e247842e947ae64241e4817725f443069f6ed18b7f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a02dabfcef9381551b5f41e247842e947ae64241e4817725f443069f6ed18b7f.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for a02dabfcef9381551b5f41e247842e947ae64241e4817725f443069f6ed18b7f from challenger"
+    },
+    {
+      "name": "a05c9a0d51d61584267193144e751e950486c63c5b0e85b21fc0cd2f6e552857",
+      "prompt": "https://sn12domain.org/a05c9a0d51d61584267193144e751e950486c63c5b0e85b21fc0cd2f6e552857.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a05c9a0d51d61584267193144e751e950486c63c5b0e85b21fc0cd2f6e552857.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a05c9a0d51d61584267193144e751e950486c63c5b0e85b21fc0cd2f6e552857.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for a05c9a0d51d61584267193144e751e950486c63c5b0e85b21fc0cd2f6e552857 from challenger"
+    },
+    {
+      "name": "a14649b9c186508b6862755a231e26a265130babcb7368526b3bae5832e83f39",
+      "prompt": "https://sn12domain.org/a14649b9c186508b6862755a231e26a265130babcb7368526b3bae5832e83f39.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a14649b9c186508b6862755a231e26a265130babcb7368526b3bae5832e83f39.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a14649b9c186508b6862755a231e26a265130babcb7368526b3bae5832e83f39.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for a14649b9c186508b6862755a231e26a265130babcb7368526b3bae5832e83f39 from challenger"
+    },
+    {
+      "name": "a1afc9a29b2f04c62a2dbd716f61729eeac3bc6593f0c9184e62462e4a379489",
+      "prompt": "https://sn12domain.org/a1afc9a29b2f04c62a2dbd716f61729eeac3bc6593f0c9184e62462e4a379489.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a1afc9a29b2f04c62a2dbd716f61729eeac3bc6593f0c9184e62462e4a379489.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a1afc9a29b2f04c62a2dbd716f61729eeac3bc6593f0c9184e62462e4a379489.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for a1afc9a29b2f04c62a2dbd716f61729eeac3bc6593f0c9184e62462e4a379489 from challenger"
+    },
+    {
+      "name": "a38a36dfa341c365b1841bac3df47ee39e170455efd6a9fe36fb8ec4f2e658db",
+      "prompt": "https://sn12domain.org/a38a36dfa341c365b1841bac3df47ee39e170455efd6a9fe36fb8ec4f2e658db.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a38a36dfa341c365b1841bac3df47ee39e170455efd6a9fe36fb8ec4f2e658db.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a38a36dfa341c365b1841bac3df47ee39e170455efd6a9fe36fb8ec4f2e658db.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for a38a36dfa341c365b1841bac3df47ee39e170455efd6a9fe36fb8ec4f2e658db from challenger"
+    },
+    {
+      "name": "a519c6bb38bbffdaa1eee6468a1e88e99ca697fee0d55e4af5db0da724783e55",
+      "prompt": "https://sn12domain.org/a519c6bb38bbffdaa1eee6468a1e88e99ca697fee0d55e4af5db0da724783e55.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a519c6bb38bbffdaa1eee6468a1e88e99ca697fee0d55e4af5db0da724783e55.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a519c6bb38bbffdaa1eee6468a1e88e99ca697fee0d55e4af5db0da724783e55.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for a519c6bb38bbffdaa1eee6468a1e88e99ca697fee0d55e4af5db0da724783e55 from challenger"
+    },
+    {
+      "name": "a7a515716267db535d65f6982288ed21111c0330dc3abd5c7500bb7b30ece24a",
+      "prompt": "https://sn12domain.org/a7a515716267db535d65f6982288ed21111c0330dc3abd5c7500bb7b30ece24a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a7a515716267db535d65f6982288ed21111c0330dc3abd5c7500bb7b30ece24a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a7a515716267db535d65f6982288ed21111c0330dc3abd5c7500bb7b30ece24a.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for a7a515716267db535d65f6982288ed21111c0330dc3abd5c7500bb7b30ece24a from challenger"
+    },
+    {
+      "name": "a7b060c7a72d4f3683fa82b0dd11a5a2d3defcc71a30e8fae0411fd9266c1572",
+      "prompt": "https://sn12domain.org/a7b060c7a72d4f3683fa82b0dd11a5a2d3defcc71a30e8fae0411fd9266c1572.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a7b060c7a72d4f3683fa82b0dd11a5a2d3defcc71a30e8fae0411fd9266c1572.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/a7b060c7a72d4f3683fa82b0dd11a5a2d3defcc71a30e8fae0411fd9266c1572.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for a7b060c7a72d4f3683fa82b0dd11a5a2d3defcc71a30e8fae0411fd9266c1572 from challenger"
+    },
+    {
+      "name": "ac1855012d88079de18eeaa5f221b4dd56cd274fef9935976529b4e9bc3848d2",
+      "prompt": "https://sn12domain.org/ac1855012d88079de18eeaa5f221b4dd56cd274fef9935976529b4e9bc3848d2.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ac1855012d88079de18eeaa5f221b4dd56cd274fef9935976529b4e9bc3848d2.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ac1855012d88079de18eeaa5f221b4dd56cd274fef9935976529b4e9bc3848d2.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for ac1855012d88079de18eeaa5f221b4dd56cd274fef9935976529b4e9bc3848d2 from challenger"
+    },
+    {
+      "name": "ac95819bbee4dc432018cc7ec43066fc35fa7ed4619b3047d8317f08646afafa",
+      "prompt": "https://sn12domain.org/ac95819bbee4dc432018cc7ec43066fc35fa7ed4619b3047d8317f08646afafa.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ac95819bbee4dc432018cc7ec43066fc35fa7ed4619b3047d8317f08646afafa.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ac95819bbee4dc432018cc7ec43066fc35fa7ed4619b3047d8317f08646afafa.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for ac95819bbee4dc432018cc7ec43066fc35fa7ed4619b3047d8317f08646afafa from challenger"
+    },
+    {
+      "name": "ae32314c7b3f4e52777fb675ec65a8f38075d2c0409ba25f8be20b349f3e98e1",
+      "prompt": "https://sn12domain.org/ae32314c7b3f4e52777fb675ec65a8f38075d2c0409ba25f8be20b349f3e98e1.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ae32314c7b3f4e52777fb675ec65a8f38075d2c0409ba25f8be20b349f3e98e1.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ae32314c7b3f4e52777fb675ec65a8f38075d2c0409ba25f8be20b349f3e98e1.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for ae32314c7b3f4e52777fb675ec65a8f38075d2c0409ba25f8be20b349f3e98e1 from challenger"
+    },
+    {
+      "name": "aebe9353d20496a3500eab1b177c8ea66e7c74f1933f37f2d533c6383485b73a",
+      "prompt": "https://sn12domain.org/aebe9353d20496a3500eab1b177c8ea66e7c74f1933f37f2d533c6383485b73a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/aebe9353d20496a3500eab1b177c8ea66e7c74f1933f37f2d533c6383485b73a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/aebe9353d20496a3500eab1b177c8ea66e7c74f1933f37f2d533c6383485b73a.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for aebe9353d20496a3500eab1b177c8ea66e7c74f1933f37f2d533c6383485b73a from challenger"
+    },
+    {
+      "name": "aef399cac177a310f686234f583cba6bc7c0cec2655ab57061400479fd4e5537",
+      "prompt": "https://sn12domain.org/aef399cac177a310f686234f583cba6bc7c0cec2655ab57061400479fd4e5537.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/aef399cac177a310f686234f583cba6bc7c0cec2655ab57061400479fd4e5537.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/aef399cac177a310f686234f583cba6bc7c0cec2655ab57061400479fd4e5537.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for aef399cac177a310f686234f583cba6bc7c0cec2655ab57061400479fd4e5537 from challenger"
+    },
+    {
+      "name": "b7ed7ab289e61c5c4b829cdb1ed918c0bad2f8a2555b1f721ad50929b4455810",
+      "prompt": "https://sn12domain.org/b7ed7ab289e61c5c4b829cdb1ed918c0bad2f8a2555b1f721ad50929b4455810.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/b7ed7ab289e61c5c4b829cdb1ed918c0bad2f8a2555b1f721ad50929b4455810.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/b7ed7ab289e61c5c4b829cdb1ed918c0bad2f8a2555b1f721ad50929b4455810.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for b7ed7ab289e61c5c4b829cdb1ed918c0bad2f8a2555b1f721ad50929b4455810 from challenger"
+    },
+    {
+      "name": "c125752a880c340005daec59afb0d03046dadea0513ed3279e30f5b2333f1283",
+      "prompt": "https://sn12domain.org/c125752a880c340005daec59afb0d03046dadea0513ed3279e30f5b2333f1283.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/c125752a880c340005daec59afb0d03046dadea0513ed3279e30f5b2333f1283.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/c125752a880c340005daec59afb0d03046dadea0513ed3279e30f5b2333f1283.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for c125752a880c340005daec59afb0d03046dadea0513ed3279e30f5b2333f1283 from challenger"
+    },
+    {
+      "name": "c6f8d07eaba9d7e1d83efc3fb48bfb36f8c918d32ef1d603dfb5699c51708c08",
+      "prompt": "https://sn12domain.org/c6f8d07eaba9d7e1d83efc3fb48bfb36f8c918d32ef1d603dfb5699c51708c08.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/c6f8d07eaba9d7e1d83efc3fb48bfb36f8c918d32ef1d603dfb5699c51708c08.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/c6f8d07eaba9d7e1d83efc3fb48bfb36f8c918d32ef1d603dfb5699c51708c08.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for c6f8d07eaba9d7e1d83efc3fb48bfb36f8c918d32ef1d603dfb5699c51708c08 from challenger"
+    },
+    {
+      "name": "c921b2305781e3fe649d2f302fa40630877555e39a9f87302304971d2f3bfe7c",
+      "prompt": "https://sn12domain.org/c921b2305781e3fe649d2f302fa40630877555e39a9f87302304971d2f3bfe7c.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/c921b2305781e3fe649d2f302fa40630877555e39a9f87302304971d2f3bfe7c.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/c921b2305781e3fe649d2f302fa40630877555e39a9f87302304971d2f3bfe7c.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for c921b2305781e3fe649d2f302fa40630877555e39a9f87302304971d2f3bfe7c from challenger"
+    },
+    {
+      "name": "cafbfa5900c5b6406bc0b173ad68e6b64f2536a16b9282cc899296f9dbae81aa",
+      "prompt": "https://sn12domain.org/cafbfa5900c5b6406bc0b173ad68e6b64f2536a16b9282cc899296f9dbae81aa.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/cafbfa5900c5b6406bc0b173ad68e6b64f2536a16b9282cc899296f9dbae81aa.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/cafbfa5900c5b6406bc0b173ad68e6b64f2536a16b9282cc899296f9dbae81aa.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for cafbfa5900c5b6406bc0b173ad68e6b64f2536a16b9282cc899296f9dbae81aa from challenger"
+    },
+    {
+      "name": "cc378d1e19286afaeabbe13f4fff7a24546f085b51d3adea9ecf269b32318888",
+      "prompt": "https://sn12domain.org/cc378d1e19286afaeabbe13f4fff7a24546f085b51d3adea9ecf269b32318888.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/cc378d1e19286afaeabbe13f4fff7a24546f085b51d3adea9ecf269b32318888.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/cc378d1e19286afaeabbe13f4fff7a24546f085b51d3adea9ecf269b32318888.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for cc378d1e19286afaeabbe13f4fff7a24546f085b51d3adea9ecf269b32318888 from challenger"
+    },
+    {
+      "name": "cecdad57a9844079239221070d8905ba6cabc6b196154298120c72b35508b9aa",
+      "prompt": "https://sn12domain.org/cecdad57a9844079239221070d8905ba6cabc6b196154298120c72b35508b9aa.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/cecdad57a9844079239221070d8905ba6cabc6b196154298120c72b35508b9aa.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/cecdad57a9844079239221070d8905ba6cabc6b196154298120c72b35508b9aa.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for cecdad57a9844079239221070d8905ba6cabc6b196154298120c72b35508b9aa from challenger"
+    },
+    {
+      "name": "cf00880bea53bf1503fbabda478d2ac6896d702a7525a9b6ee6b7c68d2923578",
+      "prompt": "https://sn12domain.org/cf00880bea53bf1503fbabda478d2ac6896d702a7525a9b6ee6b7c68d2923578.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/cf00880bea53bf1503fbabda478d2ac6896d702a7525a9b6ee6b7c68d2923578.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/cf00880bea53bf1503fbabda478d2ac6896d702a7525a9b6ee6b7c68d2923578.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for cf00880bea53bf1503fbabda478d2ac6896d702a7525a9b6ee6b7c68d2923578 from challenger"
+    },
+    {
+      "name": "d454a863a15901b9a092980e08a2a411d2ce569b318e89b5035c3e7644510a12",
+      "prompt": "https://sn12domain.org/d454a863a15901b9a092980e08a2a411d2ce569b318e89b5035c3e7644510a12.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d454a863a15901b9a092980e08a2a411d2ce569b318e89b5035c3e7644510a12.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d454a863a15901b9a092980e08a2a411d2ce569b318e89b5035c3e7644510a12.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for d454a863a15901b9a092980e08a2a411d2ce569b318e89b5035c3e7644510a12 from challenger"
+    },
+    {
+      "name": "d48fdaea8b8cec973f812aafb3a5d1c6dc0aaf752a536c9a24d650fc467ec2d4",
+      "prompt": "https://sn12domain.org/d48fdaea8b8cec973f812aafb3a5d1c6dc0aaf752a536c9a24d650fc467ec2d4.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d48fdaea8b8cec973f812aafb3a5d1c6dc0aaf752a536c9a24d650fc467ec2d4.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d48fdaea8b8cec973f812aafb3a5d1c6dc0aaf752a536c9a24d650fc467ec2d4.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for d48fdaea8b8cec973f812aafb3a5d1c6dc0aaf752a536c9a24d650fc467ec2d4 from challenger"
+    },
+    {
+      "name": "d5755871455cbf88f1d15c60cdcd9c1e4423feb8a792fff4eecf390d53f08068",
+      "prompt": "https://sn12domain.org/d5755871455cbf88f1d15c60cdcd9c1e4423feb8a792fff4eecf390d53f08068.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d5755871455cbf88f1d15c60cdcd9c1e4423feb8a792fff4eecf390d53f08068.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d5755871455cbf88f1d15c60cdcd9c1e4423feb8a792fff4eecf390d53f08068.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for d5755871455cbf88f1d15c60cdcd9c1e4423feb8a792fff4eecf390d53f08068 from challenger"
+    },
+    {
+      "name": "d66e61f7ac165524eb071ba4c14669c90fc3766dbf2e4e66bac1175c409433ee",
+      "prompt": "https://sn12domain.org/d66e61f7ac165524eb071ba4c14669c90fc3766dbf2e4e66bac1175c409433ee.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d66e61f7ac165524eb071ba4c14669c90fc3766dbf2e4e66bac1175c409433ee.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/d66e61f7ac165524eb071ba4c14669c90fc3766dbf2e4e66bac1175c409433ee.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for d66e61f7ac165524eb071ba4c14669c90fc3766dbf2e4e66bac1175c409433ee from challenger"
+    },
+    {
+      "name": "da7c927ed1b41d4aaea94091e3e3234fdf87a4d5bf25188aa3a3b7e44ca8f900",
+      "prompt": "https://sn12domain.org/da7c927ed1b41d4aaea94091e3e3234fdf87a4d5bf25188aa3a3b7e44ca8f900.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/da7c927ed1b41d4aaea94091e3e3234fdf87a4d5bf25188aa3a3b7e44ca8f900.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/da7c927ed1b41d4aaea94091e3e3234fdf87a4d5bf25188aa3a3b7e44ca8f900.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for da7c927ed1b41d4aaea94091e3e3234fdf87a4d5bf25188aa3a3b7e44ca8f900 from challenger"
+    },
+    {
+      "name": "dc764d36cfa19dc0da0ffe9a16bc69cc4b04186f6c87d4092418e1787317943b",
+      "prompt": "https://sn12domain.org/dc764d36cfa19dc0da0ffe9a16bc69cc4b04186f6c87d4092418e1787317943b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/dc764d36cfa19dc0da0ffe9a16bc69cc4b04186f6c87d4092418e1787317943b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/dc764d36cfa19dc0da0ffe9a16bc69cc4b04186f6c87d4092418e1787317943b.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for dc764d36cfa19dc0da0ffe9a16bc69cc4b04186f6c87d4092418e1787317943b from challenger"
+    },
+    {
+      "name": "dd39d5fce5d397f4d516efabdfb65f5ac899d607c709ebada64730c9d59d90ff",
+      "prompt": "https://sn12domain.org/dd39d5fce5d397f4d516efabdfb65f5ac899d607c709ebada64730c9d59d90ff.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/dd39d5fce5d397f4d516efabdfb65f5ac899d607c709ebada64730c9d59d90ff.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/dd39d5fce5d397f4d516efabdfb65f5ac899d607c709ebada64730c9d59d90ff.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for dd39d5fce5d397f4d516efabdfb65f5ac899d607c709ebada64730c9d59d90ff from challenger"
+    },
+    {
+      "name": "ddef1ea68580c673465043a74ff76679209b72b92d7b91d8ed118570f651cd6e",
+      "prompt": "https://sn12domain.org/ddef1ea68580c673465043a74ff76679209b72b92d7b91d8ed118570f651cd6e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ddef1ea68580c673465043a74ff76679209b72b92d7b91d8ed118570f651cd6e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ddef1ea68580c673465043a74ff76679209b72b92d7b91d8ed118570f651cd6e.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for ddef1ea68580c673465043a74ff76679209b72b92d7b91d8ed118570f651cd6e from challenger"
+    },
+    {
+      "name": "de58ab72eb81c7c9d010ac596dfcbd1439240cffc6d50fe5753cb7ee0874141b",
+      "prompt": "https://sn12domain.org/de58ab72eb81c7c9d010ac596dfcbd1439240cffc6d50fe5753cb7ee0874141b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/de58ab72eb81c7c9d010ac596dfcbd1439240cffc6d50fe5753cb7ee0874141b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/de58ab72eb81c7c9d010ac596dfcbd1439240cffc6d50fe5753cb7ee0874141b.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for de58ab72eb81c7c9d010ac596dfcbd1439240cffc6d50fe5753cb7ee0874141b from challenger"
+    },
+    {
+      "name": "e0355662024ef9e95ffd1ed97e302246292487046d0b40037e1eef6983aa0f2d",
+      "prompt": "https://sn12domain.org/e0355662024ef9e95ffd1ed97e302246292487046d0b40037e1eef6983aa0f2d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e0355662024ef9e95ffd1ed97e302246292487046d0b40037e1eef6983aa0f2d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e0355662024ef9e95ffd1ed97e302246292487046d0b40037e1eef6983aa0f2d.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for e0355662024ef9e95ffd1ed97e302246292487046d0b40037e1eef6983aa0f2d from challenger"
+    },
+    {
+      "name": "e39a1d0f4d551b0a93e08a50da4738d4b1b5854aca4176d665a2c5d65404969f",
+      "prompt": "https://sn12domain.org/e39a1d0f4d551b0a93e08a50da4738d4b1b5854aca4176d665a2c5d65404969f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e39a1d0f4d551b0a93e08a50da4738d4b1b5854aca4176d665a2c5d65404969f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e39a1d0f4d551b0a93e08a50da4738d4b1b5854aca4176d665a2c5d65404969f.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for e39a1d0f4d551b0a93e08a50da4738d4b1b5854aca4176d665a2c5d65404969f from challenger"
+    },
+    {
+      "name": "e4e32110887888073beac6eb4ed5ac7d6ed4984c71d4407fc9b04a0b2b7c59b1",
+      "prompt": "https://sn12domain.org/e4e32110887888073beac6eb4ed5ac7d6ed4984c71d4407fc9b04a0b2b7c59b1.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e4e32110887888073beac6eb4ed5ac7d6ed4984c71d4407fc9b04a0b2b7c59b1.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e4e32110887888073beac6eb4ed5ac7d6ed4984c71d4407fc9b04a0b2b7c59b1.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for e4e32110887888073beac6eb4ed5ac7d6ed4984c71d4407fc9b04a0b2b7c59b1 from challenger"
+    },
+    {
+      "name": "e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2",
+      "prompt": "https://sn12domain.org/e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2 from challenger"
+    },
+    {
+      "name": "e8a1725a953063016395322141d2a3666d91062372f0f2cc68173063b7c3ee9a",
+      "prompt": "https://sn12domain.org/e8a1725a953063016395322141d2a3666d91062372f0f2cc68173063b7c3ee9a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e8a1725a953063016395322141d2a3666d91062372f0f2cc68173063b7c3ee9a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/e8a1725a953063016395322141d2a3666d91062372f0f2cc68173063b7c3ee9a.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for e8a1725a953063016395322141d2a3666d91062372f0f2cc68173063b7c3ee9a from challenger"
+    },
+    {
+      "name": "ea40e89d2371a4db0b5e521eac3f95a3c2b528c4cf87aba111d070029bc5164c",
+      "prompt": "https://sn12domain.org/ea40e89d2371a4db0b5e521eac3f95a3c2b528c4cf87aba111d070029bc5164c.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ea40e89d2371a4db0b5e521eac3f95a3c2b528c4cf87aba111d070029bc5164c.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ea40e89d2371a4db0b5e521eac3f95a3c2b528c4cf87aba111d070029bc5164c.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for ea40e89d2371a4db0b5e521eac3f95a3c2b528c4cf87aba111d070029bc5164c from challenger"
+    },
+    {
+      "name": "eb4df482b234ecfee9849a94737da64068dbe804006bc2fa3c0f8ef6baa1daa0",
+      "prompt": "https://sn12domain.org/eb4df482b234ecfee9849a94737da64068dbe804006bc2fa3c0f8ef6baa1daa0.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/eb4df482b234ecfee9849a94737da64068dbe804006bc2fa3c0f8ef6baa1daa0.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/eb4df482b234ecfee9849a94737da64068dbe804006bc2fa3c0f8ef6baa1daa0.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for eb4df482b234ecfee9849a94737da64068dbe804006bc2fa3c0f8ef6baa1daa0 from challenger"
+    },
+    {
+      "name": "ef3f66dfe4c36cf6fbafe5419bb5cfe7b78149a9bc204030f01e28d1e4935052",
+      "prompt": "https://sn12domain.org/ef3f66dfe4c36cf6fbafe5419bb5cfe7b78149a9bc204030f01e28d1e4935052.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ef3f66dfe4c36cf6fbafe5419bb5cfe7b78149a9bc204030f01e28d1e4935052.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/ef3f66dfe4c36cf6fbafe5419bb5cfe7b78149a9bc204030f01e28d1e4935052.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for ef3f66dfe4c36cf6fbafe5419bb5cfe7b78149a9bc204030f01e28d1e4935052 from challenger"
+    },
+    {
+      "name": "efb6511d7bf2f00bb628606e03e4fcf07090c15b14e5ca4e803be32b579fa42e",
+      "prompt": "https://sn12domain.org/efb6511d7bf2f00bb628606e03e4fcf07090c15b14e5ca4e803be32b579fa42e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/efb6511d7bf2f00bb628606e03e4fcf07090c15b14e5ca4e803be32b579fa42e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/efb6511d7bf2f00bb628606e03e4fcf07090c15b14e5ca4e803be32b579fa42e.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for efb6511d7bf2f00bb628606e03e4fcf07090c15b14e5ca4e803be32b579fa42e from challenger"
+    },
+    {
+      "name": "f2c7e07d6278504f7453f7a9465f11cdb7dba8dd27223d555c4d246f29214eb3",
+      "prompt": "https://sn12domain.org/f2c7e07d6278504f7453f7a9465f11cdb7dba8dd27223d555c4d246f29214eb3.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f2c7e07d6278504f7453f7a9465f11cdb7dba8dd27223d555c4d246f29214eb3.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f2c7e07d6278504f7453f7a9465f11cdb7dba8dd27223d555c4d246f29214eb3.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for f2c7e07d6278504f7453f7a9465f11cdb7dba8dd27223d555c4d246f29214eb3 from challenger"
+    },
+    {
+      "name": "f36fddc760813a5f5ef8a51d8d18a990fd5219b3cee6f6953ed85b8667d5b392",
+      "prompt": "https://sn12domain.org/f36fddc760813a5f5ef8a51d8d18a990fd5219b3cee6f6953ed85b8667d5b392.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f36fddc760813a5f5ef8a51d8d18a990fd5219b3cee6f6953ed85b8667d5b392.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f36fddc760813a5f5ef8a51d8d18a990fd5219b3cee6f6953ed85b8667d5b392.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for f36fddc760813a5f5ef8a51d8d18a990fd5219b3cee6f6953ed85b8667d5b392 from challenger"
+    },
+    {
+      "name": "f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d",
+      "prompt": "https://sn12domain.org/f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d from challenger"
+    },
+    {
+      "name": "f786960904a42e5a3a576c76b0efc6e0bedc72ea9777a8284c31c9a4e283f464",
+      "prompt": "https://sn12domain.org/f786960904a42e5a3a576c76b0efc6e0bedc72ea9777a8284c31c9a4e283f464.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f786960904a42e5a3a576c76b0efc6e0bedc72ea9777a8284c31c9a4e283f464.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/f786960904a42e5a3a576c76b0efc6e0bedc72ea9777a8284c31c9a4e283f464.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for f786960904a42e5a3a576c76b0efc6e0bedc72ea9777a8284c31c9a4e283f464 from challenger"
+    },
+    {
+      "name": "fe37418c9a9a7e1fd1f8d54029eb42d86b2a453ecc18bb56aabfa6eb5586a18e",
+      "prompt": "https://sn12domain.org/fe37418c9a9a7e1fd1f8d54029eb42d86b2a453ecc18bb56aabfa6eb5586a18e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/fe37418c9a9a7e1fd1f8d54029eb42d86b2a453ecc18bb56aabfa6eb5586a18e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/fe37418c9a9a7e1fd1f8d54029eb42d86b2a453ecc18bb56aabfa6eb5586a18e.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for fe37418c9a9a7e1fd1f8d54029eb42d86b2a453ecc18bb56aabfa6eb5586a18e from challenger"
+    },
+    {
+      "name": "fffa1d42-6004-4b07-bc2e-a4c4610b2c15",
+      "prompt": "https://sn12domain.org/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for fffa1d42-6004-4b07-bc2e-a4c4610b2c15 from challenger"
+    },
+    {
+      "name": "fffa86ddece1ad8effb60840a32a5acdaccfe934a1f7f98b3e83113cf2228529",
+      "prompt": "https://sn12domain.org/fffa86ddece1ad8effb60840a32a5acdaccfe934a1f7f98b3e83113cf2228529.png",
+      "leader_ply": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/fffa86ddece1ad8effb60840a32a5acdaccfe934a1f7f98b3e83113cf2228529.ply",
+      "leader_png": "https://subnet404.xyz/rounds/9/5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq/fffa86ddece1ad8effb60840a32a5acdaccfe934a1f7f98b3e83113cf2228529.png",
+      "miner_ply": null,
+      "miner_png": null,
+      "winner": "leader",
+      "issues": "No preview for fffa86ddece1ad8effb60840a32a5acdaccfe934a1f7f98b3e83113cf2228529 from challenger"
+    }
+  ]
+}
