@@ -588,8 +588,8 @@
     "commit": "90242c39d74857e0f30eb9b9ebdf95fc2b008add",
     "revealed_at_block": 7203438,
     "tag": "90242c3-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5flbbc1fdn:90242c3-contest-10"
   },
   "5CtcDhFB4AzGietfhWXkbSu3wnjwh6eDU8VHbsPWLxQ2CCaa": {
     "repo": "frogo-boro/super-computing-machine",
@@ -732,8 +732,8 @@
     "commit": "735dce9e1d6cf6e20c2305d3bc91d3d10771892f",
     "revealed_at_block": 7204129,
     "tag": "735dce9-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgruq9nck:735dce9-contest-10"
   },
   "5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP": {
     "repo": "kostik46/3d-gen-miner",
