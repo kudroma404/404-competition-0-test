@@ -68,8 +68,8 @@
     "commit": "245bbeeb624c2fa74544c7387796520e5e801f25",
     "revealed_at_block": 7182696,
     "tag": "245bbee-contest-10",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dnrgl56es:245bbee-contest-10"
   },
   "5GuaJgcqXrwKcjDcdqJnC7c8b6DdyuQoKWMLDveCUrDNEaAD": {
     "repo": "Uglejo/literate-octo-carnival",
@@ -92,8 +92,8 @@
     "commit": "74e96d5e1f29428224991aa075afff88ad2cd4fc",
     "revealed_at_block": 7182697,
     "tag": "74e96d5-contest-10",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e4wvodg9a:74e96d5-contest-10"
   },
   "5H3PdHjjMf9vntGfayWJNnmqRQeRKkhRPr6cS9DgisJWth7M": {
     "repo": "Woler-creator/rift-runner",
@@ -124,8 +124,8 @@
     "commit": "7aad4dbcb99ce8694aee67c562b6adeeac8d8f44",
     "revealed_at_block": 7190927,
     "tag": "7aad4db-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ctxjaca4p:7aad4db-contest-10"
   },
   "5DJ2UnAfihjiuSQepXN4gp44cZhtFQzLeJqkMNjmWZXqHGAt": {
     "repo": "elthworth/kamui",
@@ -180,7 +180,7 @@
     "commit": "fe2a2f0fc596029514a3442b08a9dee70a0f9915",
     "revealed_at_block": 7193917,
     "tag": "fe2a2f0-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GNhgi3UaZzXNv1LbV2Wqqm7qLaAFayjUcR3L2aJsRmnU6eg": {
@@ -212,8 +212,8 @@
     "commit": "285fdec50917bda1d279ab71fc9d353a9d9b0483",
     "revealed_at_block": 7195310,
     "tag": "285fdec-contest-10",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dvzj2ktsi:285fdec-contest-10"
   },
   "5HbAF9aeJNowLreymmivEzg2dKNK2kG8f18U3NcJi9kiAUba": {
     "repo": "tao-hunter/musical-octo-adventure",
@@ -276,8 +276,8 @@
     "commit": "5410a6306e89f702b7293dfc242480df82f5805f",
     "revealed_at_block": 7196041,
     "tag": "5410a63-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dhtfudena:5410a63-contest-10"
   },
   "5Ebm5cRFAzkHGtq3myyvnL3w6GVSPrAy4LY6HSFMNdQLnomj": {
     "repo": "itwm13/cfmuv2",
@@ -316,7 +316,7 @@
     "commit": "c1b0bba218c0c3e8b675922e6f222c8780cb44e3",
     "revealed_at_block": 7197880,
     "tag": "c1b0bba-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GU3huig5KtBGeD4xo2Vd3ZakYMGnfK8bvcv4wRajP5wMjnB": {
@@ -332,7 +332,7 @@
     "commit": "d0425cd8d175eeca0c1b2aa22c04088222641ccf",
     "revealed_at_block": 7197888,
     "tag": "d0425cd-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5EqbTrXaP3T4tBMbRQXpHwD5gazgAfEFiPWZ87mLPu9Vo3MV": {
@@ -348,7 +348,7 @@
     "commit": "c148bf36fb8914ad6963a3e3d074b3deb6398c00",
     "revealed_at_block": 7197897,
     "tag": "c148bf3-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk": {
@@ -444,8 +444,8 @@
     "commit": "0aaa3a3ae1f0e8418042694ff5cc1d791113f882",
     "revealed_at_block": 7199784,
     "tag": "0aaa3a3-contest-10",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dk3wu2dvf:0aaa3a3-contest-10"
   },
   "5D1zEKkMeEA3mvXayLETcFpCnePu5mSegLbuMHpYh2jqbj9h": {
     "repo": "itwm13/cfmuv2obgr",
@@ -468,7 +468,7 @@
     "commit": "d0fe83c94f0290a5f317d92a00ac32645bc6f4c2",
     "revealed_at_block": 7201043,
     "tag": "d0fe83c-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HSu2JsYKGLqxQArJGev3noheJP3bQC3FSARRejkeeGwXpYP": {
@@ -484,7 +484,7 @@
     "commit": "99eab3df0b5d9a63ee1bac92cfaa8427ee78c996",
     "revealed_at_block": 7201081,
     "tag": "99eab3d-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EvdpT2vBSHKtksSpf14KYWasFbpKW4rKK1pk5FiGRCo7jE7": {
@@ -540,7 +540,7 @@
     "commit": "1a5e5c0ac2b6bdb16f85d227b290786b834aef99",
     "revealed_at_block": 7201926,
     "tag": "1a5e5c0-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EEipC3jskF66MqzhijrXpcaZMaeaFLUngQVovNEqA7EnLPp": {
@@ -548,7 +548,7 @@
     "commit": "78b346a4f76f3bbf87bfab0646eece6f414c22fd",
     "revealed_at_block": 7202035,
     "tag": "78b346a-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EL1UH4npyM8TTKUW5wn2Bd3bZJ3hsfEuUVz4CUtVQvHy7Jy": {
@@ -556,7 +556,7 @@
     "commit": "5532baaf6826e6deec2d53e044bae6d4bca44260",
     "revealed_at_block": 7202216,
     "tag": "5532baa-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EyL8629xGBPPSNkiyV7ptjKrbjNxkVVCo556GdtsqEZsNjq": {
@@ -596,8 +596,8 @@
     "commit": "f788987ceb5d78fa2cf5d73090f7ef8307c3b3f0",
     "revealed_at_block": 7203456,
     "tag": "f788987-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ctcdhfb4a:f788987-contest-10"
   },
   "5D4oWDLMA9yK6Nv5ca5zHXm3D89XcsZmveEDJpdYmwHACdDK": {
     "repo": "frogo-boro/urban-disco",
@@ -620,8 +620,8 @@
     "commit": "7d985bb2ea96849528e2bb35334adbdefd8c1268",
     "revealed_at_block": 7203692,
     "tag": "7d985bb-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dm7qmzgcp:7d985bb-contest-10"
   },
   "5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM": {
     "repo": "tuandao-zenai/multiview_v6",
@@ -644,8 +644,8 @@
     "commit": "b314901f1b596c76f965d3867cc8f16dbec906fd",
     "revealed_at_block": 7203753,
     "tag": "b314901-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dhfpxegqt:b314901-contest-10"
   },
   "5HpoA7NSJpFErZNAntBPQR7Rr4HzySbu2xwXnKFuqHYU2L7Y": {
     "repo": "jyotinayarman/404-goat-5",
@@ -708,8 +708,8 @@
     "commit": "23b79f72b07392dc1dab6060a79eb405350fcd7e",
     "revealed_at_block": 7204063,
     "tag": "23b79f7-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dhanlxsky:23b79f7-contest-10"
   },
   "5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq": {
     "repo": "jyotinayarman/goat-10",
@@ -748,16 +748,16 @@
     "commit": "b272ec305cf20c8cbe6c1d3b7baf5380dfe1422d",
     "revealed_at_block": 7204208,
     "tag": "b272ec3-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dhie1cz1a:b272ec3-contest-10"
   },
   "5E4Tm2YDHnemmtkdCifgJK1f9uzPahquneFPvNx8vgUKDa6H": {
     "repo": "kostik46/3d-gen-miner-v3",
     "commit": "1f0bfe7831f42271e90995f25b88e1123eed7928",
     "revealed_at_block": 7204214,
     "tag": "1f0bfe7-contest-10",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e4tm2ydhn:1f0bfe7-contest-10"
   },
   "5CJTTvDapffdzhVp3tddM1GtbrooAUnWpkN7B3nR5ur5bkhh": {
     "repo": "kostik46/3d-gen-miner-v4",
@@ -780,8 +780,8 @@
     "commit": "eb0ec877b4e4538f6b2be9e9974a5fb92bc972ea",
     "revealed_at_block": 7204232,
     "tag": "eb0ec87-contest-10",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dvhq3arkn:eb0ec87-contest-10"
   },
   "5Hao16mzcQjbymrgJTFQMfYQfsofGkEXLCnPxDq98XT57yFY": {
     "repo": "manbeast3b/i23d-1",
