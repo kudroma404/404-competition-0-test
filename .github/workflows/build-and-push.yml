@@ -20,7 +20,7 @@ jobs:
         run: |
           CHANGED_FILE=$(git diff --name-only HEAD~1 HEAD | grep 'submissions.json' | head -1)
           if [ -z "$CHANGED_FILE" ]; then
-            CHANGED_FILE=$(find rounds -maxdepth 2 -name 'submissions.json' | sort | tail -1)
+            CHANGED_FILE=$(find rounds -maxdepth 2 -name 'submissions.json' | sort -V | tail -1)
           fi
           echo "file=$CHANGED_FILE" >> $GITHUB_OUTPUT
       - name: Set matrix
@@ -57,7 +57,7 @@ jobs:
         run: |
           CHANGED_FILE=$(git diff --name-only HEAD~1 HEAD | grep 'submissions.json' | head -1)
           if [ -z "$CHANGED_FILE" ]; then
-            CHANGED_FILE=$(find rounds -maxdepth 2 -name 'submissions.json' | sort | tail -1)
+            CHANGED_FILE=$(find rounds -maxdepth 2 -name 'submissions.json' | sort -V | tail -1)
           fi
           echo "file=$CHANGED_FILE" >> $GITHUB_OUTPUT
       -
