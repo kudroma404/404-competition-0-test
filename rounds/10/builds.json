@@ -124,7 +124,7 @@
     "commit": "7aad4dbcb99ce8694aee67c562b6adeeac8d8f44",
     "revealed_at_block": 7190927,
     "tag": "7aad4db-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5DJ2UnAfihjiuSQepXN4gp44cZhtFQzLeJqkMNjmWZXqHGAt": {
@@ -132,7 +132,7 @@
     "commit": "8a5d870a60d2ce540f558277f9735dde9f23c27f",
     "revealed_at_block": 7190947,
     "tag": "8a5d870-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2": {
@@ -212,7 +212,7 @@
     "commit": "285fdec50917bda1d279ab71fc9d353a9d9b0483",
     "revealed_at_block": 7195310,
     "tag": "285fdec-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HbAF9aeJNowLreymmivEzg2dKNK2kG8f18U3NcJi9kiAUba": {
@@ -276,7 +276,7 @@
     "commit": "5410a6306e89f702b7293dfc242480df82f5805f",
     "revealed_at_block": 7196041,
     "tag": "5410a63-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5Ebm5cRFAzkHGtq3myyvnL3w6GVSPrAy4LY6HSFMNdQLnomj": {
@@ -332,7 +332,7 @@
     "commit": "d0425cd8d175eeca0c1b2aa22c04088222641ccf",
     "revealed_at_block": 7197888,
     "tag": "d0425cd-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EqbTrXaP3T4tBMbRQXpHwD5gazgAfEFiPWZ87mLPu9Vo3MV": {
@@ -436,7 +436,7 @@
     "commit": "3423f2efb8a56caf00b99544ec3c4a7f9d7734eb",
     "revealed_at_block": 7199145,
     "tag": "3423f2e-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5Dk3Wu2dvfG9Wew8KxS4JfjFWxkARKVJnL5LDEHs3swsrrq5": {
@@ -444,7 +444,7 @@
     "commit": "0aaa3a3ae1f0e8418042694ff5cc1d791113f882",
     "revealed_at_block": 7199784,
     "tag": "0aaa3a3-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5D1zEKkMeEA3mvXayLETcFpCnePu5mSegLbuMHpYh2jqbj9h": {
@@ -452,7 +452,7 @@
     "commit": "233dfef6a08627e624cd8c6bdc5b56c12f0c8322",
     "revealed_at_block": 7199797,
     "tag": "233dfef-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5EnDJHELtABvRDRbxJxnGfqh9onkDMuLVMuGEJMAfaqTnF2H": {
@@ -524,7 +524,7 @@
     "commit": "5450ef53e18222d3de20867c61cdbed3c55b1eb9",
     "revealed_at_block": 7201531,
     "tag": "5450ef5-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5CaZmHPULudhv2Egdm6d5dJsHLYww8Xdwp7iZz4fZZjg6RCG": {
@@ -532,7 +532,7 @@
     "commit": "e662bcbbc994acc09a7f33fb2e2301ee437ccb97",
     "revealed_at_block": 7201644,
     "tag": "e662bcb-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5DnfP8zgSdmiTMJDMZyoeQbeVxBNFyifk4ZjkaY4FHcEYXoZ": {
@@ -540,7 +540,7 @@
     "commit": "1a5e5c0ac2b6bdb16f85d227b290786b834aef99",
     "revealed_at_block": 7201926,
     "tag": "1a5e5c0-contest-10",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EEipC3jskF66MqzhijrXpcaZMaeaFLUngQVovNEqA7EnLPp": {
@@ -620,7 +620,7 @@
     "commit": "7d985bb2ea96849528e2bb35334adbdefd8c1268",
     "revealed_at_block": 7203692,
     "tag": "7d985bb-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM": {
@@ -636,7 +636,7 @@
     "commit": "58e73d0d64139d838924950e4d2b10719df6b9ce",
     "revealed_at_block": 7203708,
     "tag": "58e73d0-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5DhfPxEgQt8Pw9zHYfVth6dCpXrrGjVU5ZJUqi78TYhkp8CV": {
@@ -708,7 +708,7 @@
     "commit": "23b79f72b07392dc1dab6060a79eb405350fcd7e",
     "revealed_at_block": 7204063,
     "tag": "23b79f7-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq": {
@@ -764,7 +764,7 @@
     "commit": "0dfd6b355fbbd12c67c4eb353ff7343d943a80f5",
     "revealed_at_block": 7204220,
     "tag": "0dfd6b3-contest-10",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5GbccQEAhXJKaNX7xDoom6LjhXuacHtU8aS4LZvrxZh3tKcZ": {
