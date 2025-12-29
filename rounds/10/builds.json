@@ -716,7 +716,7 @@
     "commit": "81fb9d43bb23ae1416776414e0e1cf5f0f58a5dd",
     "revealed_at_block": 7204102,
     "tag": "81fb9d4-contest-10",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5EnY473ou6xNssXczhLkxUMZge1FQi4NU2hoBCF31Xgz15E1": {
