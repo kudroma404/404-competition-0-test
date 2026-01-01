@@ -94,5 +94,29 @@
     "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/33621dff7a5d674f2a6a65cefde283518d5f7a2d0651ffe922815894373b9d94.png",
     "generation_time": 48.85186239297036,
     "size": 23274912
+  },
+  "08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012": {
+    "ply": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012.ply",
+    "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012.png",
+    "generation_time": 49.14635239302879,
+    "size": 18015520
+  },
+  "52a29ac18c25d8b283f1289a6e6513b08870fd7fc7e9ebadd8b61f92565bc869": {
+    "ply": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/52a29ac18c25d8b283f1289a6e6513b08870fd7fc7e9ebadd8b61f92565bc869.ply",
+    "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/52a29ac18c25d8b283f1289a6e6513b08870fd7fc7e9ebadd8b61f92565bc869.png",
+    "generation_time": 49.954494616016746,
+    "size": 18139552
+  },
+  "fffa1d42-6004-4b07-bc2e-a4c4610b2c15": {
+    "ply": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.ply",
+    "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.png",
+    "generation_time": 51.75196267396677,
+    "size": 27337504
+  },
+  "bd0b6e4db55f60fb3067c0202bdc7530e6b7ab8e3d6059413b067739ff0570f8": {
+    "ply": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/bd0b6e4db55f60fb3067c0202bdc7530e6b7ab8e3d6059413b067739ff0570f8.ply",
+    "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/bd0b6e4db55f60fb3067c0202bdc7530e6b7ab8e3d6059413b067739ff0570f8.png",
+    "generation_time": 50.61723715800326,
+    "size": 9196192
   }
 }
