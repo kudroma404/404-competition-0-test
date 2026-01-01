@@ -670,5 +670,29 @@
     "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/b12086d1932981fcbb10b778faa613245fb9948a0d5950b96f611a056e3b2fa4.png",
     "generation_time": 51.83627849398181,
     "size": 23755808
+  },
+  "b303c3cb0ba094b7c81ca27b707e4d0f89bf8a758ed22c89c92c911f97b53fbb": {
+    "ply": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/b303c3cb0ba094b7c81ca27b707e4d0f89bf8a758ed22c89c92c911f97b53fbb.ply",
+    "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/b303c3cb0ba094b7c81ca27b707e4d0f89bf8a758ed22c89c92c911f97b53fbb.png",
+    "generation_time": 50.610442573961336,
+    "size": 22352288
+  },
+  "5a9fc370-eede-4782-a75f-5db3b4c01d16": {
+    "ply": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/5a9fc370-eede-4782-a75f-5db3b4c01d16.ply",
+    "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/5a9fc370-eede-4782-a75f-5db3b4c01d16.png",
+    "generation_time": 53.1975972019718,
+    "size": 23897248
+  },
+  "679622ec8c54ae5a3234febd658d5dd7b94b9f5cf79c4bf04ae0e23494ff1076": {
+    "ply": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/679622ec8c54ae5a3234febd658d5dd7b94b9f5cf79c4bf04ae0e23494ff1076.ply",
+    "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/679622ec8c54ae5a3234febd658d5dd7b94b9f5cf79c4bf04ae0e23494ff1076.png",
+    "generation_time": 49.971409426943865,
+    "size": 5179295
+  },
+  "654e544bd515c1934d9b98ca32d6b6ad214823c9692134fad37145a0683edf73": {
+    "ply": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/654e544bd515c1934d9b98ca32d6b6ad214823c9692134fad37145a0683edf73.ply",
+    "png": "https://subnet404.xyz/rounds/11/5G9e9MzZDkJyxsa8YinsJfu9qe5eaJeK8DQiaawr3N9enkNC/654e544bd515c1934d9b98ca32d6b6ad214823c9692134fad37145a0683edf73.png",
+    "generation_time": 49.35264641995309,
+    "size": 33852448
   }
 }
