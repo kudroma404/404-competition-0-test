@@ -908,8 +908,8 @@
     "commit": "e89f832431ad92fcf7f7dbd3c408403f03c863df",
     "revealed_at_block": 7224412,
     "tag": "e89f832-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gt5kphuun:e89f832-contest-11"
   },
   "5G1KnruoWGLVNCmBCNBsfvSbmNrhx9YEH6To9j7Xg4wyCH8x": {
     "repo": "ripe-banana-11/understood-celery",
