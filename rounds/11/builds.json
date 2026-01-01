@@ -348,8 +348,8 @@
     "commit": "f85701236f41a656e13ccab53a3e446969553f04",
     "revealed_at_block": 7214407,
     "tag": "f857012-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpnp2uqmp:f857012-contest-11"
   },
   "5GgvBpF9Z4rjqFwbA88yPBKyyqYajPaeW6tMjTzdycas69z2": {
     "repo": "itwm13/mv6obgr",
