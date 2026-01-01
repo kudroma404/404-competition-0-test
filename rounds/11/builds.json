@@ -172,8 +172,8 @@
     "commit": "2b2c6ce132751d00fcc7059099bb88cdf773f3f2",
     "revealed_at_block": 7204343,
     "tag": "2b2c6ce-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ggmstabgj:2b2c6ce-contest-11"
   },
   "5CaY7QBYCERHdLQjMmtJXCGFFVVJr5HJLFSZCwxkKQiDxYo9": {
     "repo": "mokabetrade/psychic-carnival",
@@ -276,8 +276,8 @@
     "commit": "d4b72697c5d2203f016e2b45266391715ff99407",
     "revealed_at_block": 7209660,
     "tag": "d4b7269-contest-11",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gp77w4oxr:d4b7269-contest-11"
   },
   "5FFZPGHEgXK5CEdYf4o3mir2RpxsH7PPjdGgjZoq3c9K7x7s": {
     "repo": "rumasafeyeh580-lang/mine-2",
@@ -356,7 +356,7 @@
     "commit": "1e644cad325f7ec0c6003e4fdefb465e8a355940",
     "revealed_at_block": 7214427,
     "tag": "1e644ca-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DhtFUDenAuSzn3EVhjL29UFWJbT1MoUVAJ83Ft94biBy25e": {
@@ -372,7 +372,7 @@
     "commit": "e62b57a72bd3bfb1ef2fddc3014c208c6daf5223",
     "revealed_at_block": 7214587,
     "tag": "e62b57a-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Dk3Wu2dvfG9Wew8KxS4JfjFWxkARKVJnL5LDEHs3swsrrq5": {
@@ -428,8 +428,8 @@
     "commit": "140c3aea6555cfc7adc9f9d5bdfaf5863036166c",
     "revealed_at_block": 7214865,
     "tag": "140c3ae-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gnhgi3uaz:140c3ae-contest-11"
   },
   "5HdwuCGAeTCZXzPC4rS3mC1y1oFXNYBRXYYn8b3PRNkcsWGc": {
     "repo": "tao-hunter/upgraded-eureka",
@@ -476,8 +476,8 @@
     "commit": "c5ec6c74afc2fdd483df9b2081a9c0bab71282e5",
     "revealed_at_block": 7214979,
     "tag": "c5ec6c7-contest-11",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gtzsjgblg:c5ec6c7-contest-11"
   },
   "5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9": {
     "repo": "tao-hunter/reimagined-system",
@@ -580,7 +580,7 @@
     "commit": "377575e39d65c53b5296c1cbd9e74caac4d2501b",
     "revealed_at_block": 7215478,
     "tag": "377575e-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CyeN7d2h5CYDPUeMQAKtWTzvgsMNNFXigGYCzqaymUXdPzz": {
@@ -684,8 +684,8 @@
     "commit": "49bac5afc89a6d5ba3f0a3b4a88b5cf9dfe0155b",
     "revealed_at_block": 7216438,
     "tag": "49bac5a-contest-11",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5geagjfkoc:49bac5a-contest-11"
   },
   "5EZj2iavWPufqUVyEAnrGAnwc4LUwqebTt9id2uP1etGKibE": {
     "repo": "itwm13/bfm4s",
@@ -772,8 +772,8 @@
     "commit": "7a7eb2d2e0ca859711e3b1d5effa2a0a2b6fe60a",
     "revealed_at_block": 7218329,
     "tag": "7a7eb2d-contest-11",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gbccqeahx:7a7eb2d-contest-11"
   },
   "5DVHQ3aRKnqnahxeRTmXUMmwPwouQVRNiVh1iKy4GAdLvcEi": {
     "repo": "kostik46/3d-gen-miner-v6",
@@ -908,7 +908,7 @@
     "commit": "e89f832431ad92fcf7f7dbd3c408403f03c863df",
     "revealed_at_block": 7224412,
     "tag": "e89f832-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5G1KnruoWGLVNCmBCNBsfvSbmNrhx9YEH6To9j7Xg4wyCH8x": {
@@ -948,8 +948,8 @@
     "commit": "ca296f26d61b60bf38b83b419f7fd1cae3a406ee",
     "revealed_at_block": 7224608,
     "tag": "ca296f2-contest-11",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gw62qcx2j:ca296f2-contest-11"
   },
   "5EA92SWiq6Mbu5Vwe6vNvzjvEYkb6aqiz1jQCX217NHhyRKJ": {
     "repo": "manbeast3b/i23d-5",
@@ -1020,24 +1020,24 @@
     "commit": "7941925f43a515782eb06ce693660c5bb62d74f8",
     "revealed_at_block": 7224706,
     "tag": "7941925-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gcu6ubena:7941925-contest-11"
   },
   "5GHeqaHmTZyWVEQ19LS1zqGo7CEmBTRK6QKsrXGQh7KrdDeR": {
     "repo": "jyotinayarman/goat-mv-lite",
     "commit": "291aa93b7da9249f1319c4db0c55bae17e95b8f3",
     "revealed_at_block": 7224715,
     "tag": "291aa93-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gheqahmtz:291aa93-contest-11"
   },
   "5G4aypoqAPqhTvUVYBEd8P9c8q6UzELQFdBamke8yS1GCs1T": {
     "repo": "jyotinayarman/goat-ca-re-clean",
     "commit": "b8cabf049c904ffdc0a8728d359e12e9eec0ac1b",
     "revealed_at_block": 7224724,
     "tag": "b8cabf0-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5g4aypoqap:b8cabf0-contest-11"
   },
   "5ERbEqu1GfXXNuQaLCSTz5C2gTPUgkjUwYzvHzsKBDLnfxqa": {
     "repo": "jyotinayarman/goat-bf-clean",
@@ -1060,8 +1060,8 @@
     "commit": "23b79f72b07392dc1dab6060a79eb405350fcd7e",
     "revealed_at_block": 7224745,
     "tag": "23b79f7-contest-11",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gbmgzet26:23b79f7-contest-11"
   },
   "5GuMHp6gJSMzVdk7DPzgcjXUMvLQ6cYj8492xc1dERE7om3D": {
     "repo": "jyotinayarman/goat-11-m",
@@ -1164,8 +1164,8 @@
     "commit": "6b04bd26a47b146451592c2810707fd368075044",
     "revealed_at_block": 7225015,
     "tag": "6b04bd2-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gkqatuyu5:6b04bd2-contest-11"
   },
   "5Fs2Yp4f6Lyv4giJv8EtcpLRQNyoUX2eUokEEqgFvR1jUubH": {
     "repo": "jyotinayarman/goat-re-mv-2",
@@ -1204,7 +1204,7 @@
     "commit": "3c49121f485be8119a0a5646af2969635eae89b7",
     "revealed_at_block": 7225260,
     "tag": "3c49121-contest-11",
-    "status": "in_progress",
+    "status": "pending",
     "docker_image": null
   },
   "5EfCEjji41C9ZCSSbh5UPy8g1CTQa63jRDotPy44t6nS84D1": {
@@ -1220,7 +1220,7 @@
     "commit": "486821737088591eb1847b47b852f28bfb3081fb",
     "revealed_at_block": 7225270,
     "tag": "4868217-contest-11",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5FhECopmkboRXe3smofLNyMFugf2Wj67Wkcad7UzHHQNAscT": {
@@ -1260,7 +1260,7 @@
     "commit": "4e0b3fdca7a6c597d1f6a405a8a57b0d67ad128b",
     "revealed_at_block": 7225448,
     "tag": "4e0b3fd-contest-11",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5CMJFqiLf81CrZ5rhY2v9cS3uu5WZUR3Erx7PGmcZ2Geh3Tq": {
@@ -1308,7 +1308,7 @@
     "commit": "91257db1d8b1188463916931ec4f2bd0260b6c31",
     "revealed_at_block": 7225490,
     "tag": "91257db-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DqvEqrfFgB1K2f3hc1i1CSt4NiQkW1LvNmQjKdhFogPmEN6": {
@@ -1348,7 +1348,7 @@
     "commit": "420172c947160a54b87166433cefb71304d29ee4",
     "revealed_at_block": 7225659,
     "tag": "420172c-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GTgp3TkYwVyKrYFRimKD35XJdJnFFyp3t46cgWy4nKSjitk": {
@@ -1356,7 +1356,7 @@
     "commit": "95f53b51a12b63fba0e050a3e9507cf00aceec75",
     "revealed_at_block": 7225663,
     "tag": "95f53b5-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5G8u7xvnAEX4M3n64xHzFnTh58qsC1WVYzM5XLH1HrtY2Y9Y": {
