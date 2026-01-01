@@ -900,8 +900,8 @@
     "commit": "b66a3e16cce5f217108d9fd2448e8671fdf00ba1",
     "revealed_at_block": 7224373,
     "tag": "b66a3e1-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hbt83fzbk:b66a3e1-contest-11"
   },
   "5GT5kPhUuNKnyAyHCpc8XMusSexR3Qu7TwZmooz3WpiGTv2M": {
     "repo": "ripe-banana-11/deep_tree",
@@ -1244,8 +1244,8 @@
     "commit": "31d860a9ea583a9aaa2810416f6ac9e8b73a5620",
     "revealed_at_block": 7225377,
     "tag": "31d860a-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hbzpfzkdv:31d860a-contest-11"
   },
   "5D7iXVZ12NLQPZF7QHPkrZQt4anpexkwEGYMjBUt9ecew9Lh": {
     "repo": "yuriai96/attempt-03",
