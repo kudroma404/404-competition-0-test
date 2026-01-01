@@ -100,7 +100,7 @@
     "commit": "c76fa7e4ca05e53a8d1479b1b0754ed6aad43895",
     "revealed_at_block": 7204287,
     "tag": "c76fa7e-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EFfRsZTVS1y29zurffcVtTYAdfPT3iWkDUoXEFdoukVFKQJ": {
@@ -260,7 +260,7 @@
     "commit": "8d3c7d629d76181ee92a0f5cc28740270e5c0398",
     "revealed_at_block": 7209456,
     "tag": "8d3c7d6-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EeHoMrWoUptkDBamb2m3YPyNeJN7tWb1VMvkf5w9iX2hwka": {
@@ -316,8 +316,8 @@
     "commit": "0cffca2133141a9ba2d344e4735abf1b697856ef",
     "revealed_at_block": 7212907,
     "tag": "0cffca2-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fhxxmi4eh:0cffca2-contest-11"
   },
   "5F1AA546Y5nHgNtLowS7thAD1efn1qVubqoxBCkVjAMyZ9yo": {
     "repo": "hugingface/mantis-17-2",
@@ -332,8 +332,8 @@
     "commit": "90907fe6066806f661c46072ede744153a391e0e",
     "revealed_at_block": 7212941,
     "tag": "90907fe-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fe2wvxlhb:90907fe-contest-11"
   },
   "5FGxe3AFaJ3LsM5LJtxdBS8143WFEd9eNWVKErr29uV1K8wt": {
     "repo": "itwm13/mv6obgr5",
@@ -460,7 +460,7 @@
     "commit": "d66b033beace3cdd5f1e46dd90c6a8ee8458532c",
     "revealed_at_block": 7214960,
     "tag": "d66b033-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CRhsW1Q8nm7mgJ6veGdXkq59KPZN1bZ66o2unRvSZjey9mn": {
@@ -612,7 +612,7 @@
     "commit": "a84cf5d849f50b8b597831317422bce98fb6f51e",
     "revealed_at_block": 7215832,
     "tag": "a84cf5d-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DvtfDfgALN66gMhpedSV6rHnKMhtvVs8dwxbPhKxrUdhqXj": {
@@ -1228,8 +1228,8 @@
     "commit": "6b04bd26a47b146451592c2810707fd368075044",
     "revealed_at_block": 7225361,
     "tag": "6b04bd2-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fhecopmkb:6b04bd2-contest-11"
   },
   "5DhaNLXsKYCiFN5tr5QLCfyxSAa7Vu9npN6VcB1BWR3FA9gx": {
     "repo": "jyotinayarman/goat-re-mv-2",
