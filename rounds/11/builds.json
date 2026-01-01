@@ -68,8 +68,8 @@
     "commit": "c8f31746bad57d82dcbd658d2eb9046d37d0b7ee",
     "revealed_at_block": 7204285,
     "tag": "c8f3174-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f1yt4khff:c8f3174-contest-11"
   },
   "5ChodDNYSfpJCfsBheKiY4XtMazkcFrfbBa6nusNVUmyo3oE": {
     "repo": "mokabetrade/byte-harbor",
@@ -148,7 +148,7 @@
     "commit": "ae47b27e51fcac63f386a6dbfdb112187af82433",
     "revealed_at_block": 7204317,
     "tag": "ae47b27-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HNQxuAxJ6a6o9XBVunx1aY5YfWTYzEB9P2v4LsHdMXLYbrW": {
@@ -220,7 +220,7 @@
     "commit": "95df263cfcb1b5f01ab1459a084e5d14d609edec",
     "revealed_at_block": 7204894,
     "tag": "95df263-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Gps7mPJUWwFqZPiuL7SxU2PUo8eez1Xp2JLqgaqpCM8eNEm": {
@@ -324,8 +324,8 @@
     "commit": "f9caf6ad8562ff78394a6b6f1e3e1d2c52a99607",
     "revealed_at_block": 7212920,
     "tag": "f9caf6a-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f1aa546y5:f9caf6a-contest-11"
   },
   "5Fe2WvxLhBad1jUVwMyV6L46eunViMpArFZFqKnUtuhBPR2J": {
     "repo": "hugingface/mantis-17-3",
@@ -628,7 +628,7 @@
     "commit": "00f3de01eee587a56b67d1b1bf8e9c08f1802fbd",
     "revealed_at_block": 7215960,
     "tag": "00f3de0-contest-11",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GBTr2e8dJbepWeR4SAZWBBQSDraJmnSYzm5QDkjEZ6c5JMy": {
@@ -740,8 +740,8 @@
     "commit": "f6872890fad2d10d68b1921b699984ff584dbdab",
     "revealed_at_block": 7218300,
     "tag": "f687289-contest-11",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f4hanqjax:f687289-contest-11"
   },
   "5Dhie1cz1a987kPFkvsVwxjKEg2uUMbSgm5N5vq6Drr8mDFH": {
     "repo": "kostik46/3d-gen-miner-v2",
