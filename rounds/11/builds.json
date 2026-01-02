@@ -1340,7 +1340,7 @@
     "commit": "4fcdfb386d53d460b0d0ca382d6b984064dbdb03",
     "revealed_at_block": 7225522,
     "tag": "4fcdfb3-contest-11",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5GZ1nrhXrbWddokdhvwG85iwAkWhHXtt9icaE8ChWpLn1UcG": {
