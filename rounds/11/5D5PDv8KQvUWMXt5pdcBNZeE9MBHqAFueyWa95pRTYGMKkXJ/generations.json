@@ -198,10 +198,10 @@
     "size": 63948704
   },
   "aac335885f4aa9fdd952951142fb9679b29360f5435ad365e3466c611783cd25": {
-    "ply": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0
+    "ply": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/aac335885f4aa9fdd952951142fb9679b29360f5435ad365e3466c611783cd25.ply",
+    "png": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/aac335885f4aa9fdd952951142fb9679b29360f5435ad365e3466c611783cd25.png",
+    "generation_time": 67.39070060901577,
+    "size": 24684960
   },
   "739f51df572edec2853492f9f34295274748edab03ed1eff4e54f87ed0a579ed": {
     "ply": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/739f51df572edec2853492f9f34295274748edab03ed1eff4e54f87ed0a579ed.ply",
@@ -222,16 +222,16 @@
     "size": 0
   },
   "dd39d5fce5d397f4d516efabdfb65f5ac899d607c709ebada64730c9d59d90ff": {
-    "ply": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0
+    "ply": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/dd39d5fce5d397f4d516efabdfb65f5ac899d607c709ebada64730c9d59d90ff.ply",
+    "png": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/dd39d5fce5d397f4d516efabdfb65f5ac899d607c709ebada64730c9d59d90ff.png",
+    "generation_time": 60.98312268697191,
+    "size": 6917920
   },
   "7192b95ce5924298101c2bfc42b8ea7aef63f9ffda83e9448393c01c12b13036": {
-    "ply": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0
+    "ply": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/7192b95ce5924298101c2bfc42b8ea7aef63f9ffda83e9448393c01c12b13036.ply",
+    "png": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/7192b95ce5924298101c2bfc42b8ea7aef63f9ffda83e9448393c01c12b13036.png",
+    "generation_time": 77.04923212603899,
+    "size": 21527584
   },
   "693fa83428318227b5389614d89ed1cf33f524db701737c39aa7fca9346532e4": {
     "ply": null,
