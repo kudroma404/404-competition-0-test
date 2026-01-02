@@ -1204,7 +1204,7 @@
     "commit": "3c49121f485be8119a0a5646af2969635eae89b7",
     "revealed_at_block": 7225260,
     "tag": "3c49121-contest-11",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5EfCEjji41C9ZCSSbh5UPy8g1CTQa63jRDotPy44t6nS84D1": {
@@ -1252,7 +1252,7 @@
     "commit": "b87b5c4b337afea976f02afa16f56b9974c351a8",
     "revealed_at_block": 7225430,
     "tag": "b87b5c4-contest-11",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5FEWJnmzabmtQyZqbj363k9voAD824Aj5221P4V55nY6P6fu": {
