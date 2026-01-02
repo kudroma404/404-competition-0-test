@@ -324,10 +324,10 @@
     "size": 0
   },
   "fe37418c9a9a7e1fd1f8d54029eb42d86b2a453ecc18bb56aabfa6eb5586a18e": {
-    "ply": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0
+    "ply": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/fe37418c9a9a7e1fd1f8d54029eb42d86b2a453ecc18bb56aabfa6eb5586a18e.ply",
+    "png": "https://subnet404.xyz/rounds/11/5D5PDv8KQvUWMXt5pdcBNZeE9MBHqAFueyWa95pRTYGMKkXJ/fe37418c9a9a7e1fd1f8d54029eb42d86b2a453ecc18bb56aabfa6eb5586a18e.png",
+    "generation_time": 33.06103708402952,
+    "size": 26390944
   },
   "f626e402b01b5681ed545acb0d994c4b107eadeeca673b278a18b4887ef05e3d": {
     "ply": null,
