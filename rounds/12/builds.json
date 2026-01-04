@@ -20,7 +20,7 @@
     "commit": "8454a08692c1a32c75b255ce750e6eed606e4763",
     "revealed_at_block": 7225876,
     "tag": "8454a08-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FLiyT19Vc2QEiuGkygZ7VZw9Y9i8WkT53k3Kda9FrKUUxuq": {
@@ -444,7 +444,7 @@
     "commit": "c0f936dbf2084da46b8e88dd6091ed3e8b715f41",
     "revealed_at_block": 7247142,
     "tag": "c0f936d-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FtCjhjd55Qpg82pEKYQJRw1YdzMepVUYFCa7ezRWZ2Tue8N": {
@@ -700,7 +700,7 @@
     "commit": "8d2e1db73c1789b08dacb7f39375a4cefc4bbb5d",
     "revealed_at_block": 7247459,
     "tag": "8d2e1db-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5g6o8lyl62:8d2e1db-contest-12"
   }
 }
