@@ -44,8 +44,8 @@
     "commit": "2459f9773a71e17b7b8437615c6c663364b32c53",
     "revealed_at_block": 7225877,
     "tag": "2459f97-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h8sktcys6:2459f97-contest-12"
   },
   "5DWqUrHcWut49u5bUX6z95rxSuFxZoTsySpAgLkmmv6q1B2Z": {
     "repo": "Woler-creator/rift-runner",
@@ -220,16 +220,16 @@
     "commit": "fde8d72fb5eed5b326f0d0c6b4faea1c7d9f222d",
     "revealed_at_block": 7233052,
     "tag": "fde8d72-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgruq9nck:fde8d72-contest-12"
   },
   "5HNRsASVn5GHk5Pc9EAzm6xVtFkiNaS7tifPQNjRR4QHmQmb": {
     "repo": "frogo-boro/ubiquitous-octo-train",
     "commit": "9759e377b8470bbce0339650f601519c7bac1117",
     "revealed_at_block": 7233142,
     "tag": "9759e37-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hnrsasvn5:9759e37-contest-12"
   },
   "5EL1UH4npyM8TTKUW5wn2Bd3bZJ3hsfEuUVz4CUtVQvHy7Jy": {
     "repo": "frogo-boro/ubiquitous-octo-train",
@@ -380,7 +380,7 @@
     "commit": "733ca92f2e0539b488e783642b0f7c49ccb24e69",
     "revealed_at_block": 7246868,
     "tag": "733ca92-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HQwnLTdCeaLr27X1L87trW5J3uRUotMe4chEPsvVmY9Nhyt": {
@@ -404,7 +404,7 @@
     "commit": "13688caf86b1d7287219a4663e0a76dc79511967",
     "revealed_at_block": 7246896,
     "tag": "13688ca-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5H6yUdC9qKzWhHHiwcrgAGyvgUCCUbfaVBsZofaSsWUtjtm2": {
@@ -428,7 +428,7 @@
     "commit": "6e327bd45e6b198f240c519ef53f68ba036f605b",
     "revealed_at_block": 7247040,
     "tag": "6e327bd-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GuMHp6gJSMzVdk7DPzgcjXUMvLQ6cYj8492xc1dERE7om3D": {
@@ -524,7 +524,7 @@
     "commit": "a8742fb018af12057044eadf420d74dce85f5645",
     "revealed_at_block": 7247306,
     "tag": "a8742fb-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HQB9SyDZff8WJGcxH7p2XZAf1zfTysUFCFW3zXswe3yTCE9": {
@@ -532,8 +532,8 @@
     "commit": "596ff835c627c5d84705c9baa577189d6e377910",
     "revealed_at_block": 7247313,
     "tag": "596ff83-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hqb9sydzf:596ff83-contest-12"
   },
   "5D7EvAxkBVkQdmBoVa9riJiH8yQ3xsvppZtyskZupyoLNJaF": {
     "repo": "rumasafeyeh580-lang/mine-2",
@@ -556,7 +556,7 @@
     "commit": "0e98d9439d95fc695f2ef8b806b73bd2f8cd8084",
     "revealed_at_block": 7247322,
     "tag": "0e98d94-contest-12",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5DUZTXzCyfBXrk1o9KjW9ky6trdCLi1ABqJDSHpmxUchJhMy": {
@@ -588,8 +588,8 @@
     "commit": "28acaba636a6fbf000ed1469b442f075f79e1ea7",
     "revealed_at_block": 7247339,
     "tag": "28acaba-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gt5kphuun:28acaba-contest-12"
   },
   "5CMJFqiLf81CrZ5rhY2v9cS3uu5WZUR3Erx7PGmcZ2Geh3Tq": {
     "repo": "yuriai96/attempt-01",
