@@ -1,0 +1,530 @@
+{
+  "5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6": {
+    "repo": "TuttiGenerator/wertox",
+    "commit": "e0c79c776bbe3c5e63e3a03a0ff3b9604fa2426a",
+    "round": "contest-12",
+    "revealed_at_block": 7225875
+  },
+  "5CnxA9q87uE4rkHqTfT4heV3wDXcpp4qyjRKd13Mm5UWv3iM": {
+    "repo": "TuttiGenerator/alipna",
+    "commit": "5b9d02c9a54a202559cfd356e8024cf159ae5626",
+    "round": "contest-12",
+    "revealed_at_block": 7225875
+  },
+  "5GQwvNuZKBKc7zn5zz1r4RoFoHgXXK1VAt4cQGSXWnJn3VRU": {
+    "repo": "Uglejo/literate-octo-carnival",
+    "commit": "8454a08692c1a32c75b255ce750e6eed606e4763",
+    "round": "contest-12",
+    "revealed_at_block": 7225876
+  },
+  "5FLiyT19Vc2QEiuGkygZ7VZw9Y9i8WkT53k3Kda9FrKUUxuq": {
+    "repo": "TuttiGenerator/iaos",
+    "commit": "39478fca2644286647ba7ddad25e0ee23d58d6ec",
+    "round": "contest-12",
+    "revealed_at_block": 7225876
+  },
+  "5Gq8zvd7mP49yHsHWCNobWuR4KZYjstC3vGo4S6fBmPLZaKx": {
+    "repo": "Uglejo/laughing-doodle",
+    "commit": "17ce13fef65f8dcb2b568c2cf2a19b8ed5de357f",
+    "round": "contest-12",
+    "revealed_at_block": 7225877
+  },
+  "5H8SKTCys6eSUeyjuKWX6WFHVjB1oCdcTWV9VKG1jtujTVU2": {
+    "repo": "Uglejo/miniature-tower",
+    "commit": "2459f9773a71e17b7b8437615c6c663364b32c53",
+    "round": "contest-12",
+    "revealed_at_block": 7225877
+  },
+  "5DWqUrHcWut49u5bUX6z95rxSuFxZoTsySpAgLkmmv6q1B2Z": {
+    "repo": "Woler-creator/rift-runner",
+    "commit": "8201c21894a35932304d56f60e25efd4727a9309",
+    "round": "contest-12",
+    "revealed_at_block": 7225878
+  },
+  "5DADu3QX3X2CeMkZEzxsHwF2annHoDwK2RT35Ra8NQ4cdJNq": {
+    "repo": "mokabetrade/novel",
+    "commit": "a8144b7c7ca9d915006532e9bcc0cd391fa47ddc",
+    "round": "contest-12",
+    "revealed_at_block": 7225878
+  },
+  "5Ff3xu4e8Memkfu7jWA6ngpJtWeV4ZVZ75Nq25CDNdhccY4n": {
+    "repo": "Uglejo/xalmo",
+    "commit": "421a8cb72a30ebcb10e1ce18483c4a680e6780f6",
+    "round": "contest-12",
+    "revealed_at_block": 7225879
+  },
+  "5EnVz2rC2WMCSVZnfj3yo1ahoGMnqNq6nA69JUajsEDPGGii": {
+    "repo": "Uglejo/orbexia",
+    "commit": "b72627f43009f35e4fcb7e8ce1b7456a0fbefc77",
+    "round": "contest-12",
+    "revealed_at_block": 7225879
+  },
+  "5GuU6kZvBAvFdB9tahQ3XjPrSUhjdLATWdx1uq47i2XwpKwZ": {
+    "repo": "Uglejo/plixor",
+    "commit": "44b96bef25c74183c0a23d938b2122eecd92aae9",
+    "round": "contest-12",
+    "revealed_at_block": 7225880
+  },
+  "5D7qugUXqThX5obTBfke1q6P8V6QGn2ii882z9xjDJgNCeNc": {
+    "repo": "TuttiGenerator/qumbyte",
+    "commit": "e859432578cb99275a13e803a7f69ee8a6545b20",
+    "round": "contest-12",
+    "revealed_at_block": 7225880
+  },
+  "5Gh2DH9ufNxLUyESBxBw3cwVxDaDFVHSKfaKWiusDtkCu1w4": {
+    "repo": "TuttiGenerator/animated-copper",
+    "commit": "10e3d9e2a6ef7a4441292854c8144ba7648938ad",
+    "round": "contest-12",
+    "revealed_at_block": 7225899
+  },
+  "5FF5opUuiLneZvN7j5cSLCjjGt967b8Ew3uLT1BwuMGwaqhP": {
+    "repo": "TuttiGenerator/bug-free",
+    "commit": "29d000bc2ff4cfc270e62853ee48e265447e8612",
+    "round": "contest-12",
+    "revealed_at_block": 7225899
+  },
+  "5GeNMoszhCaM1eLKoTRh4gegd2b7YfmhqJUPA7C33ntVCudT": {
+    "repo": "TuttiGenerator/ironfox-lab",
+    "commit": "19fb38c9f601c6bf54092b65eac365fb3e1992a4",
+    "round": "contest-12",
+    "revealed_at_block": 7225899
+  },
+  "5F1bRcTrAsj2xX6B9A6f61NZd3AinDbhN7yemX8iVbXxS1uP": {
+    "repo": "TuttiGenerator/flarnix",
+    "commit": "346e2f5b84e1b48f828a0a7b71c567349ebca4e7",
+    "round": "contest-12",
+    "revealed_at_block": 7225899
+  },
+  "5HJvp6ZSTt9qV3sLnrwqsmQX4AibV2WcyzERxGz9qo87hcGq": {
+    "repo": "Uglejo/crispy-umbrella",
+    "commit": "568867282c1cba281cbb04288b1c901ba5c80971",
+    "round": "contest-12",
+    "revealed_at_block": 7225899
+  },
+  "5FNWUfhA3Wwq5wvbP9ci3gstHssqDvYSygRQ5aZY4n6Rukyn": {
+    "repo": "TuttiGenerator/nebula-stack",
+    "commit": "7ab83f489cbae369c21170ebf73af63cd770d384",
+    "round": "contest-12",
+    "revealed_at_block": 7225899
+  },
+  "5DhrMRiaV6adXWxcpwpVLAac5kLXbBgq2DzPVhTw74xFv3CJ": {
+    "repo": "TuttiGenerator/polar-node",
+    "commit": "2d93e3822e29aade035c47ac8c32a75464be1192",
+    "round": "contest-12",
+    "revealed_at_block": 7225900
+  },
+  "5CeyBXvevNxDzEGNWtRFcgHUkTJXzv5sXQzuf2AP75tYKotB": {
+    "repo": "TuttiGenerator/silent-orbit",
+    "commit": "700a1eadc74f354810872ce163152f7994bc61c1",
+    "round": "contest-12",
+    "revealed_at_block": 7225900
+  },
+  "5EEdbizRinqtCQnjC6d6RuHJwEGgXC79LGT9vXZdGfvSMJfY": {
+    "repo": "TuttiGenerator/hexforge",
+    "commit": "0755ad5105dc2859803c65f9e85433befe7b0703",
+    "round": "contest-12",
+    "revealed_at_block": 7225900
+  },
+  "5EZ86h7mV2r4FmycAgvgxay83MGtyFBGweXNou2hunjN9rtn": {
+    "repo": "TuttiGenerator/bitstream-core",
+    "commit": "0bb4edd36d47e7f01852d38822dd3bb3e1da2049",
+    "round": "contest-12",
+    "revealed_at_block": 7225900
+  },
+  "5EeoBSBE3ozwazUeK3vfy6D9uF4ajwMWAtTkQcEGzoK7YJUH": {
+    "repo": "TuttiGenerator/quantum-chutes",
+    "commit": "02f123b86db5c230b7cf60592de2692344310885",
+    "round": "contest-12",
+    "revealed_at_block": 7225901
+  },
+  "5E6rSZrWspqHk6KNhuG7CmjuQG8qhn7ekmP3ppXH8uvbzfVi": {
+    "repo": "mesh404-repo/3d",
+    "commit": "4456a23fcf440450682574b1a43a80418bff6c9b",
+    "round": "contest-12",
+    "revealed_at_block": 7232041
+  },
+  "5CANSvFN64sekaV2NAgy4BmgVpGnrt9ZuxiNqwXiLpLmfVuw": {
+    "repo": "rumasafeyeh580-lang/mine-8",
+    "commit": "ce654b67dd06be03c08ba05917499f08592071ba",
+    "round": "contest-12",
+    "revealed_at_block": 7232133
+  },
+  "5DhfPxEgQt8Pw9zHYfVth6dCpXrrGjVU5ZJUqi78TYhkp8CV": {
+    "repo": "tuandao-zenai/curly-octo-succotash",
+    "commit": "0e965cf7512fa2b0f9996ffc407e80f52e71559d",
+    "round": "contest-12",
+    "revealed_at_block": 7233031
+  },
+  "5EnY473ou6xNssXczhLkxUMZge1FQi4NU2hoBCF31Xgz15E1": {
+    "repo": "tuandao-zenai/curly-octo-succotash",
+    "commit": "efa329fe00a025e5173027bece2752de3656070f",
+    "round": "contest-12",
+    "revealed_at_block": 7233041
+  },
+  "5HGrUq9nCknUJoBnAngbpjCCA6Ficetj63pJXgCkwegcXcqW": {
+    "repo": "tuandao-zenai/curly-octo-succotash",
+    "commit": "fde8d72fb5eed5b326f0d0c6b4faea1c7d9f222d",
+    "round": "contest-12",
+    "revealed_at_block": 7233052
+  },
+  "5HNRsASVn5GHk5Pc9EAzm6xVtFkiNaS7tifPQNjRR4QHmQmb": {
+    "repo": "frogo-boro/ubiquitous-octo-train",
+    "commit": "9759e377b8470bbce0339650f601519c7bac1117",
+    "round": "contest-12",
+    "revealed_at_block": 7233142
+  },
+  "5EL1UH4npyM8TTKUW5wn2Bd3bZJ3hsfEuUVz4CUtVQvHy7Jy": {
+    "repo": "frogo-boro/ubiquitous-octo-train",
+    "commit": "52db45db46adaf555c04c2813a4e13faec098115",
+    "round": "contest-12",
+    "revealed_at_block": 7233160
+  },
+  "5Ff9A7sBA58ju6zngwrJQcsroZoK7gHw8BuCAQLLiVimajdT": {
+    "repo": "frogo-boro/ubiquitous-octo-train",
+    "commit": "9511f7d55bb914c37eb390f6643f14afb3aab1ab",
+    "round": "contest-12",
+    "revealed_at_block": 7233175
+  },
+  "5FLBBC1FDnZQZAt4yzHHpRLGxgCw4xZybTb9r3PZ7LRueqza": {
+    "repo": "frogo-boro/automatic-guide",
+    "commit": "6c23f9a871b31af3127a5413dc609106abb1a192",
+    "round": "contest-12",
+    "revealed_at_block": 7233729
+  },
+  "5CtcDhFB4AzGietfhWXkbSu3wnjwh6eDU8VHbsPWLxQ2CCaa": {
+    "repo": "frogo-boro/automatic-guide",
+    "commit": "725f1591909470b20984b2ea1e7716b21fff620a",
+    "round": "contest-12",
+    "revealed_at_block": 7233751
+  },
+  "5D4oWDLMA9yK6Nv5ca5zHXm3D89XcsZmveEDJpdYmwHACdDK": {
+    "repo": "frogo-boro/automatic-guide",
+    "commit": "c18626e347f890c6000bf7599cc37a81645e060a",
+    "round": "contest-12",
+    "revealed_at_block": 7233772
+  },
+  "5CwjXyc1wJXV8ZkyPKnLjx6L3TB8LnduLkpyAyjC8mVE1DnQ": {
+    "repo": "frogo-boro/automatic-guide",
+    "commit": "40aaf384cabe11061020257dfe8dd79d6413d1da",
+    "round": "contest-12",
+    "revealed_at_block": 7233790
+  },
+  "5G9v37EZcMJ6deLKDdmF35hKfq9Tf4dYojGFFbtSRceDT4oS": {
+    "repo": "hiep-nd11/sn17_z",
+    "commit": "ada56981447612246fd48c858b6916e4c80e6f11",
+    "round": "contest-12",
+    "revealed_at_block": 7239538
+  },
+  "5GnESLTv7mVY1hb6uNg1jrXZEFixXxHudNuoE3DrFbhRx8qo": {
+    "repo": "ripe-banana-11/fantastic-happiness",
+    "commit": "5df19d710681ae32e544704f9804a1e28e5004cc",
+    "round": "contest-12",
+    "revealed_at_block": 7241876
+  },
+  "5C7kxmHS95BNbW6teEEXMCLddkbU7bYKWKBoGKToHoamMrfm": {
+    "repo": "ripe-banana-11/fantastic-happiness",
+    "commit": "45c9cf2d83b87234c564702d8a609ad11ee058ad",
+    "round": "contest-12",
+    "revealed_at_block": 7241886
+  },
+  "5HbT83FZbKqvDHZpQ23BeMByv18om3XRMj1bLztq1wWjXbj4": {
+    "repo": "ripe-banana-11/fantastic-happiness",
+    "commit": "49d5fb0e56219393fbcc49aa024a0c7ef479d1eb",
+    "round": "contest-12",
+    "revealed_at_block": 7241896
+  },
+  "5DvfxsGDDAMZgFCeBFhmBFB7QJgT9Por4YPbR8ddPeGSQnEC": {
+    "repo": "ripe-banana-11/fantastic-happiness",
+    "commit": "99f48258c787535d6cb9534edd4553a12ad931ab",
+    "round": "contest-12",
+    "revealed_at_block": 7241905
+  },
+  "5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP": {
+    "repo": "kostik46/3d-gen-miner",
+    "commit": "266694a4abf5910d3bfb4f65034bc2e239fa52eb",
+    "round": "contest-12",
+    "revealed_at_block": 7246389
+  },
+  "5Dhie1cz1a987kPFkvsVwxjKEg2uUMbSgm5N5vq6Drr8mDFH": {
+    "repo": "kostik46/3d-gen-miner-v2",
+    "commit": "43b38f9124cd1957c881087d7ae317f368d5feda",
+    "round": "contest-12",
+    "revealed_at_block": 7246399
+  },
+  "5E4Tm2YDHnemmtkdCifgJK1f9uzPahquneFPvNx8vgUKDa6H": {
+    "repo": "kostik46/3d-gen-miner-v3",
+    "commit": "78f33639bf7d68fbb71571873c0697ff3421c49e",
+    "round": "contest-12",
+    "revealed_at_block": 7246406
+  },
+  "5CJTTvDapffdzhVp3tddM1GtbrooAUnWpkN7B3nR5ur5bkhh": {
+    "repo": "kostik46/3d-gen-miner-v4",
+    "commit": "dc1268128d3dda57e786a8df6bd1a0e4a5a745d5",
+    "round": "contest-12",
+    "revealed_at_block": 7246414
+  },
+  "5GbccQEAhXJKaNX7xDoom6LjhXuacHtU8aS4LZvrxZh3tKcZ": {
+    "repo": "kostik46/3d-gen-miner-v5",
+    "commit": "9a9fa8a7cb3c80b0f062fd43259da9b02059b326",
+    "round": "contest-12",
+    "revealed_at_block": 7246420
+  },
+  "5DVHQ3aRKnqnahxeRTmXUMmwPwouQVRNiVh1iKy4GAdLvcEi": {
+    "repo": "kostik46/3d-gen-miner-v6",
+    "commit": "fc46ba078b4411c59d7a58948630cad7b40cee5c",
+    "round": "contest-12",
+    "revealed_at_block": 7246426
+  },
+  "5C5jQxKg7u11rUWsQRnvxyr3HdMhVtuZhH7cLHaaqPsMg3Kd": {
+    "repo": "Uglejo/trenzik",
+    "commit": "0e139f15e012876aa9f753e255219ec527d269da",
+    "round": "contest-12",
+    "revealed_at_block": 7246856
+  },
+  "5H76LSKUmaVbxXVyT5tL9N9kkKPACRWPPrmNJm8QM32pNEGB": {
+    "repo": "itwm13/NextGen3D",
+    "commit": "733ca92f2e0539b488e783642b0f7c49ccb24e69",
+    "round": "contest-12",
+    "revealed_at_block": 7246868
+  },
+  "5HQwnLTdCeaLr27X1L87trW5J3uRUotMe4chEPsvVmY9Nhyt": {
+    "repo": "mokabetrade/cloud-forge",
+    "commit": "09c992415428abd989ec49f4015818e4f1e3bb3e",
+    "round": "contest-12",
+    "revealed_at_block": 7246875
+  },
+  "5CtEC66XSu4RQcEHW312TShe3eDb4jzFgAJRXZPRc5ZuwoGd": {
+    "repo": "TuttiGenerator/alekno",
+    "commit": "c01c12f599823700e974f2398a08e9503eff243a",
+    "round": "contest-12",
+    "revealed_at_block": 7246886
+  },
+  "5Hap9AY2XLfQnx25hfSsJ5qhsyD2dnBggwQBE7bj5NKJro18": {
+    "repo": "TuttiGenerator/oliks",
+    "commit": "13688caf86b1d7287219a4663e0a76dc79511967",
+    "round": "contest-12",
+    "revealed_at_block": 7246896
+  },
+  "5H6yUdC9qKzWhHHiwcrgAGyvgUCCUbfaVBsZofaSsWUtjtm2": {
+    "repo": "mokabetrade/expert-enigma",
+    "commit": "287fd268a19ccf5b88c969a69bb781f4999bfc84",
+    "round": "contest-12",
+    "revealed_at_block": 7247031
+  },
+  "5Fk4aYBsBR5ATVyphviCMNEerYrcfUgDKcag9by9BpmEYvsF": {
+    "repo": "yuriai96/attempt-01",
+    "commit": "3681fa70db670eca33d5ede6d8c887b81fbb8a8a",
+    "round": "contest-12",
+    "revealed_at_block": 7247033
+  },
+  "5HpkMQ9GiZtQK17uPgQTmaoDGEW574ZDkZv2FxLN7Q5Q83bL": {
+    "repo": "mokabetrade/wols",
+    "commit": "6e327bd45e6b198f240c519ef53f68ba036f605b",
+    "round": "contest-12",
+    "revealed_at_block": 7247040
+  },
+  "5GuMHp6gJSMzVdk7DPzgcjXUMvLQ6cYj8492xc1dERE7om3D": {
+    "repo": "manbeast3b/i23d-g5-lo",
+    "commit": "a18b331be03e607364d894264ba009ea443ef308",
+    "round": "contest-12",
+    "revealed_at_block": 7247116
+  },
+  "5GKQatUYU5Y3jGtYqJtGSFvLADma83ZM3Nbuprfs52uxVbnh": {
+    "repo": "jyotinayarman/goat-ya-du5",
+    "commit": "c0f936dbf2084da46b8e88dd6091ed3e8b715f41",
+    "round": "contest-12",
+    "revealed_at_block": 7247142
+  },
+  "5FtCjhjd55Qpg82pEKYQJRw1YdzMepVUYFCa7ezRWZ2Tue8N": {
+    "repo": "rumasafeyeh580-lang/mine-5",
+    "commit": "d66b033beace3cdd5f1e46dd90c6a8ee8458532c",
+    "round": "contest-12",
+    "revealed_at_block": 7247165
+  },
+  "5Dnpwff6sYuXnpNYLTZP23NpoxAVnU9K7BAWJRzbxhkCprJ2": {
+    "repo": "yuriai96/attempt-02",
+    "commit": "10f47a4e51f76c474eef6c79cf378512029b41c9",
+    "round": "contest-12",
+    "revealed_at_block": 7247213
+  },
+  "5EfCEjji41C9ZCSSbh5UPy8g1CTQa63jRDotPy44t6nS84D1": {
+    "repo": "yuriai96/attempt-04",
+    "commit": "79acd7cb7854264d92d0c091615f6dec28341551",
+    "round": "contest-12",
+    "revealed_at_block": 7247240
+  },
+  "5D7iXVZ12NLQPZF7QHPkrZQt4anpexkwEGYMjBUt9ecew9Lh": {
+    "repo": "yuriai96/attempt-02",
+    "commit": "76057bee7c97bc029fa91100a9a5f699b3986d3d",
+    "round": "contest-12",
+    "revealed_at_block": 7247253
+  },
+  "5ChRWSQDvetREt6X26E5Uk2p5TpEiQMPnCFohsrMDiydGGkY": {
+    "repo": "yuriai96/attempt-03",
+    "commit": "18fd2dcf6f452d0bb898f2108457ce5f729d75f1",
+    "round": "contest-12",
+    "revealed_at_block": 7247260
+  },
+  "5FEWJnmzabmtQyZqbj363k9voAD824Aj5221P4V55nY6P6fu": {
+    "repo": "yuriai96/attempt-04",
+    "commit": "05a93a2af26f53bfa42718ac545936d7f16e3527",
+    "round": "contest-12",
+    "revealed_at_block": 7247267
+  },
+  "5ERijpAXqyDC2LYC2TxzDypUwFwrtHKiim1dTBy6NzbJVpN7": {
+    "repo": "yuriai96/attempt-03",
+    "commit": "3ea6786f3627ac5367dbec868c170b11b568ec83",
+    "round": "contest-12",
+    "revealed_at_block": 7247288
+  },
+  "5CRhsW1Q8nm7mgJ6veGdXkq59KPZN1bZ66o2unRvSZjey9mn": {
+    "repo": "rumasafeyeh580-lang/mine-9",
+    "commit": "fea52838575e3d2a8a0cd5f21a7c3ff2a43c60b4",
+    "round": "contest-12",
+    "revealed_at_block": 7247288
+  },
+  "5FCavEXznHEALtA8rC2yyABT6NqbZWSMaPLWWE35WQaHCV25": {
+    "repo": "jyotinayarman/goat-ya-duel1",
+    "commit": "83c26465ab1a8c178cffb321076d018e2c864ffd",
+    "round": "contest-12",
+    "revealed_at_block": 7247289
+  },
+  "5HNQxuAxJ6a6o9XBVunx1aY5YfWTYzEB9P2v4LsHdMXLYbrW": {
+    "repo": "jyotinayarman/goat-ya-duel2",
+    "commit": "a8742fb018af12057044eadf420d74dce85f5645",
+    "round": "contest-12",
+    "revealed_at_block": 7247306
+  },
+  "5HQB9SyDZff8WJGcxH7p2XZAf1zfTysUFCFW3zXswe3yTCE9": {
+    "repo": "jakalbill922-bot/404-jakalbill922-01",
+    "commit": "596ff835c627c5d84705c9baa577189d6e377910",
+    "round": "contest-12",
+    "revealed_at_block": 7247313
+  },
+  "5D7EvAxkBVkQdmBoVa9riJiH8yQ3xsvppZtyskZupyoLNJaF": {
+    "repo": "rumasafeyeh580-lang/mine-2",
+    "commit": "990e789a53f1af10a26bf285d05ce924816335c5",
+    "round": "contest-12",
+    "revealed_at_block": 7247318
+  },
+  "5GGmstaBGjrgC1g7dCebSEegC3VjpVZj98oP3d1z8dDVkwCU": {
+    "repo": "jyotinayarman/goat-ya-duel3",
+    "commit": "27f4b816e7d7a1888ce987e92a6b97c9d7281895",
+    "round": "contest-12",
+    "revealed_at_block": 7247320
+  },
+  "5GTeTG8qyM5jTKjWNW2Y43csdBkFZC1aXmW8RBwnVAZ2CnSL": {
+    "repo": "yuriai96/attempt-01",
+    "commit": "0e98d9439d95fc695f2ef8b806b73bd2f8cd8084",
+    "round": "contest-12",
+    "revealed_at_block": 7247322
+  },
+  "5DUZTXzCyfBXrk1o9KjW9ky6trdCLi1ABqJDSHpmxUchJhMy": {
+    "repo": "rumasafeyeh580-lang/mine-6",
+    "commit": "33843270a4ba7ea5d5cc0e6c02ddc4aedfec16aa",
+    "round": "contest-12",
+    "revealed_at_block": 7247328
+  },
+  "5FFQ6ZXS2VaaiJcsZhZfnGVbxoSTonqs5PRD4817i6qEeBUq": {
+    "repo": "jyotinayarman/goat-10",
+    "commit": "a2159b848f6758e46c06a89a72e37f44724bb24b",
+    "round": "contest-12",
+    "revealed_at_block": 7247332
+  },
+  "5CkYoQTG87ngM2zVhavTJrSB2vjHPLVxj7oLeVLsDgmD2fA9": {
+    "repo": "rumasafeyeh580-lang/mine-7",
+    "commit": "85a242b567a9cdbf749be579bc6120f3c355ea5a",
+    "round": "contest-12",
+    "revealed_at_block": 7247337
+  },
+  "5GT5kPhUuNKnyAyHCpc8XMusSexR3Qu7TwZmooz3WpiGTv2M": {
+    "repo": "ripe-banana-11/literate-waddle",
+    "commit": "28acaba636a6fbf000ed1469b442f075f79e1ea7",
+    "round": "contest-12",
+    "revealed_at_block": 7247339
+  },
+  "5CMJFqiLf81CrZ5rhY2v9cS3uu5WZUR3Erx7PGmcZ2Geh3Tq": {
+    "repo": "yuriai96/attempt-01",
+    "commit": "2ef14132c801d545a48ae4c24c2f7fb1aaa5d24e",
+    "round": "contest-12",
+    "revealed_at_block": 7247353
+  },
+  "5G1KnruoWGLVNCmBCNBsfvSbmNrhx9YEH6To9j7Xg4wyCH8x": {
+    "repo": "ripe-banana-11/literate-waddle",
+    "commit": "29ddda05b98cedaec6dbfc9af6e745c2d3166208",
+    "round": "contest-12",
+    "revealed_at_block": 7247354
+  },
+  "5CFsFJ1fVX4V7xSzrY9SVMuU8CWY9YqQ9Mgmqh3dZPGrcfet": {
+    "repo": "manbeast3b/i23d-4",
+    "commit": "67a13a0070f424447326813e90e2b4c09f3db7a5",
+    "round": "contest-12",
+    "revealed_at_block": 7247356
+  },
+  "5EL4rGkh3Uvp6GWQ63miSj6TW6nhJFDAWoMHSbARsWxWmr3V": {
+    "repo": "jyotinayarman/goat-mv-optimalp1",
+    "commit": "3c43ac8798ae87886592691e8015e45d243cbfe6",
+    "round": "contest-12",
+    "revealed_at_block": 7247375
+  },
+  "5Ew9jkCxSkGDeBJgjXZNJbmQhLrFuKZBjCx3oAhF755GubvH": {
+    "repo": "yuriai96/attempt-01",
+    "commit": "63826c4ba243353dc35d6634f8568929085d0767",
+    "round": "contest-12",
+    "revealed_at_block": 7247387
+  },
+  "5EhiYyyykK5oPyhVxGEtn7KziadcnHUpViBJz7DS3JLqmAsc": {
+    "repo": "ripe-banana-11/literate-waddle",
+    "commit": "84dcb11790a75f3c0a6565e341aade63dbbf3c8b",
+    "round": "contest-12",
+    "revealed_at_block": 7247391
+  },
+  "5DtQpfknLUSBrxJHPhiSsPvLcbaNNPM7hdYxbB6eAjiacbVv": {
+    "repo": "jyotinayarman/goat-mv-effcent",
+    "commit": "202f1e869d71d607e5d3fdf398cc9c2a4c13fada",
+    "round": "contest-12",
+    "revealed_at_block": 7247397
+  },
+  "5DcB2tonJ7uFArSrV1aw2SSPYXV9cFBQ8GSB4KMHftXo1ETD": {
+    "repo": "yuriai96/attempt-01",
+    "commit": "182651be46503f61ba747156ca22d186449f070c",
+    "round": "contest-12",
+    "revealed_at_block": 7247400
+  },
+  "5CY721q4tEGRXPHA4yFwYgBu6fTpYDyiZ99f5pVEtHH517vN": {
+    "repo": "jyotinayarman/goat-mv-optimalp3",
+    "commit": "e094428899295555f2e48fb2750953646e1f5f6c",
+    "round": "contest-12",
+    "revealed_at_block": 7247410
+  },
+  "5CfBogmkBsSYwjPWtVVvYomxUv2f951j2dLMnSp4WuANL7gG": {
+    "repo": "yuriai96/attempt-01",
+    "commit": "754a2d1b0359d719e7d469d508f2640d28c60cb9",
+    "round": "contest-12",
+    "revealed_at_block": 7247416
+  },
+  "5Gq6F8MTe5GBSoiMT6fcPfSSrNKPh3qTaRKBEjdZKTkYQ5aN": {
+    "repo": "gipixefuv90-a11y/gen3d-project3",
+    "commit": "fc66e2a48723e058d7a2793fcff51e321fb45232",
+    "round": "contest-12",
+    "revealed_at_block": 7247425
+  },
+  "5CB5qagFzS5kGys7uoUJe6VtiG1dHWkfJuQThNskhdKS9ts2": {
+    "repo": "manbeast3b/i23d-7",
+    "commit": "9efa61610c46b355fa40874327828253db9d8578",
+    "round": "contest-12",
+    "revealed_at_block": 7247426
+  },
+  "5DLqRJUKaGha2ULsAdcmz9vFk8kneYqyhhxfGQEygrvHzM8C": {
+    "repo": "jyotinayarman/goat-mv-optimalp2",
+    "commit": "25be95c47e2e327277f0a198f58b7f9c4e119c91",
+    "round": "contest-12",
+    "revealed_at_block": 7247441
+  },
+  "5G6o8LyL62Lza3KJdPnNxoopBf2tf6HLvtFVYUQcEq2XRSdw": {
+    "repo": "jyotinayarman/goat-ya-du4",
+    "commit": "8d2e1db73c1789b08dacb7f39375a4cefc4bbb5d",
+    "round": "contest-12",
+    "revealed_at_block": 7247459
+  }
+}
