@@ -284,8 +284,8 @@
     "commit": "ada56981447612246fd48c858b6916e4c80e6f11",
     "revealed_at_block": 7239538,
     "tag": "ada5698-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5g9v37ezcm:ada5698-contest-12"
   },
   "5GnESLTv7mVY1hb6uNg1jrXZEFixXxHudNuoE3DrFbhRx8qo": {
     "repo": "ripe-banana-11/fantastic-happiness",
@@ -420,7 +420,7 @@
     "commit": "3681fa70db670eca33d5ede6d8c887b81fbb8a8a",
     "revealed_at_block": 7247033,
     "tag": "3681fa7-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HpkMQ9GiZtQK17uPgQTmaoDGEW574ZDkZv2FxLN7Q5Q83bL": {
@@ -548,7 +548,7 @@
     "commit": "27f4b816e7d7a1888ce987e92a6b97c9d7281895",
     "revealed_at_block": 7247320,
     "tag": "27f4b81-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GTeTG8qyM5jTKjWNW2Y43csdBkFZC1aXmW8RBwnVAZ2CnSL": {
@@ -604,8 +604,8 @@
     "commit": "29ddda05b98cedaec6dbfc9af6e745c2d3166208",
     "revealed_at_block": 7247354,
     "tag": "29ddda0-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5g1knruowg:29ddda0-contest-12"
   },
   "5CFsFJ1fVX4V7xSzrY9SVMuU8CWY9YqQ9Mgmqh3dZPGrcfet": {
     "repo": "manbeast3b/i23d-4",
