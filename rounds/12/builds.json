@@ -28,8 +28,8 @@
     "commit": "39478fca2644286647ba7ddad25e0ee23d58d6ec",
     "revealed_at_block": 7225876,
     "tag": "39478fc-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fliyt19vc:39478fc-contest-12"
   },
   "5Gq8zvd7mP49yHsHWCNobWuR4KZYjstC3vGo4S6fBmPLZaKx": {
     "repo": "Uglejo/laughing-doodle",
@@ -68,8 +68,8 @@
     "commit": "421a8cb72a30ebcb10e1ce18483c4a680e6780f6",
     "revealed_at_block": 7225879,
     "tag": "421a8cb-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ff3xu4e8m:421a8cb-contest-12"
   },
   "5EnVz2rC2WMCSVZnfj3yo1ahoGMnqNq6nA69JUajsEDPGGii": {
     "repo": "Uglejo/orbexia",
@@ -140,8 +140,8 @@
     "commit": "7ab83f489cbae369c21170ebf73af63cd770d384",
     "revealed_at_block": 7225899,
     "tag": "7ab83f4-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fnwufha3w:7ab83f4-contest-12"
   },
   "5DhrMRiaV6adXWxcpwpVLAac5kLXbBgq2DzPVhTw74xFv3CJ": {
     "repo": "TuttiGenerator/polar-node",
@@ -244,8 +244,8 @@
     "commit": "9511f7d55bb914c37eb390f6643f14afb3aab1ab",
     "revealed_at_block": 7233175,
     "tag": "9511f7d-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ff9a7sba5:9511f7d-contest-12"
   },
   "5FLBBC1FDnZQZAt4yzHHpRLGxgCw4xZybTb9r3PZ7LRueqza": {
     "repo": "frogo-boro/automatic-guide",
@@ -284,7 +284,7 @@
     "commit": "ada56981447612246fd48c858b6916e4c80e6f11",
     "revealed_at_block": 7239538,
     "tag": "ada5698-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GnESLTv7mVY1hb6uNg1jrXZEFixXxHudNuoE3DrFbhRx8qo": {
@@ -452,8 +452,8 @@
     "commit": "d66b033beace3cdd5f1e46dd90c6a8ee8458532c",
     "revealed_at_block": 7247165,
     "tag": "d66b033-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ftcjhjd55:d66b033-contest-12"
   },
   "5Dnpwff6sYuXnpNYLTZP23NpoxAVnU9K7BAWJRzbxhkCprJ2": {
     "repo": "yuriai96/attempt-02",
@@ -492,7 +492,7 @@
     "commit": "05a93a2af26f53bfa42718ac545936d7f16e3527",
     "revealed_at_block": 7247267,
     "tag": "05a93a2-contest-12",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5ERijpAXqyDC2LYC2TxzDypUwFwrtHKiim1dTBy6NzbJVpN7": {
@@ -604,7 +604,7 @@
     "commit": "29ddda05b98cedaec6dbfc9af6e745c2d3166208",
     "revealed_at_block": 7247354,
     "tag": "29ddda0-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CFsFJ1fVX4V7xSzrY9SVMuU8CWY9YqQ9Mgmqh3dZPGrcfet": {
@@ -700,7 +700,7 @@
     "commit": "8d2e1db73c1789b08dacb7f39375a4cefc4bbb5d",
     "revealed_at_block": 7247459,
     "tag": "8d2e1db-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   }
 }
