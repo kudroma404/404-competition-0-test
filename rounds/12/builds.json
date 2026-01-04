@@ -124,8 +124,8 @@
     "commit": "346e2f5b84e1b48f828a0a7b71c567349ebca4e7",
     "revealed_at_block": 7225899,
     "tag": "346e2f5-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f1brctras:346e2f5-contest-12"
   },
   "5HJvp6ZSTt9qV3sLnrwqsmQX4AibV2WcyzERxGz9qo87hcGq": {
     "repo": "Uglejo/crispy-umbrella",
@@ -460,7 +460,7 @@
     "commit": "10f47a4e51f76c474eef6c79cf378512029b41c9",
     "revealed_at_block": 7247213,
     "tag": "10f47a4-contest-12",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5EfCEjji41C9ZCSSbh5UPy8g1CTQa63jRDotPy44t6nS84D1": {
@@ -492,7 +492,7 @@
     "commit": "05a93a2af26f53bfa42718ac545936d7f16e3527",
     "revealed_at_block": 7247267,
     "tag": "05a93a2-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5ERijpAXqyDC2LYC2TxzDypUwFwrtHKiim1dTBy6NzbJVpN7": {
@@ -500,7 +500,7 @@
     "commit": "3ea6786f3627ac5367dbec868c170b11b568ec83",
     "revealed_at_block": 7247288,
     "tag": "3ea6786-contest-12",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5CRhsW1Q8nm7mgJ6veGdXkq59KPZN1bZ66o2unRvSZjey9mn": {
@@ -636,8 +636,8 @@
     "commit": "84dcb11790a75f3c0a6565e341aade63dbbf3c8b",
     "revealed_at_block": 7247391,
     "tag": "84dcb11-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ehiyyyykk:84dcb11-contest-12"
   },
   "5DtQpfknLUSBrxJHPhiSsPvLcbaNNPM7hdYxbB6eAjiacbVv": {
     "repo": "jyotinayarman/goat-mv-effcent",
