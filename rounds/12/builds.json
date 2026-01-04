@@ -292,8 +292,8 @@
     "commit": "5df19d710681ae32e544704f9804a1e28e5004cc",
     "revealed_at_block": 7241876,
     "tag": "5df19d7-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gnesltv7m:5df19d7-contest-12"
   },
   "5C7kxmHS95BNbW6teEEXMCLddkbU7bYKWKBoGKToHoamMrfm": {
     "repo": "ripe-banana-11/fantastic-happiness",
@@ -380,8 +380,8 @@
     "commit": "733ca92f2e0539b488e783642b0f7c49ccb24e69",
     "revealed_at_block": 7246868,
     "tag": "733ca92-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h76lskuma:733ca92-contest-12"
   },
   "5HQwnLTdCeaLr27X1L87trW5J3uRUotMe4chEPsvVmY9Nhyt": {
     "repo": "mokabetrade/cloud-forge",
@@ -404,8 +404,8 @@
     "commit": "13688caf86b1d7287219a4663e0a76dc79511967",
     "revealed_at_block": 7246896,
     "tag": "13688ca-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hap9ay2xl:13688ca-contest-12"
   },
   "5H6yUdC9qKzWhHHiwcrgAGyvgUCCUbfaVBsZofaSsWUtjtm2": {
     "repo": "mokabetrade/expert-enigma",
@@ -428,8 +428,8 @@
     "commit": "6e327bd45e6b198f240c519ef53f68ba036f605b",
     "revealed_at_block": 7247040,
     "tag": "6e327bd-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpkmq9giz:6e327bd-contest-12"
   },
   "5GuMHp6gJSMzVdk7DPzgcjXUMvLQ6cYj8492xc1dERE7om3D": {
     "repo": "manbeast3b/i23d-g5-lo",
@@ -524,8 +524,8 @@
     "commit": "a8742fb018af12057044eadf420d74dce85f5645",
     "revealed_at_block": 7247306,
     "tag": "a8742fb-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hnqxuaxj6:a8742fb-contest-12"
   },
   "5HQB9SyDZff8WJGcxH7p2XZAf1zfTysUFCFW3zXswe3yTCE9": {
     "repo": "jakalbill922-bot/404-jakalbill922-01",
