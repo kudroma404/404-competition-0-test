@@ -28,7 +28,7 @@
     "commit": "39478fca2644286647ba7ddad25e0ee23d58d6ec",
     "revealed_at_block": 7225876,
     "tag": "39478fc-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Gq8zvd7mP49yHsHWCNobWuR4KZYjstC3vGo4S6fBmPLZaKx": {
@@ -108,8 +108,8 @@
     "commit": "29d000bc2ff4cfc270e62853ee48e265447e8612",
     "revealed_at_block": 7225899,
     "tag": "29d000b-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ff5opuuil:29d000b-contest-12"
   },
   "5GeNMoszhCaM1eLKoTRh4gegd2b7YfmhqJUPA7C33ntVCudT": {
     "repo": "TuttiGenerator/ironfox-lab",
@@ -140,7 +140,7 @@
     "commit": "7ab83f489cbae369c21170ebf73af63cd770d384",
     "revealed_at_block": 7225899,
     "tag": "7ab83f4-contest-12",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DhrMRiaV6adXWxcpwpVLAac5kLXbBgq2DzPVhTw74xFv3CJ": {
@@ -252,8 +252,8 @@
     "commit": "6c23f9a871b31af3127a5413dc609106abb1a192",
     "revealed_at_block": 7233729,
     "tag": "6c23f9a-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5flbbc1fdn:6c23f9a-contest-12"
   },
   "5CtcDhFB4AzGietfhWXkbSu3wnjwh6eDU8VHbsPWLxQ2CCaa": {
     "repo": "frogo-boro/automatic-guide",
@@ -324,8 +324,8 @@
     "commit": "266694a4abf5910d3bfb4f65034bc2e239fa52eb",
     "revealed_at_block": 7246389,
     "tag": "266694a-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f4hanqjax:266694a-contest-12"
   },
   "5Dhie1cz1a987kPFkvsVwxjKEg2uUMbSgm5N5vq6Drr8mDFH": {
     "repo": "kostik46/3d-gen-miner-v2",
@@ -468,7 +468,7 @@
     "commit": "79acd7cb7854264d92d0c091615f6dec28341551",
     "revealed_at_block": 7247240,
     "tag": "79acd7c-contest-12",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5D7iXVZ12NLQPZF7QHPkrZQt4anpexkwEGYMjBUt9ecew9Lh": {
@@ -516,8 +516,8 @@
     "commit": "83c26465ab1a8c178cffb321076d018e2c864ffd",
     "revealed_at_block": 7247289,
     "tag": "83c2646-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fcavexznh:83c2646-contest-12"
   },
   "5HNQxuAxJ6a6o9XBVunx1aY5YfWTYzEB9P2v4LsHdMXLYbrW": {
     "repo": "jyotinayarman/goat-ya-duel2",
@@ -572,8 +572,8 @@
     "commit": "a2159b848f6758e46c06a89a72e37f44724bb24b",
     "revealed_at_block": 7247332,
     "tag": "a2159b8-contest-12",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ffq6zxs2v:a2159b8-contest-12"
   },
   "5CkYoQTG87ngM2zVhavTJrSB2vjHPLVxj7oLeVLsDgmD2fA9": {
     "repo": "rumasafeyeh580-lang/mine-7",
@@ -628,7 +628,7 @@
     "commit": "63826c4ba243353dc35d6634f8568929085d0767",
     "revealed_at_block": 7247387,
     "tag": "63826c4-contest-12",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5EhiYyyykK5oPyhVxGEtn7KziadcnHUpViBJz7DS3JLqmAsc": {
