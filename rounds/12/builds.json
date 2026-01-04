@@ -308,8 +308,8 @@
     "commit": "49d5fb0e56219393fbcc49aa024a0c7ef479d1eb",
     "revealed_at_block": 7241896,
     "tag": "49d5fb0-contest-12",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hbt83fzbk:49d5fb0-contest-12"
   },
   "5DvfxsGDDAMZgFCeBFhmBFB7QJgT9Por4YPbR8ddPeGSQnEC": {
     "repo": "ripe-banana-11/fantastic-happiness",
