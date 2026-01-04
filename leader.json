@@ -94,5 +94,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5cwjxyc1wj:164cd7f-contest-10",
     "weight": 0.01,
     "effective_block": 7225874
+  },
+  {
+    "hotkey": "5CwjXyc1wJXV8ZkyPKnLjx6L3TB8LnduLkpyAyjC8mVE1DnQ",
+    "repo": "frogo-boro/congenial-adventure",
+    "commit": "164cd7f1f4a4d8d037540ad29cd07b7c545ba79a",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5cwjxyc1wj:164cd7f-contest-10",
+    "weight": 0.8,
+    "effective_block": 7247461
   }
 ]
