@@ -664,5 +664,11 @@
     "png": null,
     "generation_time": 0.0,
     "size": 0
+  },
+  "7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e": {
+    "ply": "https://subnet404.xyz/rounds/12/5HNRsASVn5GHk5Pc9EAzm6xVtFkiNaS7tifPQNjRR4QHmQmb/7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e.ply",
+    "png": "https://subnet404.xyz/rounds/12/5HNRsASVn5GHk5Pc9EAzm6xVtFkiNaS7tifPQNjRR4QHmQmb/7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e.png",
+    "generation_time": 23.495292348088697,
+    "size": 9631392
   }
 }
