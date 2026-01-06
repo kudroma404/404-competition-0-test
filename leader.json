@@ -104,10 +104,10 @@
     "effective_block": 7247461
   },
   {
-    "hotkey": "5Ff3xu4e8Memkfu7jWA6ngpJtWeV4ZVZ75Nq25CDNdhccY4n",
-    "repo": "Uglejo/xalmo",
-    "commit": "421a8cb72a30ebcb10e1ce18483c4a680e6780f6",
-    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5ff3xu4e8m:421a8cb-contest-12",
+    "hotkey": "5E7eSeRr2aHzCV7SkY4a2Pi5NXHrU4anZz3phEQgn4HCen2B",
+    "repo": "404-Repo/404-base-miner",
+    "commit": "8af68def6f1392ad3d75bd790f78b4700748f354",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:97f5a7e-test1-0",
     "weight": 1.0,
     "effective_block": 7269047
   }
