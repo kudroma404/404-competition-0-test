@@ -102,5 +102,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5cwjxyc1wj:164cd7f-contest-10",
     "weight": 0.01,
     "effective_block": 7247461
+  },
+  {
+    "hotkey": "5Ff3xu4e8Memkfu7jWA6ngpJtWeV4ZVZ75Nq25CDNdhccY4n",
+    "repo": "Uglejo/xalmo",
+    "commit": "421a8cb72a30ebcb10e1ce18483c4a680e6780f6",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5ff3xu4e8m:421a8cb-contest-12",
+    "weight": 1.0,
+    "effective_block": 7269047
   }
 ]
