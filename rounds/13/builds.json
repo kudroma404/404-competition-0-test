@@ -724,8 +724,8 @@
     "commit": "59512402fa3426e8822a0cc2e103ca9851e2e342",
     "revealed_at_block": 7266276,
     "tag": "5951240-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hbsdvjuws:5951240-contest-13"
   },
   "5GLQG6wYAUY1e152JfJqmvNokjhfEL157ExTXNjSjRpUXRXp": {
     "repo": "jakalbill922-bot/404-jakalbill922-40",
