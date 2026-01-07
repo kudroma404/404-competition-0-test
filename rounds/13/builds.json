@@ -380,8 +380,8 @@
     "commit": "3cf1e6278c306de7fcf298ada274aabbd114df81",
     "revealed_at_block": 7261310,
     "tag": "3cf1e62-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dhtfudena:3cf1e62-contest-13"
   },
   "5Dk3Wu2dvfG9Wew8KxS4JfjFWxkARKVJnL5LDEHs3swsrrq5": {
     "repo": "itwm13/c3D-gen",
@@ -900,8 +900,8 @@
     "commit": "afeb6e3ae0006b0cc0007a8961b20bbe61fe8e2d",
     "revealed_at_block": 7268430,
     "tag": "afeb6e3-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dhie1cz1a:afeb6e3-contest-13"
   },
   "5E4Tm2YDHnemmtkdCifgJK1f9uzPahquneFPvNx8vgUKDa6H": {
     "repo": "kostik46/3d-gen-miner-v3",
@@ -1052,7 +1052,7 @@
     "commit": "1dc49b9352b576b8a7a7f0c142e2a41445fa2e5a",
     "revealed_at_block": 7268680,
     "tag": "1dc49b9-contest-13",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Ef9qd92BXg3G4tLdcCqcFsMTjtAw6LmVSHSC6cCfDpE48SL": {
