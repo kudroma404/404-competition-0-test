@@ -28,8 +28,8 @@
     "commit": "b3f537acd7645577aa215a131356180a3d49155e",
     "revealed_at_block": 7247466,
     "tag": "b3f537a-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hp2qfzczu:b3f537a-contest-13"
   },
   "5FjgAQeaVLKerruzXjCtBEHMauL2QFKohNAwD5e4YBbXGdnb": {
     "repo": "mokabetrade/drelto",
@@ -132,8 +132,8 @@
     "commit": "e2eb1bcfd57c083ecd19019015891477c2b2de1e",
     "revealed_at_block": 7252418,
     "tag": "e2eb1bc-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hozilx7bx:e2eb1bc-contest-13"
   },
   "5CyeN7d2h5CYDPUeMQAKtWTzvgsMNNFXigGYCzqaymUXdPzz": {
     "repo": "tao-hunter/upgraded-waffle",
@@ -508,8 +508,8 @@
     "commit": "5639ecc302306e515bf34f6ea8e4487168ad774d",
     "revealed_at_block": 7263008,
     "tag": "5639ecc-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hmcfwpa3k:5639ecc-contest-13"
   },
   "5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f": {
     "repo": "rumasafeyeh580-lang/mine-15",
@@ -564,16 +564,16 @@
     "commit": "7067135353887575ecc6f393cf75169c04245705",
     "revealed_at_block": 7264012,
     "tag": "7067135-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgbyfpa3l:7067135-contest-13"
   },
   "5HpoxQamjxj72UKJugTUkM46ZDu9SpZkmbWVG1pamRLwV4tT": {
     "repo": "jakalbill922-bot/404-jakalbill922-06",
     "commit": "c2309d6ab7227bed06053880992f241d13111c09",
     "revealed_at_block": 7264026,
     "tag": "c2309d6-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpoxqamjx:c2309d6-contest-13"
   },
   "5HQB9SyDZff8WJGcxH7p2XZAf1zfTysUFCFW3zXswe3yTCE9": {
     "repo": "jakalbill922-bot/404-jakalbill922-01",
@@ -932,8 +932,8 @@
     "commit": "0e855d8e0d19fa0f0954af31a7aed093b26f0f49",
     "revealed_at_block": 7268469,
     "tag": "0e855d8-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgmi1jsjs:0e855d8-contest-13"
   },
   "5FZ4qZzBr5XDQoqpDVe7KKE65QfLmJd71NuebEXnruCxP4n6": {
     "repo": "ripe-banana-11/sturdy-fishstick",
@@ -956,8 +956,8 @@
     "commit": "9df8eacffa7b7c4a75e7e8548e2ee2e9ef763762",
     "revealed_at_block": 7268489,
     "tag": "9df8eac-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hmgvbapwh:9df8eac-contest-13"
   },
   "5HYaWNNRYCnpGxfURnihxSCd14mipUsMsL4AbN2wB6h7NBm4": {
     "repo": "ripe-banana-11/fantastic-octo-waffle",
@@ -1044,8 +1044,8 @@
     "commit": "f972b646837a5ed01ae70f2723963934ab26f4ca",
     "revealed_at_block": 7268661,
     "tag": "f972b64-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gbmgzet26:f972b64-contest-13"
   },
   "5Do4dpJvAdfUcENCqsawAuEcRvJpFKDkBmqJVJu6jSBsth26": {
     "repo": "doubtsjohn-del/3d-gen-miner-v12",
