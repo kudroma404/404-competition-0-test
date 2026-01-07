@@ -116,7 +116,7 @@
     "commit": "252f57d0a64024a15eee4b2fff96cd242e99b258",
     "revealed_at_block": 7252338,
     "tag": "252f57d-contest-13",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EtF7R3sU8dQ6Mn2UgsMt4Zh9UbhDZsFQ1S7B2798RXwKygx": {
@@ -420,8 +420,8 @@
     "commit": "59512402fa3426e8822a0cc2e103ca9851e2e342",
     "revealed_at_block": 7261529,
     "tag": "5951240-contest-13",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fwtavkyxw:5951240-contest-13"
   },
   "5DLWPpYxVo5R2BW1HCps5SA14aA9NGUspdg3degVX2HnuQof": {
     "repo": "itwm13/mv6obgr5",
