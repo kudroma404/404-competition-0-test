@@ -1,0 +1,1289 @@
+{
+  "leader": "5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f",
+  "hotkey": "5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG",
+  "score": -33,
+  "margin": -0.2578125,
+  "outcome": "leader_defends",
+  "duels": [
+    {
+      "name": "060c99515aee0306b09f58b6092086d310b5129489bfb84ba5047f413ed9c7e5",
+      "prompt": "https://sn12domain.org/060c99515aee0306b09f58b6092086d310b5129489bfb84ba5047f413ed9c7e5.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/060c99515aee0306b09f58b6092086d310b5129489bfb84ba5047f413ed9c7e5.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/060c99515aee0306b09f58b6092086d310b5129489bfb84ba5047f413ed9c7e5.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/060c99515aee0306b09f58b6092086d310b5129489bfb84ba5047f413ed9c7e5.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/060c99515aee0306b09f58b6092086d310b5129489bfb84ba5047f413ed9c7e5.png",
+      "winner": "leader",
+      "issues": "First model has similar structure but different lighting/shading details; second model has different style and details"
+    },
+    {
+      "name": "06ee9933cd0767d0b8e88c0f3d9c7bd3fd54642c97fb87e9c0f616e2c456ac6b",
+      "prompt": "https://sn12domain.org/06ee9933cd0767d0b8e88c0f3d9c7bd3fd54642c97fb87e9c0f616e2c456ac6b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/06ee9933cd0767d0b8e88c0f3d9c7bd3fd54642c97fb87e9c0f616e2c456ac6b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/06ee9933cd0767d0b8e88c0f3d9c7bd3fd54642c97fb87e9c0f616e2c456ac6b.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/06ee9933cd0767d0b8e88c0f3d9c7bd3fd54642c97fb87e9c0f616e2c456ac6b.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/06ee9933cd0767d0b8e88c0f3d9c7bd3fd54642c97fb87e9c0f616e2c456ac6b.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details compared to prompt; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012",
+      "prompt": "https://sn12domain.org/08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/08716ba11520bf19be5fe52ab460dc5eebb88cc1fc6ec6ae467d6f15f31b6012.png",
+      "winner": "leader",
+      "issues": "First model has similar structure but different proportions and material finish; second model is significantly smaller and stylized, losing key details"
+    },
+    {
+      "name": "08fca7169c278423c67ecaca8a226c7b5ea4d33d78ba7f81d50a322ed96df312",
+      "prompt": "https://sn12domain.org/08fca7169c278423c67ecaca8a226c7b5ea4d33d78ba7f81d50a322ed96df312.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/08fca7169c278423c67ecaca8a226c7b5ea4d33d78ba7f81d50a322ed96df312.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/08fca7169c278423c67ecaca8a226c7b5ea4d33d78ba7f81d50a322ed96df312.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/08fca7169c278423c67ecaca8a226c7b5ea4d33d78ba7f81d50a322ed96df312.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/08fca7169c278423c67ecaca8a226c7b5ea4d33d78ba7f81d50a322ed96df312.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing details; second model has major issues with overall structure and style not matching the original prompt's sleek, high-tech design"
+    },
+    {
+      "name": "0e9b8aa1b7c508a02a4a8427fb5d1808fc20978c0ccfc0565a42548f196f5031",
+      "prompt": "https://sn12domain.org/0e9b8aa1b7c508a02a4a8427fb5d1808fc20978c0ccfc0565a42548f196f5031.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/0e9b8aa1b7c508a02a4a8427fb5d1808fc20978c0ccfc0565a42548f196f5031.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/0e9b8aa1b7c508a02a4a8427fb5d1808fc20978c0ccfc0565a42548f196f5031.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/0e9b8aa1b7c508a02a4a8427fb5d1808fc20978c0ccfc0565a42548f196f5031.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/0e9b8aa1b7c508a02a4a8427fb5d1808fc20978c0ccfc0565a42548f196f5031.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences in the pot and food, second model has major issues with style and details, both lack the original's lighting and specific food details"
+    },
+    {
+      "name": "11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e",
+      "prompt": "https://sn12domain.org/11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and color variations; second model has major issues with shape, style, and background (unmatched fog effect)."
+    },
+    {
+      "name": "11d30908bf1c6b65318373412b8a0a345cbbb1635dd53e523e245ca93a6ae08b",
+      "prompt": "https://sn12domain.org/11d30908bf1c6b65318373412b8a0a345cbbb1635dd53e523e245ca93a6ae08b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/11d30908bf1c6b65318373412b8a0a345cbbb1635dd53e523e245ca93a6ae08b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/11d30908bf1c6b65318373412b8a0a345cbbb1635dd53e523e245ca93a6ae08b.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/11d30908bf1c6b65318373412b8a0a345cbbb1635dd53e523e245ca93a6ae08b.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/11d30908bf1c6b65318373412b8a0a345cbbb1635dd53e523e245ca93a6ae08b.png",
+      "winner": "leader",
+      "issues": "First model has minor shape and detail differences; second model has major style and structural issues"
+    },
+    {
+      "name": "124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0",
+      "prompt": "https://sn12domain.org/124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0.png",
+      "winner": "miner",
+      "issues": "First model has wrong style (cartoonish), missing red glow and detailed chain. Second model has closer match but still lacks detailed chain and red glow intensity."
+    },
+    {
+      "name": "14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce",
+      "prompt": "https://sn12domain.org/14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce.png",
+      "winner": "leader",
+      "issues": "First model has some shape differences and missing small details; second model has major issues with object category and style"
+    },
+    {
+      "name": "15b294dee43bb579140c9841a61c09d64a30a5860e2a61c6f00947fd159aa337",
+      "prompt": "https://sn12domain.org/15b294dee43bb579140c9841a61c09d64a30a5860e2a61c6f00947fd159aa337.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/15b294dee43bb579140c9841a61c09d64a30a5860e2a61c6f00947fd159aa337.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/15b294dee43bb579140c9841a61c09d64a30a5860e2a61c6f00947fd159aa337.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/15b294dee43bb579140c9841a61c09d64a30a5860e2a61c6f00947fd159aa337.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/15b294dee43bb579140c9841a61c09d64a30a5860e2a61c6f00947fd159aa337.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences in the fabric and brim details; second model has significant brim color/shape issues and fabric inconsistencies"
+    },
+    {
+      "name": "19a3de5a75f5997f061f0ccde24693b1e28cc79bb344a32de230c6595b67e420",
+      "prompt": "https://sn12domain.org/19a3de5a75f5997f061f0ccde24693b1e28cc79bb344a32de230c6595b67e420.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/19a3de5a75f5997f061f0ccde24693b1e28cc79bb344a32de230c6595b67e420.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/19a3de5a75f5997f061f0ccde24693b1e28cc79bb344a32de230c6595b67e420.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/19a3de5a75f5997f061f0ccde24693b1e28cc79bb344a32de230c6595b67e420.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/19a3de5a75f5997f061f0ccde24693b1e28cc79bb344a32de230c6595b67e420.png",
+      "winner": "leader",
+      "issues": "First model has better color matching and glitter texture, second has different style and lighting. Both have some shape differences and missing small details."
+    },
+    {
+      "name": "1a7eed80708fc1a64e27a336883d841c280ec0e2006ff272a9764a795d32766b",
+      "prompt": "https://sn12domain.org/1a7eed80708fc1a64e27a336883d841c280ec0e2006ff272a9764a795d32766b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/1a7eed80708fc1a64e27a336883d841c280ec0e2006ff272a9764a795d32766b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/1a7eed80708fc1a64e27a336883d841c280ec0e2006ff272a9764a795d32766b.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/1a7eed80708fc1a64e27a336883d841c280ec0e2006ff272a9764a795d32766b.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/1a7eed80708fc1a64e27a336883d841c280ec0e2006ff272a9764a795d32766b.png",
+      "winner": "draw",
+      "issues": "First model has better detail matching the reference, second has more significant deviations in armor style and texture"
+    },
+    {
+      "name": "1f310cbf91cae354910c44c8a3ae402f010f222e8961e3a89fc0e84582128853",
+      "prompt": "https://sn12domain.org/1f310cbf91cae354910c44c8a3ae402f010f222e8961e3a89fc0e84582128853.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/1f310cbf91cae354910c44c8a3ae402f010f222e8961e3a89fc0e84582128853.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/1f310cbf91cae354910c44c8a3ae402f010f222e8961e3a89fc0e84582128853.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/1f310cbf91cae354910c44c8a3ae402f010f222e8961e3a89fc0e84582128853.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/1f310cbf91cae354910c44c8a3ae402f010f222e8961e3a89fc0e84582128853.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details"
+    },
+    {
+      "name": "1fde24c1fa597076c7ac343480ef30010c7306223f229276615c802270b839ed",
+      "prompt": "https://sn12domain.org/1fde24c1fa597076c7ac343480ef30010c7306223f229276615c802270b839ed.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/1fde24c1fa597076c7ac343480ef30010c7306223f229276615c802270b839ed.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/1fde24c1fa597076c7ac343480ef30010c7306223f229276615c802270b839ed.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/1fde24c1fa597076c7ac343480ef30010c7306223f229276615c802270b839ed.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/1fde24c1fa597076c7ac343480ef30010c7306223f229276615c802270b839ed.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing text details; second model has major issues with overall structure and style, with significant deviations from the original mixer's design and proportions"
+    },
+    {
+      "name": "203a8159ddbeab2a86a2a819f1b7c2ea24adb90e08ea89db63370eddc92947e3",
+      "prompt": "https://sn12domain.org/203a8159ddbeab2a86a2a819f1b7c2ea24adb90e08ea89db63370eddc92947e3.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/203a8159ddbeab2a86a2a819f1b7c2ea24adb90e08ea89db63370eddc92947e3.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/203a8159ddbeab2a86a2a819f1b7c2ea24adb90e08ea89db63370eddc92947e3.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/203a8159ddbeab2a86a2a819f1b7c2ea24adb90e08ea89db63370eddc92947e3.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/203a8159ddbeab2a86a2a819f1b7c2ea24adb90e08ea89db63370eddc92947e3.png",
+      "winner": "leader",
+      "issues": "First model has minor shape and detail differences; second model has significant style and detail issues"
+    },
+    {
+      "name": "2229cf5f-955c-4bc2-91c3-df9255a1c01d",
+      "prompt": "https://sn12domain.org/2229cf5f-955c-4bc2-91c3-df9255a1c01d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/2229cf5f-955c-4bc2-91c3-df9255a1c01d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/2229cf5f-955c-4bc2-91c3-df9255a1c01d.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/2229cf5f-955c-4bc2-91c3-df9255a1c01d.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/2229cf5f-955c-4bc2-91c3-df9255a1c01d.png",
+      "winner": "draw",
+      "issues": "First model has different gem shape and setting details; second model has different band style and gem setting, both deviate moderately from prompt"
+    },
+    {
+      "name": "22de4efc4723f624b92889e8c79c9b4fb903e8a6b5907c9f0727ede8f2ccab47",
+      "prompt": "https://sn12domain.org/22de4efc4723f624b92889e8c79c9b4fb903e8a6b5907c9f0727ede8f2ccab47.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/22de4efc4723f624b92889e8c79c9b4fb903e8a6b5907c9f0727ede8f2ccab47.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/22de4efc4723f624b92889e8c79c9b4fb903e8a6b5907c9f0727ede8f2ccab47.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/22de4efc4723f624b92889e8c79c9b4fb903e8a6b5907c9f0727ede8f2ccab47.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/22de4efc4723f624b92889e8c79c9b4fb903e8a6b5907c9f0727ede8f2ccab47.png",
+      "winner": "draw",
+      "issues": "First model has similar color scheme but different panel shapes and texture details; second model has completely different panel patterns and style, with added shadows that don't match the original prompt's clean background"
+    },
+    {
+      "name": "2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe",
+      "prompt": "https://sn12domain.org/2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/2831800af7589f7b03f3e8b88498f8526107cb17795f10285731f9a5132fc2fe.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details compared to prompt; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "2a5349296bf58ed6ebe49c114e9f754346261ef74cf70ebe54db2500ccdbef81",
+      "prompt": "https://sn12domain.org/2a5349296bf58ed6ebe49c114e9f754346261ef74cf70ebe54db2500ccdbef81.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/2a5349296bf58ed6ebe49c114e9f754346261ef74cf70ebe54db2500ccdbef81.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/2a5349296bf58ed6ebe49c114e9f754346261ef74cf70ebe54db2500ccdbef81.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/2a5349296bf58ed6ebe49c114e9f754346261ef74cf70ebe54db2500ccdbef81.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/2a5349296bf58ed6ebe49c114e9f754346261ef74cf70ebe54db2500ccdbef81.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has major issues with extra forms and wrong category"
+    },
+    {
+      "name": "2bd70cc56d10cc61a075aaecf2e1faa4750a01f03a81d9af77e457a5f4433d22",
+      "prompt": "https://sn12domain.org/2bd70cc56d10cc61a075aaecf2e1faa4750a01f03a81d9af77e457a5f4433d22.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/2bd70cc56d10cc61a075aaecf2e1faa4750a01f03a81d9af77e457a5f4433d22.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/2bd70cc56d10cc61a075aaecf2e1faa4750a01f03a81d9af77e457a5f4433d22.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/2bd70cc56d10cc61a075aaecf2e1faa4750a01f03a81d9af77e457a5f4433d22.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/2bd70cc56d10cc61a075aaecf2e1faa4750a01f03a81d9af77e457a5f4433d22.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "33532e138e69ddba7c5e762eed4bedb6b3fcd1a55302cd784c823d8d76d705f2",
+      "prompt": "https://sn12domain.org/33532e138e69ddba7c5e762eed4bedb6b3fcd1a55302cd784c823d8d76d705f2.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/33532e138e69ddba7c5e762eed4bedb6b3fcd1a55302cd784c823d8d76d705f2.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/33532e138e69ddba7c5e762eed4bedb6b3fcd1a55302cd784c823d8d76d705f2.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/33532e138e69ddba7c5e762eed4bedb6b3fcd1a55302cd784c823d8d76d705f2.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/33532e138e69ddba7c5e762eed4bedb6b3fcd1a55302cd784c823d8d76d705f2.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing environmental context; second model has major style and environmental issues"
+    },
+    {
+      "name": "33827979d7e59540146de3bd1d75e2e1bee4d532e1a61f2426689a0f37baa943",
+      "prompt": "https://sn12domain.org/33827979d7e59540146de3bd1d75e2e1bee4d532e1a61f2426689a0f37baa943.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/33827979d7e59540146de3bd1d75e2e1bee4d532e1a61f2426689a0f37baa943.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/33827979d7e59540146de3bd1d75e2e1bee4d532e1a61f2426689a0f37baa943.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/33827979d7e59540146de3bd1d75e2e1bee4d532e1a61f2426689a0f37baa943.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/33827979d7e59540146de3bd1d75e2e1bee4d532e1a61f2426689a0f37baa943.png",
+      "winner": "draw",
+      "issues": "First model has some color and detail issues, second model has major style and context issues"
+    },
+    {
+      "name": "339f16a8d2a832ef193b18b57b97119cc9734b5016b93e74f5ca61d7ef901d5a",
+      "prompt": "https://sn12domain.org/339f16a8d2a832ef193b18b57b97119cc9734b5016b93e74f5ca61d7ef901d5a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/339f16a8d2a832ef193b18b57b97119cc9734b5016b93e74f5ca61d7ef901d5a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/339f16a8d2a832ef193b18b57b97119cc9734b5016b93e74f5ca61d7ef901d5a.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/339f16a8d2a832ef193b18b57b97119cc9734b5016b93e74f5ca61d7ef901d5a.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/339f16a8d2a832ef193b18b57b97119cc9734b5016b93e74f5ca61d7ef901d5a.png",
+      "winner": "miner",
+      "issues": "First model has distorted shape with unusual form, second model has simplified structure but missing original details"
+    },
+    {
+      "name": "364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625",
+      "prompt": "https://sn12domain.org/364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/364f2e60a97f04ff4292f98b65e765c5bfbfd61615da2ff56ff9fbad4380f625.png",
+      "winner": "miner",
+      "issues": "First model lacks plate and powder details; second model has plate and powder but some bananas have wrong color/lighting"
+    },
+    {
+      "name": "36f8121c151c74fb7c3de1d39e428280efd53948e8d3f621fc6fe1f1b17a6f59",
+      "prompt": "https://sn12domain.org/36f8121c151c74fb7c3de1d39e428280efd53948e8d3f621fc6fe1f1b17a6f59.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/36f8121c151c74fb7c3de1d39e428280efd53948e8d3f621fc6fe1f1b17a6f59.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/36f8121c151c74fb7c3de1d39e428280efd53948e8d3f621fc6fe1f1b17a6f59.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/36f8121c151c74fb7c3de1d39e428280efd53948e8d3f621fc6fe1f1b17a6f59.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/36f8121c151c74fb7c3de1d39e428280efd53948e8d3f621fc6fe1f1b17a6f59.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and detail variations; second model has significant style and detail issues with foggy appearance"
+    },
+    {
+      "name": "37ca201e96add2bac00fa0ee34a36e0643f287da1e46eb336d6df4f42c708610",
+      "prompt": "https://sn12domain.org/37ca201e96add2bac00fa0ee34a36e0643f287da1e46eb336d6df4f42c708610.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/37ca201e96add2bac00fa0ee34a36e0643f287da1e46eb336d6df4f42c708610.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/37ca201e96add2bac00fa0ee34a36e0643f287da1e46eb336d6df4f42c708610.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/37ca201e96add2bac00fa0ee34a36e0643f287da1e46eb336d6df4f42c708610.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/37ca201e96add2bac00fa0ee34a36e0643f287da1e46eb336d6df4f42c708610.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has major issues with style and significant details, appearing distorted with smoke effects"
+    },
+    {
+      "name": "38987a28c7b616879a23f7e08ac732df474b9e90684393521f765c04ed0b0fe6",
+      "prompt": "https://sn12domain.org/38987a28c7b616879a23f7e08ac732df474b9e90684393521f765c04ed0b0fe6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/38987a28c7b616879a23f7e08ac732df474b9e90684393521f765c04ed0b0fe6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/38987a28c7b616879a23f7e08ac732df474b9e90684393521f765c04ed0b0fe6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/38987a28c7b616879a23f7e08ac732df474b9e90684393521f765c04ed0b0fe6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/38987a28c7b616879a23f7e08ac732df474b9e90684393521f765c04ed0b0fe6.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has major issues with unrelated objects and wrong category"
+    },
+    {
+      "name": "3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06",
+      "prompt": "https://sn12domain.org/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3933fbf64a473ccccb328c23242867f0cbdd8e4aa9cc8f1f9657c9d85f251a06.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has major issues with overall structure and category deviation"
+    },
+    {
+      "name": "3aff357f2c9bc317c083c24d896cdc32f43dd78f0831c3a359f67d08771d23de",
+      "prompt": "https://sn12domain.org/3aff357f2c9bc317c083c24d896cdc32f43dd78f0831c3a359f67d08771d23de.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3aff357f2c9bc317c083c24d896cdc32f43dd78f0831c3a359f67d08771d23de.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3aff357f2c9bc317c083c24d896cdc32f43dd78f0831c3a359f67d08771d23de.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3aff357f2c9bc317c083c24d896cdc32f43dd78f0831c3a359f67d08771d23de.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3aff357f2c9bc317c083c24d896cdc32f43dd78f0831c3a359f67d08771d23de.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details compared to prompt; second model has major issues with added elements and completely different structure"
+    },
+    {
+      "name": "3c4b26d041adc1c73de2c9b15eccc04d76d65d34b7974f5ce5cab7675650c869",
+      "prompt": "https://sn12domain.org/3c4b26d041adc1c73de2c9b15eccc04d76d65d34b7974f5ce5cab7675650c869.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3c4b26d041adc1c73de2c9b15eccc04d76d65d34b7974f5ce5cab7675650c869.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3c4b26d041adc1c73de2c9b15eccc04d76d65d34b7974f5ce5cab7675650c869.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3c4b26d041adc1c73de2c9b15eccc04d76d65d34b7974f5ce5cab7675650c869.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3c4b26d041adc1c73de2c9b15eccc04d76d65d34b7974f5ce5cab7675650c869.png",
+      "winner": "leader",
+      "issues": "First model has some shape differences and missing details like the '8' and specific text, second model has major structural issues and unrelated elements"
+    },
+    {
+      "name": "3df9aac28adfa792e385c45498f7464601e572aaeeaf965ecd96e327f26569e2",
+      "prompt": "https://sn12domain.org/3df9aac28adfa792e385c45498f7464601e572aaeeaf965ecd96e327f26569e2.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3df9aac28adfa792e385c45498f7464601e572aaeeaf965ecd96e327f26569e2.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3df9aac28adfa792e385c45498f7464601e572aaeeaf965ecd96e327f26569e2.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3df9aac28adfa792e385c45498f7464601e572aaeeaf965ecd96e327f26569e2.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3df9aac28adfa792e385c45498f7464601e572aaeeaf965ecd96e327f26569e2.png",
+      "winner": "leader",
+      "issues": "First model has minor issues with detail accuracy and lighting, second model has major issues with visibility and style deviation"
+    },
+    {
+      "name": "3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547",
+      "prompt": "https://sn12domain.org/3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details (like gold accents), second model has major issues with overall style and category (frosted appearance, different base)"
+    },
+    {
+      "name": "3f48598320210ac8659a36fd57bccddba1bc5acbab93ac579a0587321088aa84",
+      "prompt": "https://sn12domain.org/3f48598320210ac8659a36fd57bccddba1bc5acbab93ac579a0587321088aa84.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3f48598320210ac8659a36fd57bccddba1bc5acbab93ac579a0587321088aa84.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3f48598320210ac8659a36fd57bccddba1bc5acbab93ac579a0587321088aa84.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3f48598320210ac8659a36fd57bccddba1bc5acbab93ac579a0587321088aa84.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3f48598320210ac8659a36fd57bccddba1bc5acbab93ac579a0587321088aa84.png",
+      "winner": "leader",
+      "issues": "First model has minor issues with detail rendering and lighting, second model has major issues with composition and object placement"
+    },
+    {
+      "name": "3ff9c7e67f1ee98c27c4bd3d749decd76d59aa8d45f0c44a9967dbc752f388a6",
+      "prompt": "https://sn12domain.org/3ff9c7e67f1ee98c27c4bd3d749decd76d59aa8d45f0c44a9967dbc752f388a6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3ff9c7e67f1ee98c27c4bd3d749decd76d59aa8d45f0c44a9967dbc752f388a6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/3ff9c7e67f1ee98c27c4bd3d749decd76d59aa8d45f0c44a9967dbc752f388a6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3ff9c7e67f1ee98c27c4bd3d749decd76d59aa8d45f0c44a9967dbc752f388a6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/3ff9c7e67f1ee98c27c4bd3d749decd76d59aa8d45f0c44a9967dbc752f388a6.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and some detail variations; second model has more significant style and detail issues, with less accurate representation of the original plant structure"
+    },
+    {
+      "name": "4024d0d716bab965da116c926ce66d038effa6491958e34b61aa503fdf91ee59",
+      "prompt": "https://sn12domain.org/4024d0d716bab965da116c926ce66d038effa6491958e34b61aa503fdf91ee59.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/4024d0d716bab965da116c926ce66d038effa6491958e34b61aa503fdf91ee59.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/4024d0d716bab965da116c926ce66d038effa6491958e34b61aa503fdf91ee59.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/4024d0d716bab965da116c926ce66d038effa6491958e34b61aa503fdf91ee59.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/4024d0d716bab965da116c926ce66d038effa6491958e34b61aa503fdf91ee59.png",
+      "winner": "draw",
+      "issues": "First model has minor detail differences (missing some decorative elements), second model has more significant style and detail issues (less ornate, different proportions)"
+    },
+    {
+      "name": "4087d82ded6082d21c2174d8ef100870eca5bf3bffa293e42a4bc1afc7b94d35",
+      "prompt": "https://sn12domain.org/4087d82ded6082d21c2174d8ef100870eca5bf3bffa293e42a4bc1afc7b94d35.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/4087d82ded6082d21c2174d8ef100870eca5bf3bffa293e42a4bc1afc7b94d35.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/4087d82ded6082d21c2174d8ef100870eca5bf3bffa293e42a4bc1afc7b94d35.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/4087d82ded6082d21c2174d8ef100870eca5bf3bffa293e42a4bc1afc7b94d35.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/4087d82ded6082d21c2174d8ef100870eca5bf3bffa293e42a4bc1afc7b94d35.png",
+      "winner": "draw",
+      "issues": "First model has wrong color scheme (yellow instead of multicolor), second model has wrong style (more like a closed sandal) and color issues, both have background issues (white instead of dark gradient)"
+    },
+    {
+      "name": "4265649c1aaeccc53febeeba273dd30e98a57271e3db940e0ac5652e3e33bd30",
+      "prompt": "https://sn12domain.org/4265649c1aaeccc53febeeba273dd30e98a57271e3db940e0ac5652e3e33bd30.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/4265649c1aaeccc53febeeba273dd30e98a57271e3db940e0ac5652e3e33bd30.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/4265649c1aaeccc53febeeba273dd30e98a57271e3db940e0ac5652e3e33bd30.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/4265649c1aaeccc53febeeba273dd30e98a57271e3db940e0ac5652e3e33bd30.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/4265649c1aaeccc53febeeba273dd30e98a57271e3db940e0ac5652e3e33bd30.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and background issues; second model has significant style and detail issues"
+    },
+    {
+      "name": "449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8",
+      "prompt": "https://sn12domain.org/449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/449de7f2e694785e0879713b2b4ce3330941e7bd607d8ff0d67ac5b326aacee8.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing details compared to prompt; second model has major issues with style, details, and overall appearance"
+    },
+    {
+      "name": "467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c",
+      "prompt": "https://sn12domain.org/467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/467591304c95f28c118782e1ffb23a8124ef999870c2951c9e1916355033f21c.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and some detail inconsistencies; second model has significant style and detail issues with altered fruit structure and color variations"
+    },
+    {
+      "name": "4a46caa383a05ffe10f5ce524096cbd8c0c9916fc621f36a9731583d637846c4",
+      "prompt": "https://sn12domain.org/4a46caa383a05ffe10f5ce524096cbd8c0c9916fc621f36a9731583d637846c4.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/4a46caa383a05ffe10f5ce524096cbd8c0c9916fc621f36a9731583d637846c4.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/4a46caa383a05ffe10f5ce524096cbd8c0c9916fc621f36a9731583d637846c4.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/4a46caa383a05ffe10f5ce524096cbd8c0c9916fc621f36a9731583d637846c4.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/4a46caa383a05ffe10f5ce524096cbd8c0c9916fc621f36a9731583d637846c4.png",
+      "winner": "draw",
+      "issues": "Both models have significant style differences from the original prompt. First model has simplified shapes and different proportions, second model has different lighting and base elements. Both lack the detailed mechanical appearance and specific design elements of the original prompt."
+    },
+    {
+      "name": "50403f18-85cf-4f1b-968c-a78433ece412",
+      "prompt": "https://sn12domain.org/50403f18-85cf-4f1b-968c-a78433ece412.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/50403f18-85cf-4f1b-968c-a78433ece412.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/50403f18-85cf-4f1b-968c-a78433ece412.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/50403f18-85cf-4f1b-968c-a78433ece412.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/50403f18-85cf-4f1b-968c-a78433ece412.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details compared to prompt; second model has major issues with added effects (smoke, floating objects) and altered base appearance"
+    },
+    {
+      "name": "525fbbdb868e86a55d2cae129d03ba345392e8ffdbe7ba6ca99ff1ecdc3cb984",
+      "prompt": "https://sn12domain.org/525fbbdb868e86a55d2cae129d03ba345392e8ffdbe7ba6ca99ff1ecdc3cb984.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/525fbbdb868e86a55d2cae129d03ba345392e8ffdbe7ba6ca99ff1ecdc3cb984.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/525fbbdb868e86a55d2cae129d03ba345392e8ffdbe7ba6ca99ff1ecdc3cb984.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/525fbbdb868e86a55d2cae129d03ba345392e8ffdbe7ba6ca99ff1ecdc3cb984.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/525fbbdb868e86a55d2cae129d03ba345392e8ffdbe7ba6ca99ff1ecdc3cb984.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and background issues; second model has significant style and detail issues"
+    },
+    {
+      "name": "532c860606ae7ae853bdef755eb37bb0b09c69e5b7d937c06bffcf145e88d543",
+      "prompt": "https://sn12domain.org/532c860606ae7ae853bdef755eb37bb0b09c69e5b7d937c06bffcf145e88d543.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/532c860606ae7ae853bdef755eb37bb0b09c69e5b7d937c06bffcf145e88d543.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/532c860606ae7ae853bdef755eb37bb0b09c69e5b7d937c06bffcf145e88d543.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/532c860606ae7ae853bdef755eb37bb0b09c69e5b7d937c06bffcf145e88d543.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/532c860606ae7ae853bdef755eb37bb0b09c69e5b7d937c06bffcf145e88d543.png",
+      "winner": "leader",
+      "issues": "First model has minor style differences and missing environmental context; second model has major issues with added elements that don't match original prompt's garden setting"
+    },
+    {
+      "name": "56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6",
+      "prompt": "https://sn12domain.org/56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/56a8ad381df0c3617f5e33396af62b91a48564a2e6372cb67542d6404c9b77e6.png",
+      "winner": "draw",
+      "issues": "Both models have minor shape differences from the prompt, with some details missing. The first model has more varied colors in the sticks, while the second has more uniform colors. Both have different background styles and base details than the original prompt."
+    },
+    {
+      "name": "5806f9f3a8e69b8336a61f98fc0327e98749e8f50cfc00ac6ea7427e2db5cf8b",
+      "prompt": "https://sn12domain.org/5806f9f3a8e69b8336a61f98fc0327e98749e8f50cfc00ac6ea7427e2db5cf8b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/5806f9f3a8e69b8336a61f98fc0327e98749e8f50cfc00ac6ea7427e2db5cf8b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/5806f9f3a8e69b8336a61f98fc0327e98749e8f50cfc00ac6ea7427e2db5cf8b.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/5806f9f3a8e69b8336a61f98fc0327e98749e8f50cfc00ac6ea7427e2db5cf8b.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/5806f9f3a8e69b8336a61f98fc0327e98749e8f50cfc00ac6ea7427e2db5cf8b.png",
+      "winner": "draw",
+      "issues": "Both models have different color schemes, lighting, and background elements compared to the prompt. The first model has a purple color with black accents, while the prompt shows a red robot with red laser beams. The second model has a pink/magenta color with white shadows, which doesn't match the prompt's red color scheme and environment. Both models lack the red laser beams from the prompt, and their overall style and lighting don't match the dramatic, cinematic look of the original image."
+    },
+    {
+      "name": "582b5fa7c5b21b3baf09bf58599e7b4082d21874be3afb3beb6a936a26cc0ffc",
+      "prompt": "https://sn12domain.org/582b5fa7c5b21b3baf09bf58599e7b4082d21874be3afb3beb6a936a26cc0ffc.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/582b5fa7c5b21b3baf09bf58599e7b4082d21874be3afb3beb6a936a26cc0ffc.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/582b5fa7c5b21b3baf09bf58599e7b4082d21874be3afb3beb6a936a26cc0ffc.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/582b5fa7c5b21b3baf09bf58599e7b4082d21874be3afb3beb6a936a26cc0ffc.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/582b5fa7c5b21b3baf09bf58599e7b4082d21874be3afb3beb6a936a26cc0ffc.png",
+      "winner": "draw",
+      "issues": "First model has plain background but lacks environmental details like the water reflection and textured surface. Second model has better environmental details but has some stylistic differences in texture and proportions."
+    },
+    {
+      "name": "5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028",
+      "prompt": "https://sn12domain.org/5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing background elements; second model has major issues with added elements and style deviation"
+    },
+    {
+      "name": "5c8b8cdc2161283c4b6ea8fd604f871b8cfe2c35afac1e9edc88a37eb1318c5f",
+      "prompt": "https://sn12domain.org/5c8b8cdc2161283c4b6ea8fd604f871b8cfe2c35afac1e9edc88a37eb1318c5f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/5c8b8cdc2161283c4b6ea8fd604f871b8cfe2c35afac1e9edc88a37eb1318c5f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/5c8b8cdc2161283c4b6ea8fd604f871b8cfe2c35afac1e9edc88a37eb1318c5f.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/5c8b8cdc2161283c4b6ea8fd604f871b8cfe2c35afac1e9edc88a37eb1318c5f.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/5c8b8cdc2161283c4b6ea8fd604f871b8cfe2c35afac1e9edc88a37eb1318c5f.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing small details compared to prompt; second model has major issues with flower arrangement and plant structure, less natural appearance"
+    },
+    {
+      "name": "5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8",
+      "prompt": "https://sn12domain.org/5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/5eaf242b81d934958f083ecc80e5eb718e47760646755c0180e640b1401f14f8.png",
+      "winner": "draw",
+      "issues": "First model has some similarity but lacks detail accuracy and color matching; second model has major structural and detail deviations"
+    },
+    {
+      "name": "69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad",
+      "prompt": "https://sn12domain.org/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.png",
+      "winner": "leader",
+      "issues": "First model has minor shape and detail differences, second model has major issues with structure and context"
+    },
+    {
+      "name": "6e799b9c39bf796184e52d0576534f6ec3c0c420bcf6823fa5356eee7035d5c1",
+      "prompt": "https://sn12domain.org/6e799b9c39bf796184e52d0576534f6ec3c0c420bcf6823fa5356eee7035d5c1.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/6e799b9c39bf796184e52d0576534f6ec3c0c420bcf6823fa5356eee7035d5c1.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/6e799b9c39bf796184e52d0576534f6ec3c0c420bcf6823fa5356eee7035d5c1.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/6e799b9c39bf796184e52d0576534f6ec3c0c420bcf6823fa5356eee7035d5c1.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/6e799b9c39bf796184e52d0576534f6ec3c0c420bcf6823fa5356eee7035d5c1.png",
+      "winner": "miner",
+      "issues": "First model has wrong color scheme (yellow fins vs orange), second model has better base matching but still has color and detail differences"
+    },
+    {
+      "name": "7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34",
+      "prompt": "https://sn12domain.org/7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/7171ad88e62858e96cbcd9f6cf1cad5c89f1bfb818f5d208ceacd24e489adb34.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e",
+      "prompt": "https://sn12domain.org/7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/7336eedaf0a31b89c65dca08853aa4e7c0958e82069c34518e59df66088fde8e.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details compared to prompt; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "79dba7120244f263228580c4069f51578a30f97304cc2f93c7b7c0666e9eb6b6",
+      "prompt": "https://sn12domain.org/79dba7120244f263228580c4069f51578a30f97304cc2f93c7b7c0666e9eb6b6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/79dba7120244f263228580c4069f51578a30f97304cc2f93c7b7c0666e9eb6b6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/79dba7120244f263228580c4069f51578a30f97304cc2f93c7b7c0666e9eb6b6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/79dba7120244f263228580c4069f51578a30f97304cc2f93c7b7c0666e9eb6b6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/79dba7120244f263228580c4069f51578a30f97304cc2f93c7b7c0666e9eb6b6.png",
+      "winner": "draw",
+      "issues": "First model has minor shape and detail differences (e.g. unicorn head position, floral arrangement), second model has moderate issues (style shift, additional elements not in prompt)"
+    },
+    {
+      "name": "7c7df949fd112c9a3b33311bcfa387160927231a5aa41cb3a0064618d1abe87e",
+      "prompt": "https://sn12domain.org/7c7df949fd112c9a3b33311bcfa387160927231a5aa41cb3a0064618d1abe87e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/7c7df949fd112c9a3b33311bcfa387160927231a5aa41cb3a0064618d1abe87e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/7c7df949fd112c9a3b33311bcfa387160927231a5aa41cb3a0064618d1abe87e.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/7c7df949fd112c9a3b33311bcfa387160927231a5aa41cb3a0064618d1abe87e.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/7c7df949fd112c9a3b33311bcfa387160927231a5aa41cb3a0064618d1abe87e.png",
+      "winner": "draw",
+      "issues": "Both models have some shape differences from the prompt, with the second model having more significant detail issues and different background settings. Both lack the specific book arrangements and shelf details of the original prompt."
+    },
+    {
+      "name": "80a82cc3f228cb7557b0d3ba7bdc5d9e43e4a59806ade7f9a348941ca6ce6a73",
+      "prompt": "https://sn12domain.org/80a82cc3f228cb7557b0d3ba7bdc5d9e43e4a59806ade7f9a348941ca6ce6a73.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/80a82cc3f228cb7557b0d3ba7bdc5d9e43e4a59806ade7f9a348941ca6ce6a73.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/80a82cc3f228cb7557b0d3ba7bdc5d9e43e4a59806ade7f9a348941ca6ce6a73.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/80a82cc3f228cb7557b0d3ba7bdc5d9e43e4a59806ade7f9a348941ca6ce6a73.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/80a82cc3f228cb7557b0d3ba7bdc5d9e43e4a59806ade7f9a348941ca6ce6a73.png",
+      "winner": "draw",
+      "issues": "First model has minor detail issues (extra items, different arrangement), second model has major style and detail differences"
+    },
+    {
+      "name": "82c6b4608b81474218c8f6561d24e7dc5e0ae3d8e28d9985b0bb8ba525a98e49",
+      "prompt": "https://sn12domain.org/82c6b4608b81474218c8f6561d24e7dc5e0ae3d8e28d9985b0bb8ba525a98e49.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/82c6b4608b81474218c8f6561d24e7dc5e0ae3d8e28d9985b0bb8ba525a98e49.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/82c6b4608b81474218c8f6561d24e7dc5e0ae3d8e28d9985b0bb8ba525a98e49.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/82c6b4608b81474218c8f6561d24e7dc5e0ae3d8e28d9985b0bb8ba525a98e49.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/82c6b4608b81474218c8f6561d24e7dc5e0ae3d8e28d9985b0bb8ba525a98e49.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details, plus visual artifacts"
+    },
+    {
+      "name": "8409e2c59ca6cd52b033e20e4404e66e20040cc9b345851a89d7a3759e2cfe6a",
+      "prompt": "https://sn12domain.org/8409e2c59ca6cd52b033e20e4404e66e20040cc9b345851a89d7a3759e2cfe6a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8409e2c59ca6cd52b033e20e4404e66e20040cc9b345851a89d7a3759e2cfe6a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8409e2c59ca6cd52b033e20e4404e66e20040cc9b345851a89d7a3759e2cfe6a.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8409e2c59ca6cd52b033e20e4404e66e20040cc9b345851a89d7a3759e2cfe6a.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8409e2c59ca6cd52b033e20e4404e66e20040cc9b345851a89d7a3759e2cfe6a.png",
+      "winner": "miner",
+      "issues": "First model has basic tiger shape but lacks environmental details matching the forest prompt. Second model has better environmental integration but still has some stylistic differences from the prompt's photorealistic quality."
+    },
+    {
+      "name": "854c1449-39a1-4846-8af4-d6ebe8d4f619",
+      "prompt": "https://sn12domain.org/854c1449-39a1-4846-8af4-d6ebe8d4f619.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/854c1449-39a1-4846-8af4-d6ebe8d4f619.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/854c1449-39a1-4846-8af4-d6ebe8d4f619.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/854c1449-39a1-4846-8af4-d6ebe8d4f619.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/854c1449-39a1-4846-8af4-d6ebe8d4f619.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details"
+    },
+    {
+      "name": "887b78f9633f97762ca37101496911bf36fc81e09db6caaca29dec724c31708a",
+      "prompt": "https://sn12domain.org/887b78f9633f97762ca37101496911bf36fc81e09db6caaca29dec724c31708a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/887b78f9633f97762ca37101496911bf36fc81e09db6caaca29dec724c31708a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/887b78f9633f97762ca37101496911bf36fc81e09db6caaca29dec724c31708a.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/887b78f9633f97762ca37101496911bf36fc81e09db6caaca29dec724c31708a.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/887b78f9633f97762ca37101496911bf36fc81e09db6caaca29dec724c31708a.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and slight detail variations; second model has moderate issues with style and significant detail differences"
+    },
+    {
+      "name": "89e1b8998cc50f9be2f55127b09effa9030e523bec6d65b72f74d4c4db06099b",
+      "prompt": "https://sn12domain.org/89e1b8998cc50f9be2f55127b09effa9030e523bec6d65b72f74d4c4db06099b.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/89e1b8998cc50f9be2f55127b09effa9030e523bec6d65b72f74d4c4db06099b.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/89e1b8998cc50f9be2f55127b09effa9030e523bec6d65b72f74d4c4db06099b.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/89e1b8998cc50f9be2f55127b09effa9030e523bec6d65b72f74d4c4db06099b.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/89e1b8998cc50f9be2f55127b09effa9030e523bec6d65b72f74d4c4db06099b.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and some detail variations; second model has more significant style and detail differences"
+    },
+    {
+      "name": "8a08215ae9ee2976fbddabdca5bc5046c9c8b9dc5829a336cf3bcba249fc00f5",
+      "prompt": "https://sn12domain.org/8a08215ae9ee2976fbddabdca5bc5046c9c8b9dc5829a336cf3bcba249fc00f5.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8a08215ae9ee2976fbddabdca5bc5046c9c8b9dc5829a336cf3bcba249fc00f5.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8a08215ae9ee2976fbddabdca5bc5046c9c8b9dc5829a336cf3bcba249fc00f5.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8a08215ae9ee2976fbddabdca5bc5046c9c8b9dc5829a336cf3bcba249fc00f5.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8a08215ae9ee2976fbddabdca5bc5046c9c8b9dc5829a336cf3bcba249fc00f5.png",
+      "winner": "draw",
+      "issues": "First model has better detail matching the prompt but second model has more significant deviations in texture, shape, and facial features"
+    },
+    {
+      "name": "8bafd60a0a8f83338ef19e4f515cfc3b38f5ca44905a9c8d6573c49e36992a62",
+      "prompt": "https://sn12domain.org/8bafd60a0a8f83338ef19e4f515cfc3b38f5ca44905a9c8d6573c49e36992a62.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8bafd60a0a8f83338ef19e4f515cfc3b38f5ca44905a9c8d6573c49e36992a62.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8bafd60a0a8f83338ef19e4f515cfc3b38f5ca44905a9c8d6573c49e36992a62.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8bafd60a0a8f83338ef19e4f515cfc3b38f5ca44905a9c8d6573c49e36992a62.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8bafd60a0a8f83338ef19e4f515cfc3b38f5ca44905a9c8d6573c49e36992a62.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and background issues; second model has significant style and detail issues"
+    },
+    {
+      "name": "8dca48c8b5f9c5ef19be6921f60aa29a091ba4fd48c0c048ea0ee3c5e3dae6c7",
+      "prompt": "https://sn12domain.org/8dca48c8b5f9c5ef19be6921f60aa29a091ba4fd48c0c048ea0ee3c5e3dae6c7.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8dca48c8b5f9c5ef19be6921f60aa29a091ba4fd48c0c048ea0ee3c5e3dae6c7.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8dca48c8b5f9c5ef19be6921f60aa29a091ba4fd48c0c048ea0ee3c5e3dae6c7.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8dca48c8b5f9c5ef19be6921f60aa29a091ba4fd48c0c048ea0ee3c5e3dae6c7.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8dca48c8b5f9c5ef19be6921f60aa29a091ba4fd48c0c048ea0ee3c5e3dae6c7.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and less detail matching the prompt; second model has major issues with flower shape and overall structure not matching the prompt's flower details"
+    },
+    {
+      "name": "8f02dbf8be4a4f2f2357ee030bbb4d21d482e31a76bd59190eee0bc53d2328ac",
+      "prompt": "https://sn12domain.org/8f02dbf8be4a4f2f2357ee030bbb4d21d482e31a76bd59190eee0bc53d2328ac.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8f02dbf8be4a4f2f2357ee030bbb4d21d482e31a76bd59190eee0bc53d2328ac.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/8f02dbf8be4a4f2f2357ee030bbb4d21d482e31a76bd59190eee0bc53d2328ac.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8f02dbf8be4a4f2f2357ee030bbb4d21d482e31a76bd59190eee0bc53d2328ac.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/8f02dbf8be4a4f2f2357ee030bbb4d21d482e31a76bd59190eee0bc53d2328ac.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "906f941d7e84f04f7114375d607b1083636882147476f3b07c095cca5d02bc46",
+      "prompt": "https://sn12domain.org/906f941d7e84f04f7114375d607b1083636882147476f3b07c095cca5d02bc46.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/906f941d7e84f04f7114375d607b1083636882147476f3b07c095cca5d02bc46.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/906f941d7e84f04f7114375d607b1083636882147476f3b07c095cca5d02bc46.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/906f941d7e84f04f7114375d607b1083636882147476f3b07c095cca5d02bc46.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/906f941d7e84f04f7114375d607b1083636882147476f3b07c095cca5d02bc46.png",
+      "winner": "draw",
+      "issues": "First model has minor shape and detail issues, second model has major issues with style and category (appears more cartoonish with shadow effects not matching original). Both have significant deviations from the original bottle's realistic rendering."
+    },
+    {
+      "name": "908221e7-4e93-4467-8b3c-cf5ae382d015",
+      "prompt": "https://sn12domain.org/908221e7-4e93-4467-8b3c-cf5ae382d015.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/908221e7-4e93-4467-8b3c-cf5ae382d015.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/908221e7-4e93-4467-8b3c-cf5ae382d015.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/908221e7-4e93-4467-8b3c-cf5ae382d015.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/908221e7-4e93-4467-8b3c-cf5ae382d015.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has major issues with overall structure and style not matching the original chair prompt"
+    },
+    {
+      "name": "9188ec7eb26e8c7ab3680d6fc501cf82807d9d62d3aa29c4d6569f2c8447d613",
+      "prompt": "https://sn12domain.org/9188ec7eb26e8c7ab3680d6fc501cf82807d9d62d3aa29c4d6569f2c8447d613.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/9188ec7eb26e8c7ab3680d6fc501cf82807d9d62d3aa29c4d6569f2c8447d613.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/9188ec7eb26e8c7ab3680d6fc501cf82807d9d62d3aa29c4d6569f2c8447d613.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/9188ec7eb26e8c7ab3680d6fc501cf82807d9d62d3aa29c4d6569f2c8447d613.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/9188ec7eb26e8c7ab3680d6fc501cf82807d9d62d3aa29c4d6569f2c8447d613.png",
+      "winner": "draw",
+      "issues": "First model has some text and design issues but maintains book structure; second model introduces unrelated objects (fruits, bowl) not in original prompt, with significant text and style deviations"
+    },
+    {
+      "name": "92036f3abc8c73b3d2185d7afec12ab838bf0d50910b31c0c1d4f4114442d004",
+      "prompt": "https://sn12domain.org/92036f3abc8c73b3d2185d7afec12ab838bf0d50910b31c0c1d4f4114442d004.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/92036f3abc8c73b3d2185d7afec12ab838bf0d50910b31c0c1d4f4114442d004.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/92036f3abc8c73b3d2185d7afec12ab838bf0d50910b31c0c1d4f4114442d004.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/92036f3abc8c73b3d2185d7afec12ab838bf0d50910b31c0c1d4f4114442d004.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/92036f3abc8c73b3d2185d7afec12ab838bf0d50910b31c0c1d4f4114442d004.png",
+      "winner": "miner",
+      "issues": "First model has basic structure but lacks environmental details like the forest setting and water path. Second model has better environmental integration but some architectural details differ from the prompt."
+    },
+    {
+      "name": "9294bec75011c53dddb1202336c3d19faef8e6a2d454bf2b1922c276b1fd1acb",
+      "prompt": "https://sn12domain.org/9294bec75011c53dddb1202336c3d19faef8e6a2d454bf2b1922c276b1fd1acb.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/9294bec75011c53dddb1202336c3d19faef8e6a2d454bf2b1922c276b1fd1acb.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/9294bec75011c53dddb1202336c3d19faef8e6a2d454bf2b1922c276b1fd1acb.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/9294bec75011c53dddb1202336c3d19faef8e6a2d454bf2b1922c276b1fd1acb.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/9294bec75011c53dddb1202336c3d19faef8e6a2d454bf2b1922c276b1fd1acb.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details compared to prompt; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "97c684c43ad911609fb1e047fbc58eb1af9448d0fadd9ad60b50acd6d530e865",
+      "prompt": "https://sn12domain.org/97c684c43ad911609fb1e047fbc58eb1af9448d0fadd9ad60b50acd6d530e865.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/97c684c43ad911609fb1e047fbc58eb1af9448d0fadd9ad60b50acd6d530e865.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/97c684c43ad911609fb1e047fbc58eb1af9448d0fadd9ad60b50acd6d530e865.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/97c684c43ad911609fb1e047fbc58eb1af9448d0fadd9ad60b50acd6d530e865.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/97c684c43ad911609fb1e047fbc58eb1af9448d0fadd9ad60b50acd6d530e865.png",
+      "winner": "leader",
+      "issues": "First model has moderate issues with clarity and detail matching, second model has major issues with overall structure and detail accuracy. Both lack the sharpness and specific elements of the original prompt."
+    },
+    {
+      "name": "987ee3ad-ce87-4733-a784-ce3feef9532a",
+      "prompt": "https://sn12domain.org/987ee3ad-ce87-4733-a784-ce3feef9532a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/987ee3ad-ce87-4733-a784-ce3feef9532a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/987ee3ad-ce87-4733-a784-ce3feef9532a.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/987ee3ad-ce87-4733-a784-ce3feef9532a.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/987ee3ad-ce87-4733-a784-ce3feef9532a.png",
+      "winner": "draw",
+      "issues": "First model has better shape similarity but second has major style/texture issues, both lack the glossy finish and detailed reflections of the prompt"
+    },
+    {
+      "name": "988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9",
+      "prompt": "https://sn12domain.org/988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/988209beaf8802e7b01184b774fdbbc2b17bcac96dd102343e6bad1527504ee9.png",
+      "winner": "draw",
+      "issues": "Both models generally match the prompt but have minor differences in basket texture, flower arrangement, and lighting. Some baskets have different weaving patterns and colors, and flower positions vary slightly."
+    },
+    {
+      "name": "9c515261c35590822a4ff6f1fe5781aa55da3453bb8be5904aa2f0b1bf0fd0a8",
+      "prompt": "https://sn12domain.org/9c515261c35590822a4ff6f1fe5781aa55da3453bb8be5904aa2f0b1bf0fd0a8.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/9c515261c35590822a4ff6f1fe5781aa55da3453bb8be5904aa2f0b1bf0fd0a8.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/9c515261c35590822a4ff6f1fe5781aa55da3453bb8be5904aa2f0b1bf0fd0a8.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/9c515261c35590822a4ff6f1fe5781aa55da3453bb8be5904aa2f0b1bf0fd0a8.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/9c515261c35590822a4ff6f1fe5781aa55da3453bb8be5904aa2f0b1bf0fd0a8.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing details compared to prompt; second model has major structural differences and doesn't match the prompt's style/structure"
+    },
+    {
+      "name": "9dbc68f175b56e60ae95f9511fb94546bbf4b49c0f5b7e5bf5b607cb38b19bc1",
+      "prompt": "https://sn12domain.org/9dbc68f175b56e60ae95f9511fb94546bbf4b49c0f5b7e5bf5b607cb38b19bc1.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/9dbc68f175b56e60ae95f9511fb94546bbf4b49c0f5b7e5bf5b607cb38b19bc1.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/9dbc68f175b56e60ae95f9511fb94546bbf4b49c0f5b7e5bf5b607cb38b19bc1.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/9dbc68f175b56e60ae95f9511fb94546bbf4b49c0f5b7e5bf5b607cb38b19bc1.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/9dbc68f175b56e60ae95f9511fb94546bbf4b49c0f5b7e5bf5b607cb38b19bc1.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has significant style and detail issues, with altered rope/knot and different lighting/background"
+    },
+    {
+      "name": "a0e54ae95e966dea3243c86d8e8b312c1d600118679cd855e518ba0a323404da",
+      "prompt": "https://sn12domain.org/a0e54ae95e966dea3243c86d8e8b312c1d600118679cd855e518ba0a323404da.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a0e54ae95e966dea3243c86d8e8b312c1d600118679cd855e518ba0a323404da.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a0e54ae95e966dea3243c86d8e8b312c1d600118679cd855e518ba0a323404da.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a0e54ae95e966dea3243c86d8e8b312c1d600118679cd855e518ba0a323404da.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a0e54ae95e966dea3243c86d8e8b312c1d600118679cd855e518ba0a323404da.png",
+      "winner": "leader",
+      "issues": "First model has minor issues with perspective and some details, second model has major issues with overall structure and context"
+    },
+    {
+      "name": "a60101b05b5cf9eb5ca9add2076e10e373d0aaaf748c363c8527b224f6dba33d",
+      "prompt": "https://sn12domain.org/a60101b05b5cf9eb5ca9add2076e10e373d0aaaf748c363c8527b224f6dba33d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a60101b05b5cf9eb5ca9add2076e10e373d0aaaf748c363c8527b224f6dba33d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a60101b05b5cf9eb5ca9add2076e10e373d0aaaf748c363c8527b224f6dba33d.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a60101b05b5cf9eb5ca9add2076e10e373d0aaaf748c363c8527b224f6dba33d.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a60101b05b5cf9eb5ca9add2076e10e373d0aaaf748c363c8527b224f6dba33d.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing details like exposed engine and technical elements. Second model has major issues with overall shape, missing exposed engine details, and incorrect styling compared to prompt."
+    },
+    {
+      "name": "a60c5b2c3dafb223d0ecbd408995e8bb346960822148f78b30c106b1375e1ad6",
+      "prompt": "https://sn12domain.org/a60c5b2c3dafb223d0ecbd408995e8bb346960822148f78b30c106b1375e1ad6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a60c5b2c3dafb223d0ecbd408995e8bb346960822148f78b30c106b1375e1ad6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a60c5b2c3dafb223d0ecbd408995e8bb346960822148f78b30c106b1375e1ad6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a60c5b2c3dafb223d0ecbd408995e8bb346960822148f78b30c106b1375e1ad6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a60c5b2c3dafb223d0ecbd408995e8bb346960822148f78b30c106b1375e1ad6.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing background details; second model has major issues with style and structure, with excessive foliage and inconsistent design."
+    },
+    {
+      "name": "a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0",
+      "prompt": "https://sn12domain.org/a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "a831047a309e533820f77a00e3a65d7b1ee5a6547f9d045ba3c4a7de6cca352e",
+      "prompt": "https://sn12domain.org/a831047a309e533820f77a00e3a65d7b1ee5a6547f9d045ba3c4a7de6cca352e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a831047a309e533820f77a00e3a65d7b1ee5a6547f9d045ba3c4a7de6cca352e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/a831047a309e533820f77a00e3a65d7b1ee5a6547f9d045ba3c4a7de6cca352e.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a831047a309e533820f77a00e3a65d7b1ee5a6547f9d045ba3c4a7de6cca352e.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/a831047a309e533820f77a00e3a65d7b1ee5a6547f9d045ba3c4a7de6cca352e.png",
+      "winner": "draw",
+      "issues": "First model has basic shape but lacks detailed textures and proper lighting matching prompt. Second model has wrong style with simplified design and incorrect background details."
+    },
+    {
+      "name": "ab455629abc3223b6b448253da59120dccdceccf123354ceadd5a904e2bed8d3",
+      "prompt": "https://sn12domain.org/ab455629abc3223b6b448253da59120dccdceccf123354ceadd5a904e2bed8d3.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ab455629abc3223b6b448253da59120dccdceccf123354ceadd5a904e2bed8d3.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ab455629abc3223b6b448253da59120dccdceccf123354ceadd5a904e2bed8d3.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ab455629abc3223b6b448253da59120dccdceccf123354ceadd5a904e2bed8d3.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ab455629abc3223b6b448253da59120dccdceccf123354ceadd5a904e2bed8d3.png",
+      "winner": "draw",
+      "issues": "First model has closer resemblance to prompt but has minor shape differences in facial features and hair details. Second model has more significant deviations in facial structure, hair texture, and overall proportions compared to the prompt."
+    },
+    {
+      "name": "ae4aaafc7f9dc3d389701cd63ed7a3446bbd0a6b386fededbc0d7e11bb70052a",
+      "prompt": "https://sn12domain.org/ae4aaafc7f9dc3d389701cd63ed7a3446bbd0a6b386fededbc0d7e11bb70052a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ae4aaafc7f9dc3d389701cd63ed7a3446bbd0a6b386fededbc0d7e11bb70052a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ae4aaafc7f9dc3d389701cd63ed7a3446bbd0a6b386fededbc0d7e11bb70052a.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ae4aaafc7f9dc3d389701cd63ed7a3446bbd0a6b386fededbc0d7e11bb70052a.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ae4aaafc7f9dc3d389701cd63ed7a3446bbd0a6b386fededbc0d7e11bb70052a.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and lighting variations; second model has moderate issues with color tone, shape, and style consistency"
+    },
+    {
+      "name": "b110ed3a3548f903076d10ed37efd1117e153cb0248215db63c8c27eb31f0144",
+      "prompt": "https://sn12domain.org/b110ed3a3548f903076d10ed37efd1117e153cb0248215db63c8c27eb31f0144.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b110ed3a3548f903076d10ed37efd1117e153cb0248215db63c8c27eb31f0144.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b110ed3a3548f903076d10ed37efd1117e153cb0248215db63c8c27eb31f0144.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b110ed3a3548f903076d10ed37efd1117e153cb0248215db63c8c27eb31f0144.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b110ed3a3548f903076d10ed37efd1117e153cb0248215db63c8c27eb31f0144.png",
+      "winner": "draw",
+      "issues": "Both models have different color arrangements, patch patterns, and basket details compared to the original prompt. While they maintain the hot air balloon shape, the style and specific details don't match the original prompt's colorful patchwork pattern and specific color distribution."
+    },
+    {
+      "name": "b12086d1932981fcbb10b778faa613245fb9948a0d5950b96f611a056e3b2fa4",
+      "prompt": "https://sn12domain.org/b12086d1932981fcbb10b778faa613245fb9948a0d5950b96f611a056e3b2fa4.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b12086d1932981fcbb10b778faa613245fb9948a0d5950b96f611a056e3b2fa4.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b12086d1932981fcbb10b778faa613245fb9948a0d5950b96f611a056e3b2fa4.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b12086d1932981fcbb10b778faa613245fb9948a0d5950b96f611a056e3b2fa4.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b12086d1932981fcbb10b778faa613245fb9948a0d5950b96f611a056e3b2fa4.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing small details; second model has major issues with structure and style"
+    },
+    {
+      "name": "b57421b571110de4bc492bce2481407f7740fc4242178a232f0dc34246bc1df4",
+      "prompt": "https://sn12domain.org/b57421b571110de4bc492bce2481407f7740fc4242178a232f0dc34246bc1df4.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b57421b571110de4bc492bce2481407f7740fc4242178a232f0dc34246bc1df4.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b57421b571110de4bc492bce2481407f7740fc4242178a232f0dc34246bc1df4.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b57421b571110de4bc492bce2481407f7740fc4242178a232f0dc34246bc1df4.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b57421b571110de4bc492bce2481407f7740fc4242178a232f0dc34246bc1df4.png",
+      "winner": "draw",
+      "issues": "Both models have some shape differences from the prompt, with less detailed puzzle piece patterns and slightly different proportions. The first model has a more translucent appearance while the second has a more solid look. Both lack the specific puzzle piece details and lighting effects of the original prompt."
+    },
+    {
+      "name": "b5d96a7b2f7d22f7808fc285a26c23b2b975ef5dbf1d238e216b6561462c96f2",
+      "prompt": "https://sn12domain.org/b5d96a7b2f7d22f7808fc285a26c23b2b975ef5dbf1d238e216b6561462c96f2.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b5d96a7b2f7d22f7808fc285a26c23b2b975ef5dbf1d238e216b6561462c96f2.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b5d96a7b2f7d22f7808fc285a26c23b2b975ef5dbf1d238e216b6561462c96f2.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b5d96a7b2f7d22f7808fc285a26c23b2b975ef5dbf1d238e216b6561462c96f2.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b5d96a7b2f7d22f7808fc285a26c23b2b975ef5dbf1d238e216b6561462c96f2.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and lighting issues; second model has major issues with overall structure and style deviation"
+    },
+    {
+      "name": "b94b4140958254f3e7c41331dc522d78db9bf2fa8fa5724bc62d0e4d3bd605d2",
+      "prompt": "https://sn12domain.org/b94b4140958254f3e7c41331dc522d78db9bf2fa8fa5724bc62d0e4d3bd605d2.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b94b4140958254f3e7c41331dc522d78db9bf2fa8fa5724bc62d0e4d3bd605d2.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/b94b4140958254f3e7c41331dc522d78db9bf2fa8fa5724bc62d0e4d3bd605d2.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b94b4140958254f3e7c41331dc522d78db9bf2fa8fa5724bc62d0e4d3bd605d2.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/b94b4140958254f3e7c41331dc522d78db9bf2fa8fa5724bc62d0e4d3bd605d2.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and lighting variations; second model has moderate issues with positioning and background elements"
+    },
+    {
+      "name": "ba495014c7920c09602f1ecc0c75c051f005dcb6a8bbf132d07ede2ee43b9e32",
+      "prompt": "https://sn12domain.org/ba495014c7920c09602f1ecc0c75c051f005dcb6a8bbf132d07ede2ee43b9e32.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ba495014c7920c09602f1ecc0c75c051f005dcb6a8bbf132d07ede2ee43b9e32.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ba495014c7920c09602f1ecc0c75c051f005dcb6a8bbf132d07ede2ee43b9e32.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ba495014c7920c09602f1ecc0c75c051f005dcb6a8bbf132d07ede2ee43b9e32.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ba495014c7920c09602f1ecc0c75c051f005dcb6a8bbf132d07ede2ee43b9e32.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details compared to prompt; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "bd5027fc-ef64-455a-a6d8-69d817d0433f",
+      "prompt": "https://sn12domain.org/bd5027fc-ef64-455a-a6d8-69d817d0433f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/bd5027fc-ef64-455a-a6d8-69d817d0433f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/bd5027fc-ef64-455a-a6d8-69d817d0433f.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/bd5027fc-ef64-455a-a6d8-69d817d0433f.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/bd5027fc-ef64-455a-a6d8-69d817d0433f.png",
+      "winner": "draw",
+      "issues": "First model has similar shape but different details and lighting; second model has different shape and style"
+    },
+    {
+      "name": "bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47",
+      "prompt": "https://sn12domain.org/bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47.png",
+      "winner": "leader",
+      "issues": "First model has some shape differences and detail issues compared to prompt, second model has major issues with clarity and detail matching"
+    },
+    {
+      "name": "be94887e8e032e46d4bbd2f2024382c94b103450d42bf7b9ce9eb28198be507c",
+      "prompt": "https://sn12domain.org/be94887e8e032e46d4bbd2f2024382c94b103450d42bf7b9ce9eb28198be507c.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/be94887e8e032e46d4bbd2f2024382c94b103450d42bf7b9ce9eb28198be507c.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/be94887e8e032e46d4bbd2f2024382c94b103450d42bf7b9ce9eb28198be507c.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/be94887e8e032e46d4bbd2f2024382c94b103450d42bf7b9ce9eb28198be507c.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/be94887e8e032e46d4bbd2f2024382c94b103450d42bf7b9ce9eb28198be507c.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details"
+    },
+    {
+      "name": "bf1de31f-1a50-401b-b1a9-97ed28613ec6",
+      "prompt": "https://sn12domain.org/bf1de31f-1a50-401b-b1a9-97ed28613ec6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/bf1de31f-1a50-401b-b1a9-97ed28613ec6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/bf1de31f-1a50-401b-b1a9-97ed28613ec6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/bf1de31f-1a50-401b-b1a9-97ed28613ec6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/bf1de31f-1a50-401b-b1a9-97ed28613ec6.png",
+      "winner": "leader",
+      "issues": "First model has some shape differences and texture variations, second model has major issues with clarity and detail representation"
+    },
+    {
+      "name": "c1abfbc5fb9bc7f6d31a03986d730328e1757e24a12f27824fc77ef17ff51578",
+      "prompt": "https://sn12domain.org/c1abfbc5fb9bc7f6d31a03986d730328e1757e24a12f27824fc77ef17ff51578.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c1abfbc5fb9bc7f6d31a03986d730328e1757e24a12f27824fc77ef17ff51578.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c1abfbc5fb9bc7f6d31a03986d730328e1757e24a12f27824fc77ef17ff51578.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c1abfbc5fb9bc7f6d31a03986d730328e1757e24a12f27824fc77ef17ff51578.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c1abfbc5fb9bc7f6d31a03986d730328e1757e24a12f27824fc77ef17ff51578.png",
+      "winner": "draw",
+      "issues": "Both models have minor shape differences from the prompt, with less detailed crystal textures and simpler color variations. The first model has a more basic texture, while the second has smoother surfaces. Both lack the detailed, realistic crystal appearance of the prompt."
+    },
+    {
+      "name": "c227a39b00edf4c70c14eeca93e6bcc5c411fa0c2dbd791b42161ed3c60160cd",
+      "prompt": "https://sn12domain.org/c227a39b00edf4c70c14eeca93e6bcc5c411fa0c2dbd791b42161ed3c60160cd.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c227a39b00edf4c70c14eeca93e6bcc5c411fa0c2dbd791b42161ed3c60160cd.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c227a39b00edf4c70c14eeca93e6bcc5c411fa0c2dbd791b42161ed3c60160cd.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c227a39b00edf4c70c14eeca93e6bcc5c411fa0c2dbd791b42161ed3c60160cd.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c227a39b00edf4c70c14eeca93e6bcc5c411fa0c2dbd791b42161ed3c60160cd.png",
+      "winner": "leader",
+      "issues": "First model has similar shape but different arrangement and details; second model has major shape and style differences"
+    },
+    {
+      "name": "c44754b92f55faa102ef8e80088c3c535d7e6ffd275c86b2bfc3521bfa507e07",
+      "prompt": "https://sn12domain.org/c44754b92f55faa102ef8e80088c3c535d7e6ffd275c86b2bfc3521bfa507e07.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c44754b92f55faa102ef8e80088c3c535d7e6ffd275c86b2bfc3521bfa507e07.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c44754b92f55faa102ef8e80088c3c535d7e6ffd275c86b2bfc3521bfa507e07.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c44754b92f55faa102ef8e80088c3c535d7e6ffd275c86b2bfc3521bfa507e07.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c44754b92f55faa102ef8e80088c3c535d7e6ffd275c86b2bfc3521bfa507e07.png",
+      "winner": "draw",
+      "issues": "Both models have moderate issues with the rose's shape, color tone, and detail accuracy compared to the prompt. The first model has different leaf shapes and stem details, while the second has altered petal textures and bud appearance. Neither model perfectly matches the prompt's rose characteristics."
+    },
+    {
+      "name": "c6e433ccb826a78b98bdede9182df2f854c21851432db73617c54dc3751b91f8",
+      "prompt": "https://sn12domain.org/c6e433ccb826a78b98bdede9182df2f854c21851432db73617c54dc3751b91f8.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c6e433ccb826a78b98bdede9182df2f854c21851432db73617c54dc3751b91f8.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c6e433ccb826a78b98bdede9182df2f854c21851432db73617c54dc3751b91f8.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c6e433ccb826a78b98bdede9182df2f854c21851432db73617c54dc3751b91f8.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c6e433ccb826a78b98bdede9182df2f854c21851432db73617c54dc3751b91f8.png",
+      "winner": "leader",
+      "issues": "First model has similar boat type but lacks harbor context, second model is different vessel type with major structural differences"
+    },
+    {
+      "name": "c9eaa2729f3b79d7bd4d3df0295ddfe6bc790645992cca83052294aba409a793",
+      "prompt": "https://sn12domain.org/c9eaa2729f3b79d7bd4d3df0295ddfe6bc790645992cca83052294aba409a793.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c9eaa2729f3b79d7bd4d3df0295ddfe6bc790645992cca83052294aba409a793.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/c9eaa2729f3b79d7bd4d3df0295ddfe6bc790645992cca83052294aba409a793.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c9eaa2729f3b79d7bd4d3df0295ddfe6bc790645992cca83052294aba409a793.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/c9eaa2729f3b79d7bd4d3df0295ddfe6bc790645992cca83052294aba409a793.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has major issues with structure and style, deviating significantly from the original flower prompt."
+    },
+    {
+      "name": "cd963a018e22c833138b5df9fd46779f7e2023fff2a4aa8950b98111ef969555",
+      "prompt": "https://sn12domain.org/cd963a018e22c833138b5df9fd46779f7e2023fff2a4aa8950b98111ef969555.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/cd963a018e22c833138b5df9fd46779f7e2023fff2a4aa8950b98111ef969555.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/cd963a018e22c833138b5df9fd46779f7e2023fff2a4aa8950b98111ef969555.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/cd963a018e22c833138b5df9fd46779f7e2023fff2a4aa8950b98111ef969555.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/cd963a018e22c833138b5df9fd46779f7e2023fff2a4aa8950b98111ef969555.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has significant issues with style and clarity"
+    },
+    {
+      "name": "d0d5bd1ef84258002072a295459d888ea5a3aeda1eeb5051cf22f4b24357fc63",
+      "prompt": "https://sn12domain.org/d0d5bd1ef84258002072a295459d888ea5a3aeda1eeb5051cf22f4b24357fc63.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d0d5bd1ef84258002072a295459d888ea5a3aeda1eeb5051cf22f4b24357fc63.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d0d5bd1ef84258002072a295459d888ea5a3aeda1eeb5051cf22f4b24357fc63.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d0d5bd1ef84258002072a295459d888ea5a3aeda1eeb5051cf22f4b24357fc63.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d0d5bd1ef84258002072a295459d888ea5a3aeda1eeb5051cf22f4b24357fc63.png",
+      "winner": "draw",
+      "issues": "First model has different base structure and background, second model has different base and surface appearance"
+    },
+    {
+      "name": "d13cba200c783d0b536ecaa24f51c97581d895656e65b9087bf2c0fc2813d3be",
+      "prompt": "https://sn12domain.org/d13cba200c783d0b536ecaa24f51c97581d895656e65b9087bf2c0fc2813d3be.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d13cba200c783d0b536ecaa24f51c97581d895656e65b9087bf2c0fc2813d3be.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d13cba200c783d0b536ecaa24f51c97581d895656e65b9087bf2c0fc2813d3be.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d13cba200c783d0b536ecaa24f51c97581d895656e65b9087bf2c0fc2813d3be.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d13cba200c783d0b536ecaa24f51c97581d895656e65b9087bf2c0fc2813d3be.png",
+      "winner": "draw",
+      "issues": "First model has basic stopwatch shape but lacks detailed texture and environmental context matching the prompt. Second model has more environmental context but still lacks detailed texture matching the prompt's specific stopwatch design."
+    },
+    {
+      "name": "d2306279708114062b021bbec82d7b5ad24521e1ca3a4c6f74af81cac2bfd52f",
+      "prompt": "https://sn12domain.org/d2306279708114062b021bbec82d7b5ad24521e1ca3a4c6f74af81cac2bfd52f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d2306279708114062b021bbec82d7b5ad24521e1ca3a4c6f74af81cac2bfd52f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d2306279708114062b021bbec82d7b5ad24521e1ca3a4c6f74af81cac2bfd52f.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d2306279708114062b021bbec82d7b5ad24521e1ca3a4c6f74af81cac2bfd52f.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d2306279708114062b021bbec82d7b5ad24521e1ca3a4c6f74af81cac2bfd52f.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "d2316f10034d30339f1ca1c261d127eb5c134a8041eeee49e510e0151a5d5fd2",
+      "prompt": "https://sn12domain.org/d2316f10034d30339f1ca1c261d127eb5c134a8041eeee49e510e0151a5d5fd2.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d2316f10034d30339f1ca1c261d127eb5c134a8041eeee49e510e0151a5d5fd2.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d2316f10034d30339f1ca1c261d127eb5c134a8041eeee49e510e0151a5d5fd2.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d2316f10034d30339f1ca1c261d127eb5c134a8041eeee49e510e0151a5d5fd2.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d2316f10034d30339f1ca1c261d127eb5c134a8041eeee49e510e0151a5d5fd2.png",
+      "winner": "draw",
+      "issues": "First model has minor shape and detail differences, second model has major issues with base and overall structure"
+    },
+    {
+      "name": "d30129504028983d8f98793bb2ff931c70b1d9ae931da936a5bae570c1bfd9c6",
+      "prompt": "https://sn12domain.org/d30129504028983d8f98793bb2ff931c70b1d9ae931da936a5bae570c1bfd9c6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d30129504028983d8f98793bb2ff931c70b1d9ae931da936a5bae570c1bfd9c6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d30129504028983d8f98793bb2ff931c70b1d9ae931da936a5bae570c1bfd9c6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d30129504028983d8f98793bb2ff931c70b1d9ae931da936a5bae570c1bfd9c6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d30129504028983d8f98793bb2ff931c70b1d9ae931da936a5bae570c1bfd9c6.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "d3418f98d5a6b11576c8bb93a9e29a092b5c0908294eb9684678612b82f467e3",
+      "prompt": "https://sn12domain.org/d3418f98d5a6b11576c8bb93a9e29a092b5c0908294eb9684678612b82f467e3.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d3418f98d5a6b11576c8bb93a9e29a092b5c0908294eb9684678612b82f467e3.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d3418f98d5a6b11576c8bb93a9e29a092b5c0908294eb9684678612b82f467e3.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d3418f98d5a6b11576c8bb93a9e29a092b5c0908294eb9684678612b82f467e3.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d3418f98d5a6b11576c8bb93a9e29a092b5c0908294eb9684678612b82f467e3.png",
+      "winner": "draw",
+      "issues": "Both models have moderate issues with shape accuracy, detail consistency, and overall style matching the prompt. The cake shapes are not perfectly round, decorative details are inconsistent, and the glossy chocolate finish doesn't match the prompt's high realism."
+    },
+    {
+      "name": "d76bce004bda9917bc151b63baeafd7f49865050eb661adbcb6259031e3becdc",
+      "prompt": "https://sn12domain.org/d76bce004bda9917bc151b63baeafd7f49865050eb661adbcb6259031e3becdc.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d76bce004bda9917bc151b63baeafd7f49865050eb661adbcb6259031e3becdc.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d76bce004bda9917bc151b63baeafd7f49865050eb661adbcb6259031e3becdc.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d76bce004bda9917bc151b63baeafd7f49865050eb661adbcb6259031e3becdc.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d76bce004bda9917bc151b63baeafd7f49865050eb661adbcb6259031e3becdc.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and some detail variations; second model has more significant style and detail differences"
+    },
+    {
+      "name": "d8097d68ecbe9b949625a9d78807682f511ce9ad7bf351ee7f2c4973c1b10ddf",
+      "prompt": "https://sn12domain.org/d8097d68ecbe9b949625a9d78807682f511ce9ad7bf351ee7f2c4973c1b10ddf.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d8097d68ecbe9b949625a9d78807682f511ce9ad7bf351ee7f2c4973c1b10ddf.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d8097d68ecbe9b949625a9d78807682f511ce9ad7bf351ee7f2c4973c1b10ddf.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d8097d68ecbe9b949625a9d78807682f511ce9ad7bf351ee7f2c4973c1b10ddf.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d8097d68ecbe9b949625a9d78807682f511ce9ad7bf351ee7f2c4973c1b10ddf.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing details; second model has major issues with style and structure, not matching the original's clarity and detail"
+    },
+    {
+      "name": "d91cd73d7ff74e4aa40874b8b5d8bb01e47c4f8487cb97fe4b9062e6c3d2c50a",
+      "prompt": "https://sn12domain.org/d91cd73d7ff74e4aa40874b8b5d8bb01e47c4f8487cb97fe4b9062e6c3d2c50a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d91cd73d7ff74e4aa40874b8b5d8bb01e47c4f8487cb97fe4b9062e6c3d2c50a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/d91cd73d7ff74e4aa40874b8b5d8bb01e47c4f8487cb97fe4b9062e6c3d2c50a.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d91cd73d7ff74e4aa40874b8b5d8bb01e47c4f8487cb97fe4b9062e6c3d2c50a.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/d91cd73d7ff74e4aa40874b8b5d8bb01e47c4f8487cb97fe4b9062e6c3d2c50a.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and slight detail variations; second model has moderate issues with style and shadow details"
+    },
+    {
+      "name": "dd9e410280a6e633bd9b20d13e3e21d80c13eaf35a1b75496de64067c8bf736e",
+      "prompt": "https://sn12domain.org/dd9e410280a6e633bd9b20d13e3e21d80c13eaf35a1b75496de64067c8bf736e.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/dd9e410280a6e633bd9b20d13e3e21d80c13eaf35a1b75496de64067c8bf736e.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/dd9e410280a6e633bd9b20d13e3e21d80c13eaf35a1b75496de64067c8bf736e.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/dd9e410280a6e633bd9b20d13e3e21d80c13eaf35a1b75496de64067c8bf736e.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/dd9e410280a6e633bd9b20d13e3e21d80c13eaf35a1b75496de64067c8bf736e.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing small details; second model has major issues with style and structure, not matching the original's clean, realistic style"
+    },
+    {
+      "name": "ddb65071445fd97bf1a90d79bd11fda9cebbb0928d755de07827e816ae532f9d",
+      "prompt": "https://sn12domain.org/ddb65071445fd97bf1a90d79bd11fda9cebbb0928d755de07827e816ae532f9d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ddb65071445fd97bf1a90d79bd11fda9cebbb0928d755de07827e816ae532f9d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ddb65071445fd97bf1a90d79bd11fda9cebbb0928d755de07827e816ae532f9d.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ddb65071445fd97bf1a90d79bd11fda9cebbb0928d755de07827e816ae532f9d.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ddb65071445fd97bf1a90d79bd11fda9cebbb0928d755de07827e816ae532f9d.png",
+      "winner": "draw",
+      "issues": "First model has minor texture and shape differences; second model has more significant style and detail issues"
+    },
+    {
+      "name": "e00a735edc502de5da38bb4397722670f289d5b909e44c10e91cfea66e57d9f9",
+      "prompt": "https://sn12domain.org/e00a735edc502de5da38bb4397722670f289d5b909e44c10e91cfea66e57d9f9.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/e00a735edc502de5da38bb4397722670f289d5b909e44c10e91cfea66e57d9f9.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/e00a735edc502de5da38bb4397722670f289d5b909e44c10e91cfea66e57d9f9.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/e00a735edc502de5da38bb4397722670f289d5b909e44c10e91cfea66e57d9f9.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/e00a735edc502de5da38bb4397722670f289d5b909e44c10e91cfea66e57d9f9.png",
+      "winner": "draw",
+      "issues": "First model has some similarity in gemstone but ring design is significantly different with less detailed setting. Second model has completely different ring design with ornate, openwork style that doesn't match the original's detailed, solid setting. Both models have major issues with ring design adherence."
+    },
+    {
+      "name": "e17449f1bb8c6121900e65235d34452dd4a45a09796a1774ff097b2cb046fe14",
+      "prompt": "https://sn12domain.org/e17449f1bb8c6121900e65235d34452dd4a45a09796a1774ff097b2cb046fe14.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/e17449f1bb8c6121900e65235d34452dd4a45a09796a1774ff097b2cb046fe14.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/e17449f1bb8c6121900e65235d34452dd4a45a09796a1774ff097b2cb046fe14.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/e17449f1bb8c6121900e65235d34452dd4a45a09796a1774ff097b2cb046fe14.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/e17449f1bb8c6121900e65235d34452dd4a45a09796a1774ff097b2cb046fe14.png",
+      "winner": "leader",
+      "issues": "First model has basic shape but lacks environmental context, lighting, and detailed elements. Second model has major structural differences and unrelated elements."
+    },
+    {
+      "name": "e2dee62799a7b88c8639eb86bbb565adae0fa0c27e9a58f50dd754ac75565971",
+      "prompt": "https://sn12domain.org/e2dee62799a7b88c8639eb86bbb565adae0fa0c27e9a58f50dd754ac75565971.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/e2dee62799a7b88c8639eb86bbb565adae0fa0c27e9a58f50dd754ac75565971.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/e2dee62799a7b88c8639eb86bbb565adae0fa0c27e9a58f50dd754ac75565971.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/e2dee62799a7b88c8639eb86bbb565adae0fa0c27e9a58f50dd754ac75565971.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/e2dee62799a7b88c8639eb86bbb565adae0fa0c27e9a58f50dd754ac75565971.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing details compared to prompt; second model has major issues with style and context, not matching the prompt's lighting and detail quality"
+    },
+    {
+      "name": "e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2",
+      "prompt": "https://sn12domain.org/e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/e5846d5547a3ac830b2916013243cce604ccbbbe6610237973b0c21202b72cc2.png",
+      "winner": "leader",
+      "issues": "First model has some shape differences and missing details; second model has major issues with overall structure and doesn't match the prompt's style"
+    },
+    {
+      "name": "eecaa6a3c9b6e4ce88bef44cf13b424ffc56c7675c4c0d8e0cdf152eb90df442",
+      "prompt": "https://sn12domain.org/eecaa6a3c9b6e4ce88bef44cf13b424ffc56c7675c4c0d8e0cdf152eb90df442.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/eecaa6a3c9b6e4ce88bef44cf13b424ffc56c7675c4c0d8e0cdf152eb90df442.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/eecaa6a3c9b6e4ce88bef44cf13b424ffc56c7675c4c0d8e0cdf152eb90df442.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/eecaa6a3c9b6e4ce88bef44cf13b424ffc56c7675c4c0d8e0cdf152eb90df442.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/eecaa6a3c9b6e4ce88bef44cf13b424ffc56c7675c4c0d8e0cdf152eb90df442.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and slightly different wood texture; second model has more significant style differences and less detailed wood texture"
+    },
+    {
+      "name": "ef7a74a1ae73f987a7513b20ae2eab83e6622187f700a41115ea46b386d6fa1a",
+      "prompt": "https://sn12domain.org/ef7a74a1ae73f987a7513b20ae2eab83e6622187f700a41115ea46b386d6fa1a.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ef7a74a1ae73f987a7513b20ae2eab83e6622187f700a41115ea46b386d6fa1a.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ef7a74a1ae73f987a7513b20ae2eab83e6622187f700a41115ea46b386d6fa1a.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ef7a74a1ae73f987a7513b20ae2eab83e6622187f700a41115ea46b386d6fa1a.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ef7a74a1ae73f987a7513b20ae2eab83e6622187f700a41115ea46b386d6fa1a.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and background issues; second model has moderate style and detail issues with added platform"
+    },
+    {
+      "name": "f0c721f7521b055ff7b02052634d33210965e929cb290b2fa119f71ff7f1dc83",
+      "prompt": "https://sn12domain.org/f0c721f7521b055ff7b02052634d33210965e929cb290b2fa119f71ff7f1dc83.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f0c721f7521b055ff7b02052634d33210965e929cb290b2fa119f71ff7f1dc83.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f0c721f7521b055ff7b02052634d33210965e929cb290b2fa119f71ff7f1dc83.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f0c721f7521b055ff7b02052634d33210965e929cb290b2fa119f71ff7f1dc83.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f0c721f7521b055ff7b02052634d33210965e929cb290b2fa119f71ff7f1dc83.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and some detail variations; second model has more significant style and detail differences"
+    },
+    {
+      "name": "f242311d4542636364dc4d18e777e904e647c713df24624273ffe095b92c2316",
+      "prompt": "https://sn12domain.org/f242311d4542636364dc4d18e777e904e647c713df24624273ffe095b92c2316.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f242311d4542636364dc4d18e777e904e647c713df24624273ffe095b92c2316.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f242311d4542636364dc4d18e777e904e647c713df24624273ffe095b92c2316.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f242311d4542636364dc4d18e777e904e647c713df24624273ffe095b92c2316.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f242311d4542636364dc4d18e777e904e647c713df24624273ffe095b92c2316.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and some detail variations; second model has more significant style and detail differences"
+    },
+    {
+      "name": "f2aae451-68ba-427d-aadf-ac2b42b84a5d",
+      "prompt": "https://sn12domain.org/f2aae451-68ba-427d-aadf-ac2b42b84a5d.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f2aae451-68ba-427d-aadf-ac2b42b84a5d.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f2aae451-68ba-427d-aadf-ac2b42b84a5d.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f2aae451-68ba-427d-aadf-ac2b42b84a5d.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f2aae451-68ba-427d-aadf-ac2b42b84a5d.png",
+      "winner": "draw",
+      "issues": "First model has minor detail differences (missing some architectural details, lighting), second model has major issues (style, missing key elements, overall structure)"
+    },
+    {
+      "name": "f3839f4d383ab25f0a63c95848ee3dd1bc6206983abd343b84745cd0cae0c7a1",
+      "prompt": "https://sn12domain.org/f3839f4d383ab25f0a63c95848ee3dd1bc6206983abd343b84745cd0cae0c7a1.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f3839f4d383ab25f0a63c95848ee3dd1bc6206983abd343b84745cd0cae0c7a1.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f3839f4d383ab25f0a63c95848ee3dd1bc6206983abd343b84745cd0cae0c7a1.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f3839f4d383ab25f0a63c95848ee3dd1bc6206983abd343b84745cd0cae0c7a1.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f3839f4d383ab25f0a63c95848ee3dd1bc6206983abd343b84745cd0cae0c7a1.png",
+      "winner": "leader",
+      "issues": "First model has minor shape differences and missing small details; second model has major issues with visibility and content matching"
+    },
+    {
+      "name": "f7eae4763b0f0a9e5fe6787d164deb773c585636277e3c5ef824b61b1a51f9ce",
+      "prompt": "https://sn12domain.org/f7eae4763b0f0a9e5fe6787d164deb773c585636277e3c5ef824b61b1a51f9ce.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f7eae4763b0f0a9e5fe6787d164deb773c585636277e3c5ef824b61b1a51f9ce.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f7eae4763b0f0a9e5fe6787d164deb773c585636277e3c5ef824b61b1a51f9ce.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f7eae4763b0f0a9e5fe6787d164deb773c585636277e3c5ef824b61b1a51f9ce.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f7eae4763b0f0a9e5fe6787d164deb773c585636277e3c5ef824b61b1a51f9ce.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details; second model has moderate issues with style and significant details missing"
+    },
+    {
+      "name": "f958fa0186ac207a2858e72563e45bdad849fe24893215e708c823cc35024ed6",
+      "prompt": "https://sn12domain.org/f958fa0186ac207a2858e72563e45bdad849fe24893215e708c823cc35024ed6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f958fa0186ac207a2858e72563e45bdad849fe24893215e708c823cc35024ed6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f958fa0186ac207a2858e72563e45bdad849fe24893215e708c823cc35024ed6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f958fa0186ac207a2858e72563e45bdad849fe24893215e708c823cc35024ed6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f958fa0186ac207a2858e72563e45bdad849fe24893215e708c823cc35024ed6.png",
+      "winner": "miner",
+      "issues": "First model lacks the textured base from the prompt; second model has better base matching but still has some detail differences in the giraffe's texture and lighting compared to the prompt."
+    },
+    {
+      "name": "f97f6f2ff9d68db400aeac810022d52308bb91afabfa2ef6df390c8eb1383dce",
+      "prompt": "https://sn12domain.org/f97f6f2ff9d68db400aeac810022d52308bb91afabfa2ef6df390c8eb1383dce.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f97f6f2ff9d68db400aeac810022d52308bb91afabfa2ef6df390c8eb1383dce.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/f97f6f2ff9d68db400aeac810022d52308bb91afabfa2ef6df390c8eb1383dce.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f97f6f2ff9d68db400aeac810022d52308bb91afabfa2ef6df390c8eb1383dce.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/f97f6f2ff9d68db400aeac810022d52308bb91afabfa2ef6df390c8eb1383dce.png",
+      "winner": "leader",
+      "issues": "First model has minor shape and detail differences; second model has major issues with visibility and style matching"
+    },
+    {
+      "name": "fb99ec66676f56b5b905b1859db0bc2ea430658fb66903faac86243cdff29ba6",
+      "prompt": "https://sn12domain.org/fb99ec66676f56b5b905b1859db0bc2ea430658fb66903faac86243cdff29ba6.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fb99ec66676f56b5b905b1859db0bc2ea430658fb66903faac86243cdff29ba6.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fb99ec66676f56b5b905b1859db0bc2ea430658fb66903faac86243cdff29ba6.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fb99ec66676f56b5b905b1859db0bc2ea430658fb66903faac86243cdff29ba6.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fb99ec66676f56b5b905b1859db0bc2ea430658fb66903faac86243cdff29ba6.png",
+      "winner": "draw",
+      "issues": "First model has minor shape differences and missing small details compared to prompt. Second model has moderate issues with button style and overall shape matching."
+    },
+    {
+      "name": "fca85849566cc429cae223973735ac053b3379a85acc090d3b07bbcbfab4a857",
+      "prompt": "https://sn12domain.org/fca85849566cc429cae223973735ac053b3379a85acc090d3b07bbcbfab4a857.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fca85849566cc429cae223973735ac053b3379a85acc090d3b07bbcbfab4a857.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fca85849566cc429cae223973735ac053b3379a85acc090d3b07bbcbfab4a857.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fca85849566cc429cae223973735ac053b3379a85acc090d3b07bbcbfab4a857.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fca85849566cc429cae223973735ac053b3379a85acc090d3b07bbcbfab4a857.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing small details like the specific design of the pointer and inscriptions. Second model has major issues with style and background, with significant deviations from the original's detailed appearance and realistic lighting."
+    },
+    {
+      "name": "fcf0a2f886e85566431b376dc1a16925188bc8860f055021d7af5091a7206817",
+      "prompt": "https://sn12domain.org/fcf0a2f886e85566431b376dc1a16925188bc8860f055021d7af5091a7206817.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fcf0a2f886e85566431b376dc1a16925188bc8860f055021d7af5091a7206817.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fcf0a2f886e85566431b376dc1a16925188bc8860f055021d7af5091a7206817.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fcf0a2f886e85566431b376dc1a16925188bc8860f055021d7af5091a7206817.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fcf0a2f886e85566431b376dc1a16925188bc8860f055021d7af5091a7206817.png",
+      "winner": "leader",
+      "issues": "First model has some shape differences and missing details compared to prompt, second model has major issues with style and structure"
+    },
+    {
+      "name": "fe6440bf-a939-424f-989f-db156a34a150",
+      "prompt": "https://sn12domain.org/fe6440bf-a939-424f-989f-db156a34a150.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fe6440bf-a939-424f-989f-db156a34a150.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fe6440bf-a939-424f-989f-db156a34a150.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fe6440bf-a939-424f-989f-db156a34a150.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fe6440bf-a939-424f-989f-db156a34a150.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and logo changes; second model has major style and detail issues"
+    },
+    {
+      "name": "ff8d80163ccd0fd8ca57b9411de2de03b1c061d3e730f475870529825874804f",
+      "prompt": "https://sn12domain.org/ff8d80163ccd0fd8ca57b9411de2de03b1c061d3e730f475870529825874804f.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ff8d80163ccd0fd8ca57b9411de2de03b1c061d3e730f475870529825874804f.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/ff8d80163ccd0fd8ca57b9411de2de03b1c061d3e730f475870529825874804f.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ff8d80163ccd0fd8ca57b9411de2de03b1c061d3e730f475870529825874804f.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/ff8d80163ccd0fd8ca57b9411de2de03b1c061d3e730f475870529825874804f.png",
+      "winner": "draw",
+      "issues": "First model has similar floral pattern but slightly different shape and lighting; second model has different color balance and less detailed floral pattern"
+    },
+    {
+      "name": "fffa1d42-6004-4b07-bc2e-a4c4610b2c15",
+      "prompt": "https://sn12domain.org/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.png",
+      "leader_ply": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.ply",
+      "leader_png": "https://subnet404.xyz/rounds/13/5FyTwpLREct86LHeYVC9S15awimcjpzWhQ4o9pgjPnHMFD8f/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.png",
+      "miner_ply": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.ply",
+      "miner_png": "https://subnet404.xyz/rounds/13/5C7zfccQZanH4o5PUhkSMxhnDiHQe1AVDHFVVRLesb6u2MkG/fffa1d42-6004-4b07-bc2e-a4c4610b2c15.png",
+      "winner": "draw",
+      "issues": "First model has some shape differences and missing small details; second model has major issues with style and details"
+    }
+  ]
+}
