@@ -20,7 +20,7 @@
     "commit": "d3a8c6a3e45dd8d1d6cd41b8221d85e118be0607",
     "revealed_at_block": 7269049,
     "tag": "d3a8c6a-contest-14",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DMGiRs5XvJZE6hnWa3hNS4eYTXkpRKfzSbg348h2jZ88kZF": {
@@ -420,7 +420,7 @@
     "commit": "05becfa3df55f5d91c923faeb13ef9e3caf27fd9",
     "revealed_at_block": 7285813,
     "tag": "05becfa-contest-14",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5F9HuKKfoMiPdLkAzGYvBEAEeRFLQmDBEKU2yjSgMAKUedby": {
@@ -588,7 +588,7 @@
     "commit": "df5d5362c21068e7bbef3dcb04be2de808f56a5c",
     "revealed_at_block": 7289637,
     "tag": "df5d536-contest-14",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EfQh8LmGaN8FycByZ5P3DtKMnCsokyR5x8UzbMu6iWuCkiV": {
@@ -700,8 +700,8 @@
     "commit": "70164840d6ee8335146fc09b9f98fa680082fee1",
     "revealed_at_block": 7289923,
     "tag": "7016484-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ezj2iavwp:7016484-contest-14"
   },
   "5DG1Mn5giV7A9kCbqK999GuUQq5cpqVX9qYiSArk96YLgLfg": {
     "repo": "itwm13/NextGen3Dup",
@@ -868,7 +868,7 @@
     "commit": "fd8515f2604240b2574f4130d0f6010b58af9398",
     "revealed_at_block": 7290619,
     "tag": "fd8515f-contest-14",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Fk4aYBsBR5ATVyphviCMNEerYrcfUgDKcag9by9BpmEYvsF": {
