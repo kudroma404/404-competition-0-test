@@ -12,8 +12,8 @@
     "commit": "ef02294ede906865a9c49f288552730c9fa3d583",
     "revealed_at_block": 7269048,
     "tag": "ef02294-contest-14",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hjdxk6yrj:ef02294-contest-14"
   },
   "5EvdKS8MohWnpqnL81pfrTYNbA72BNmwnhsqZwJPHYnNjEay": {
     "repo": "Uglejo/literate-octo-carnival",
@@ -92,8 +92,8 @@
     "commit": "52b11a35663cf9839a3dc19f33cad3812c515c59",
     "revealed_at_block": 7269053,
     "tag": "52b11a3-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hjcsufkfu:52b11a3-contest-14"
   },
   "5HU3ytPKU6kUwH8Fk7BwrKhk4k41NqJ7zT7updCWyoxf8oht": {
     "repo": "TuttiGenerator/bug-free",
@@ -316,7 +316,7 @@
     "commit": "c2309d6ab7227bed06053880992f241d13111c09",
     "revealed_at_block": 7269240,
     "tag": "c2309d6-contest-14",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FW8yj6HLbrn3p1ky1iSJC2Lo33y3L2uteUVPQviFFYRzXPr": {
@@ -364,7 +364,7 @@
     "commit": "23604de18cf7b33894de47de4c60a0c4f2b4ae9c",
     "revealed_at_block": 7269992,
     "tag": "23604de-contest-14",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5GNhgi3UaZzXNv1LbV2Wqqm7qLaAFayjUcR3L2aJsRmnU6eg": {
@@ -476,8 +476,8 @@
     "commit": "7fa3a85155cc8448abaf0f1827335180b44ce9b3",
     "revealed_at_block": 7288101,
     "tag": "7fa3a85-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5htmujxdvw:7fa3a85-contest-14"
   },
   "5H8ophuGFmq1H1uZ1RrReQ5ZrJWr9LgVppzK9ZrsTNfAJEx4": {
     "repo": "itwm13/i3Dxow2",
@@ -524,8 +524,8 @@
     "commit": "33fee15cc5bcbabbb86e5898367f34b518d33159",
     "revealed_at_block": 7288323,
     "tag": "33fee15-contest-14",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpnp2uqmp:33fee15-contest-14"
   },
   "5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX": {
     "repo": "itwm13/NextGen3Dv2-1",
@@ -740,8 +740,8 @@
     "commit": "0568ce40c772bb9bd446e47a8a9954966aafbb48",
     "revealed_at_block": 7290195,
     "tag": "0568ce4-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gnesltv7m:0568ce4-contest-14"
   },
   "5C7kxmHS95BNbW6teEEXMCLddkbU7bYKWKBoGKToHoamMrfm": {
     "repo": "ripe-banana-11/refactored-spoon",
@@ -804,7 +804,7 @@
     "commit": "72a162b0a8613742d937f980ce6999ebbf22bdad",
     "revealed_at_block": 7290560,
     "tag": "72a162b-contest-14",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HJvp6ZSTt9qV3sLnrwqsmQX4AibV2WcyzERxGz9qo87hcGq": {
@@ -860,8 +860,8 @@
     "commit": "282bdef936d6e28e36e45df3c0e5c1214a3aef75",
     "revealed_at_block": 7290615,
     "tag": "282bdef-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hyawnnryc:282bdef-contest-14"
   },
   "5Ew9jkCxSkGDeBJgjXZNJbmQhLrFuKZBjCx3oAhF755GubvH": {
     "repo": "yuriai96/attempt-01",
