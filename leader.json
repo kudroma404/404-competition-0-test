@@ -110,5 +110,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:97f5a7e-test1-0",
     "weight": 1.0,
     "effective_block": 7269047
+  },
+  {
+    "hotkey": "5CY721q4tEGRXPHA4yFwYgBu6fTpYDyiZ99f5pVEtHH517vN",
+    "repo": "jyotinayarman/goat-ca-re-clean",
+    "commit": "47f0cbceca33574349463a0c4d9b5992b91b0eba",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5cy721q4te:47f0cbc-contest-13",
+    "weight": 1.0,
+    "effective_block": 7290635
   }
 ]
