@@ -108,8 +108,8 @@
     "commit": "eed19a276b1c46abafab5ba191aae36886855611",
     "revealed_at_block": 7269072,
     "tag": "eed19a2-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hqnc4y3nq:eed19a2-contest-14"
   },
   "5GTHnU4xjcpmtGZ9fgGkYjeAiVM7DC9fRVyYhbBZGjeGXN2x": {
     "repo": "TuttiGenerator/ironfox-lab",
@@ -316,8 +316,8 @@
     "commit": "c2309d6ab7227bed06053880992f241d13111c09",
     "revealed_at_block": 7269240,
     "tag": "c2309d6-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpoxqamjx:c2309d6-contest-14"
   },
   "5FW8yj6HLbrn3p1ky1iSJC2Lo33y3L2uteUVPQviFFYRzXPr": {
     "repo": "jakalbill922-bot/404-jakalbill922-21",
@@ -612,8 +612,8 @@
     "commit": "745b8de64576b195fc64c0e826cdfb12dbdbea93",
     "revealed_at_block": 7289651,
     "tag": "745b8de-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgbyfpa3l:745b8de-contest-14"
   },
   "5EWiTPJqvTY9ug5SQjp17yAtbjdMZzxUCZBVGMLtUtgUk4Z2": {
     "repo": "jakalbill922-bot/404-jakalbill922-05",
@@ -756,8 +756,8 @@
     "commit": "c778c50e7b3358b2cf4e128094fd3e037282e764",
     "revealed_at_block": 7290238,
     "tag": "c778c50-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hbt83fzbk:c778c50-contest-14"
   },
   "5DvfxsGDDAMZgFCeBFhmBFB7QJgT9Por4YPbR8ddPeGSQnEC": {
     "repo": "ripe-banana-11/didactic-winner",
@@ -772,8 +772,8 @@
     "commit": "d06b9bee26ac677a1d484cad88f40227f88696e2",
     "revealed_at_block": 7290290,
     "tag": "d06b9be-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gt5kphuun:d06b9be-contest-14"
   },
   "5EhiYyyykK5oPyhVxGEtn7KziadcnHUpViBJz7DS3JLqmAsc": {
     "repo": "ripe-banana-11/miniature-octo-system",
