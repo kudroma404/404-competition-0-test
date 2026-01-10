@@ -396,8 +396,8 @@
     "commit": "ad96b06205c958c62f47a4187668799d267e94e3",
     "revealed_at_block": 7284389,
     "tag": "ad96b06-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hbaf9aejn:ad96b06-contest-14"
   },
   "5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk": {
     "repo": "tao-hunter/crispy-octo-enigma",
