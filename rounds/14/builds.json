@@ -804,8 +804,8 @@
     "commit": "72a162b0a8613742d937f980ce6999ebbf22bdad",
     "revealed_at_block": 7290560,
     "tag": "72a162b-contest-14",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hmgvbapwh:72a162b-contest-14"
   },
   "5HJvp6ZSTt9qV3sLnrwqsmQX4AibV2WcyzERxGz9qo87hcGq": {
     "repo": "mokabetrade/pineapple-on-pizza",
