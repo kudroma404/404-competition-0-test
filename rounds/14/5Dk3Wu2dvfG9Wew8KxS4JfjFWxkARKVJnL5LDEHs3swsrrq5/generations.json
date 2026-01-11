@@ -70,5 +70,17 @@
     "png": "https://subnet404.xyz/rounds/14/5Dk3Wu2dvfG9Wew8KxS4JfjFWxkARKVJnL5LDEHs3swsrrq5/a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0.png",
     "generation_time": 158.04402673686855,
     "size": 27748768
+  },
+  "bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47": {
+    "ply": "https://subnet404.xyz/rounds/14/5Dk3Wu2dvfG9Wew8KxS4JfjFWxkARKVJnL5LDEHs3swsrrq5/bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47.ply",
+    "png": "https://subnet404.xyz/rounds/14/5Dk3Wu2dvfG9Wew8KxS4JfjFWxkARKVJnL5LDEHs3swsrrq5/bde166eae9a467e70699be378dfd90814e7fa9637899667631fd2729fb7bdf47.png",
+    "generation_time": 153.5573390708305,
+    "size": 7940640
+  },
+  "d8097d68ecbe9b949625a9d78807682f511ce9ad7bf351ee7f2c4973c1b10ddf": {
+    "ply": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0
   }
 }
