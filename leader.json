@@ -118,5 +118,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5cy721q4te:47f0cbc-contest-13",
     "weight": 0.01,
     "effective_block": 7290635
+  },
+  {
+    "hotkey": "5GnESLTv7mVY1hb6uNg1jrXZEFixXxHudNuoE3DrFbhRx8qo",
+    "repo": "ripe-banana-11/refactored-spoon",
+    "commit": "0568ce40c772bb9bd446e47a8a9954966aafbb48",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5gnesltv7m:0568ce4-contest-14",
+    "weight": 1.0,
+    "effective_block": 7312235
   }
 ]
