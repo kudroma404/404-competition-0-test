@@ -180,8 +180,8 @@
     "commit": "db81277af19a7e9a04764ac931a757e5331bf158",
     "revealed_at_block": 7304074,
     "tag": "db81277-contest-15",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ebm5crfaz:db81277-contest-15"
   },
   "5HTMujxdVwf78DNbnLY8dAqyQLykd2mdSzZg47iA2Xs8NmTi": {
     "repo": "itwm13/3DxGen",
@@ -724,7 +724,7 @@
     "commit": "fe7d6c473848639e2f56179af4a137cf847e8224",
     "revealed_at_block": 7306309,
     "tag": "fe7d6c4-contest-15",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Dh7KUSNUPMRVfqjrwkWsFw4myLLH1omZFhqw1kQEz8AtnCX": {
@@ -756,8 +756,8 @@
     "commit": "49bc433c8e630a109cfa1d51aad76705891597cc",
     "revealed_at_block": 7306425,
     "tag": "49bc433-contest-15",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eu8w8ieb6:49bc433-contest-15"
   },
   "5HbbeFmHMrLJ42mWiaUdUCoPmdiqVSLeLosmPaE36Kc1ud9V": {
     "repo": "jakalbill922-bot/404-jakalbill922-08",
@@ -1148,7 +1148,7 @@
     "commit": "94567bac72683e78f06a4fff002ae42e4137cffa",
     "revealed_at_block": 7310675,
     "tag": "94567ba-contest-15",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HoziLX7BXqjgkHSigaf2S3iKoMi4mfXwXMgwQjNLigkFVyw": {
@@ -1196,8 +1196,8 @@
     "commit": "642f191f4a7c37772e9472e087156b29b0d5322c",
     "revealed_at_block": 7311379,
     "tag": "642f191-contest-15",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eqhgdbh1d:642f191-contest-15"
   },
   "5EFb9eWtRsdLtCKHPxrWxcFJnyMAVFDFFbsjHgTbEcb9WFJ3": {
     "repo": "manbeast3b/light-botall",
