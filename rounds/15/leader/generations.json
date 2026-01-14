@@ -226,5 +226,17 @@
     "png": "https://subnet404.xyz/rounds/15/leader/9c6df3b2c14e9a312d3236417e1aea3aab531b70c487edfd1eeeee2fabbc79d2.png",
     "generation_time": 30.230217105941847,
     "size": 34243690
+  },
+  "2229cf5f-955c-4bc2-91c3-df9255a1c01d": {
+    "ply": "https://subnet404.xyz/rounds/15/leader/2229cf5f-955c-4bc2-91c3-df9255a1c01d.ply",
+    "png": "https://subnet404.xyz/rounds/15/leader/2229cf5f-955c-4bc2-91c3-df9255a1c01d.png",
+    "generation_time": 28.355393388075754,
+    "size": 18730346
+  },
+  "ddb84762-9c7f-4fca-9cb4-1701afe092cf": {
+    "ply": "https://subnet404.xyz/rounds/15/leader/ddb84762-9c7f-4fca-9cb4-1701afe092cf.ply",
+    "png": "https://subnet404.xyz/rounds/15/leader/ddb84762-9c7f-4fca-9cb4-1701afe092cf.png",
+    "generation_time": 33.56461183913052,
+    "size": 20552810
   }
 }
