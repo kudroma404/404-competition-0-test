@@ -448,5 +448,29 @@
     "png": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/83ea0111c8c72713103038446b32fcdfed1277ea04e81200bb1ca135b8857fdf.png",
     "generation_time": 22.86303659598343,
     "size": 24142186
+  },
+  "49f2c1e9eb3783ce783c091e01e37d69981a5dad959a2a9591a2656be572ba8c": {
+    "ply": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/49f2c1e9eb3783ce783c091e01e37d69981a5dad959a2a9591a2656be572ba8c.ply",
+    "png": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/49f2c1e9eb3783ce783c091e01e37d69981a5dad959a2a9591a2656be572ba8c.png",
+    "generation_time": 22.46115936199203,
+    "size": 17436522
+  },
+  "75c982913b66531d78836a52214ef9e55252a8ba0ae3f508961bfcd0cdc54183": {
+    "ply": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/75c982913b66531d78836a52214ef9e55252a8ba0ae3f508961bfcd0cdc54183.ply",
+    "png": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/75c982913b66531d78836a52214ef9e55252a8ba0ae3f508961bfcd0cdc54183.png",
+    "generation_time": 24.396115734009072,
+    "size": 49504362
+  },
+  "cc410a9c-5035-41cb-a29b-3e1e306ede87": {
+    "ply": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/cc410a9c-5035-41cb-a29b-3e1e306ede87.ply",
+    "png": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/cc410a9c-5035-41cb-a29b-3e1e306ede87.png",
+    "generation_time": 22.96197994798422,
+    "size": 39904618
+  },
+  "db16d4d8e9a092f7de55cd04ae3227b47fe769e3b0344deec40ce38a7008b62c": {
+    "ply": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/db16d4d8e9a092f7de55cd04ae3227b47fe769e3b0344deec40ce38a7008b62c.ply",
+    "png": "https://subnet404.xyz/rounds/15/5F4Ka5Ug8mWbZFRQtijqp1xjibkXcWn4fU7mfBjGUAykpbz1/db16d4d8e9a092f7de55cd04ae3227b47fe769e3b0344deec40ce38a7008b62c.png",
+    "generation_time": 22.536640878999606,
+    "size": 16594282
   }
 }
