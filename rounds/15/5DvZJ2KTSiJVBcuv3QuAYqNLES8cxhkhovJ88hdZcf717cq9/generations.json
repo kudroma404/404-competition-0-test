@@ -128,7 +128,55 @@
   "11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e": {
     "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e.ply",
     "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/11a138bc419e5e61e904389c6bb5bcb9fede49a7873ad37316667f96abc9212e.png",
-    "generation_time": 48.487352075986564,
-    "size": 31292266
+    "generation_time": 64.73390013398603,
+    "size": 33741930
+  },
+  "3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547": {
+    "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/3e743f77623f822d1f1f0264f823576aa8a20bd7344ba0dce92ef8ac63a82547.png",
+    "generation_time": 25.2315457588993,
+    "size": 57369451
+  },
+  "124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0": {
+    "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/124417db16e4b1b349178621cc957bdc1983431cb019b44ae7d8515a7f6242f0.png",
+    "generation_time": 70.01025816891342,
+    "size": 15001194
+  },
+  "0d1c433bf80c45138f3d795b61a08300b63590a6305b65ac945d46df70e80528": {
+    "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/0d1c433bf80c45138f3d795b61a08300b63590a6305b65ac945d46df70e80528.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/0d1c433bf80c45138f3d795b61a08300b63590a6305b65ac945d46df70e80528.png",
+    "generation_time": 22.86395587096922,
+    "size": 33195370
+  },
+  "24553772-96b9-4c11-a880-56d125634a7a": {
+    "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/24553772-96b9-4c11-a880-56d125634a7a.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/24553772-96b9-4c11-a880-56d125634a7a.png",
+    "generation_time": 51.226192550035194,
+    "size": 33842282
+  },
+  "44ff32bf-1a77-4e7e-b45a-d8778393748a": {
+    "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/44ff32bf-1a77-4e7e-b45a-d8778393748a.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/44ff32bf-1a77-4e7e-b45a-d8778393748a.png",
+    "generation_time": 30.469688611105084,
+    "size": 4611177
+  },
+  "14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce": {
+    "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/14f80504c56effdd9bca0a1b6e5227c0083bde89fc874d5c45dc3390cf01e3ce.png",
+    "generation_time": 13.422369058942422,
+    "size": 15522666
+  },
+  "a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0": {
+    "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/a77062a2d0222debdbd68d33e96865cda4df9ac6a18d9f0a507033a9c79002e0.png",
+    "generation_time": 16.398823790019378,
+    "size": 23258730
+  },
+  "dc76c52f5259be5b192a7dd5dc8c95ad2414582d29b8c5d6330a0a2a22fa9355": {
+    "ply": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/dc76c52f5259be5b192a7dd5dc8c95ad2414582d29b8c5d6330a0a2a22fa9355.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvZJ2KTSiJVBcuv3QuAYqNLES8cxhkhovJ88hdZcf717cq9/dc76c52f5259be5b192a7dd5dc8c95ad2414582d29b8c5d6330a0a2a22fa9355.png",
+    "generation_time": 34.72717066016048,
+    "size": 66591083
   }
 }
