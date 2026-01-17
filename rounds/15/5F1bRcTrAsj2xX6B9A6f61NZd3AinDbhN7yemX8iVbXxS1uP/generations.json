@@ -622,5 +622,17 @@
     "png": "https://subnet404.xyz/rounds/15/5F1bRcTrAsj2xX6B9A6f61NZd3AinDbhN7yemX8iVbXxS1uP/78dfae2b08cf82fb1bdd06a068b88005c7a035c785d9e364c0125f1ad6309396.png",
     "generation_time": 27.603055723011494,
     "size": 5078889
+  },
+  "ef6f8c935be18609c74012f735192e02c7b1280df29f0d46d1a1f6f02bb4deb6": {
+    "ply": "https://subnet404.xyz/rounds/15/5F1bRcTrAsj2xX6B9A6f61NZd3AinDbhN7yemX8iVbXxS1uP/ef6f8c935be18609c74012f735192e02c7b1280df29f0d46d1a1f6f02bb4deb6.ply",
+    "png": "https://subnet404.xyz/rounds/15/5F1bRcTrAsj2xX6B9A6f61NZd3AinDbhN7yemX8iVbXxS1uP/ef6f8c935be18609c74012f735192e02c7b1280df29f0d46d1a1f6f02bb4deb6.png",
+    "generation_time": 32.88028331915848,
+    "size": 11682410
+  },
+  "22f7e2b1-c580-49ae-b8d6-20d1040cbe45": {
+    "ply": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0
   }
 }
