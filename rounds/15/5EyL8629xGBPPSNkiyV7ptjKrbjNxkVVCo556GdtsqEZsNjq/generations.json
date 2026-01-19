@@ -712,5 +712,11 @@
     "png": null,
     "generation_time": 0.0,
     "size": 0
+  },
+  "de719fd59301c17099a8e96f168a45f9d6b66ae903eb44574b90b0b8c2e0a059": {
+    "ply": "https://subnet404.xyz/rounds/15/5EyL8629xGBPPSNkiyV7ptjKrbjNxkVVCo556GdtsqEZsNjq/de719fd59301c17099a8e96f168a45f9d6b66ae903eb44574b90b0b8c2e0a059.ply",
+    "png": "https://subnet404.xyz/rounds/15/5EyL8629xGBPPSNkiyV7ptjKrbjNxkVVCo556GdtsqEZsNjq/de719fd59301c17099a8e96f168a45f9d6b66ae903eb44574b90b0b8c2e0a059.png",
+    "generation_time": 100.68673238088377,
+    "size": 43085418
   }
 }
