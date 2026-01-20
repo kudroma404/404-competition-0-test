@@ -1,4 +1,5 @@
 {
   "current_round": 15,
-  "stage": "collecting"
+  "stage": "generating",
+  "generation_deadline": 1768927360
 }
